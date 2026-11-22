@@ -1,0 +1,419 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "Wood_lvl1_Wall",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Wall",
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'Wood'",
+        "ObjectPath": "/Game/FortressPhysicalMaterials/Wood.0"
+      },
+      "Parent": {
+        "ObjectName": "Material'Builder_2'",
+        "ObjectPath": "/Game/Packages/Fortnite_UniqueMaterials_1/Builder_2.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "bOverridePhysMaterial": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "3DAnimationProgress",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 10.0,
+          "ExpressionGUID": "08ADBF30-44F3220B-2AC82EB7-425F87EB"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BreakAnim",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "B81CB6E0-404CC92B-49A7E08C-08EA656B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BuildAnimPhase",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 16.92864,
+          "ExpressionGUID": "EBE5CE1F-4255FA25-0685C3A5-3E1013E7"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Effect of Random Value on Rotation Amounts",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "D37CBFDD-44BD56E8-A3610EB5-28593654"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "NumberOfRotations",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "DC7FD928-4D51A143-48055F98-F2B95B04"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "outwardMotion(WS)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -300.0,
+          "ExpressionGUID": "6ECADAF5-4E47A78C-9F88A685-F185A9EA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Random Axis Rotation Amount",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.5,
+          "ExpressionGUID": "E214BDFE-47113B58-E5090B81-17D20113"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SecondaryMotionFalloff",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -2651.119,
+          "ExpressionGUID": "A69A69F4-4E5E0792-A9BAC7A3-DA998061"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "TargetBreakNumber",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "D5ACC5B7-48808515-1F7ADC92-8ACA5CEA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "TotalNumberOfSubObjects",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 50.0,
+          "ExpressionGUID": "46EBCB88-4E997A77-A047819B-FDD137DD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Gradient offset Position Lower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -64.0,
+          "ExpressionGUID": "91391E32-4E8EDA79-42F5A1BF-9D8B0685"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SpecRoughnessMax",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.95,
+          "ExpressionGUID": "856DC2B1-440C6C48-E0B17A8B-F9D89614"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SpecRoughnessMin",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.25,
+          "ExpressionGUID": "87B260CB-459DBD8F-D2C662A9-7803D648"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "BuildWSStartLocation",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 2696.0,
+            "G": -10824.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF0000"
+          },
+          "ExpressionGUID": "5A178E3C-4231E8DC-3A91FF83-68B7B3BE"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Blueprint_Outline_Texture_Channel",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "00FF00"
+          },
+          "ExpressionGUID": "1E5E6A08-4BD5F342-5DB399B6-DFB5388C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Blueprint_Outline_Texture_Channel2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "00FF00"
+          },
+          "ExpressionGUID": "5046F082-4C7B5073-2EFDD6A3-A1B3F8CB"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "OutwardMotionVector",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 200.0,
+            "G": 200.0,
+            "B": 600.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "04B74B72-4C7C1675-1ABC6FB9-1AB69E25"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Pivot Offset for Offset Vector (Local Space)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": -1024.0,
+            "A": 1.0,
+            "Hex": "000000"
+          },
+          "ExpressionGUID": "4C236497-4A763C82-6D273196-2FBAD12D"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "FormingTextureColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 0.7904928,
+            "B": 0.5851023,
+            "A": 1.0,
+            "Hex": "FFE6C9"
+          },
+          "ExpressionGUID": "C8E8C2DD-4480E34D-DB2DD1AA-899ED44D"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SpecularMasks_FormingProperties",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.5,
+            "G": 0.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "BC00FF"
+          },
+          "ExpressionGUID": "7D876306-4627CFF9-9E6208BA-1EC4E9E7"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Blueprint_Outline_Texture",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'BluePrintTexture02'",
+            "ObjectPath": "/Game/Packages/Fortress_SharedMaterials/BluePrintTexture02.0"
+          },
+          "ExpressionGUID": "9C7D941E-4CDA94D6-B5DCCF84-C7D06881"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Diffuse",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_PBW_W1_D'",
+            "ObjectPath": "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_D.0"
+          },
+          "ExpressionGUID": "1AFB7D9F-43591A25-3EBF6CA7-A277B9E9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "NormalMap",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_PBW_W1_N'",
+            "ObjectPath": "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_N.0"
+          },
+          "ExpressionGUID": "2DC5658F-4288867F-648C7BA1-5937A6CD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SpecularMasks",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_PBW_W1_S'",
+            "ObjectPath": "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_S.0"
+          },
+          "ExpressionGUID": "1D2904B2-40CC06C8-51044A9B-414FE786"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "bOverride_TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333,
+        "UsageFlags": 4456448
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "3dAnimationBuild",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "74329761-497C9D8A-8BD05EAD-2C23093D"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Builder Material",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "A4A2C8F0-40590D9D-F9D07E81-41C3924A"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "debug build motion",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "D7409740-474E02D5-7633E884-96FAFEB1"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Walls True Floors False",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "5690C9F8-49C919F6-FBA230BC-39E658F2"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Use multiple diffuse textures",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "D07A17D5-45CEF96A-19813991-282710B5"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseNormalMap",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "6E818EAD-40A345F7-BBEB7891-9C9E8A27"
+          }
+        ]
+      },
+      "ReferencedDefaultTextures": [
+        {
+          "ObjectName": "Texture2D'T_PhaseSquare'",
+          "ObjectPath": "/Game/Packages/Fortnite_UniqueMaterials_1/T_PhaseSquare.0"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "ObjectName": "Texture2D'T_Teleporter_GridSquares_01'",
+          "ObjectPath": "/Game/Gadgets/Assets/Teleporter/Textures/T_Teleporter_GridSquares_01.0"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

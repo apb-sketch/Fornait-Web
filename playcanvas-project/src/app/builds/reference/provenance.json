@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/builds/reference",
+  "entries": [
+    {
+      "file": "S_BlueprintSlab_Floor.json",
+      "bytes": 15335,
+      "sha256": "3f5119cae253b70391a7053edb39e0e11b137384f0a1b0d0fb6631f47da4c4e0",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor.uasset",
+          "kind": "paquete",
+          "dumpLine": 156,
+          "dumpByteOffset": 271289,
+          "dumpRowBytes": 6644,
+          "dumpRowSha256": "53a1245ed82bab937c09bbb3937e1f52583aee89139b46c9dbd2efd491da2dc9",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_0",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "S_BlueprintSlab_Floor",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "RB_BodySetup_0",
+          "type": "BodySetup",
+          "package": null,
+          "exportFields": [
+            "BodySetupGuid",
+            "Class",
+            "CookedFormatData",
+            "Flags",
+            "Name",
+            "Outer",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "AggGeom",
+            "DefaultInstance"
+          ]
+        },
+        {
+          "name": "S_BlueprintSlab_Floor",
+          "type": "StaticMesh",
+          "package": "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor",
+          "exportFields": [
+            "BodySetup",
+            "Class",
+            "Flags",
+            "LightingGuid",
+            "Name",
+            "NavCollision",
+            "Package",
+            "Properties",
+            "RenderData",
+            "Type"
+          ],
+          "propertyNames": [
+            "ExtendedBounds",
+            "LightMapResolution",
+            "LightmapUVDensity",
+            "StaticMaterials"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "S_BlueprintSlab_Wall.json",
+      "bytes": 15197,
+      "sha256": "1deb2068a674b1f56e5301c2749d2314a8fa3180ff0fbb5ee632cb8a41f21712",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Wall.uasset",
+          "kind": "paquete",
+          "dumpLine": 158,
+          "dumpByteOffset": 278069,
+          "dumpRowBytes": 6505,
+          "dumpRowSha256": "91381b2b5b51849b10912fcec2f0c46dbb6823c0ca490f2c5c16ac54bb9cf2c6",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_1",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "S_BlueprintSlab_Wall",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Wall",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "RB_BodySetup_1",
+          "type": "BodySetup",
+          "package": null,
+          "exportFields": [
+            "BodySetupGuid",
+            "Class",
+            "CookedFormatData",
+            "Flags",
+            "Name",
+            "Outer",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "AggGeom",
+            "DefaultInstance"
+          ]
+        },
+        {
+          "name": "S_BlueprintSlab_Wall",
+          "type": "StaticMesh",
+          "package": "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Wall",
+          "exportFields": [
+            "BodySetup",
+            "Class",
+            "Flags",
+            "LightingGuid",
+            "Name",
+            "NavCollision",
+            "Package",
+            "Properties",
+            "RenderData",
+            "Type"
+          ],
+          "propertyNames": [
+            "ExtendedBounds",
+            "LightMapResolution",
+            "LightmapUVDensity",
+            "StaticMaterials"
+          ]
+        }
+      ]
+    }
+  ],
+  "childManifests": []
+}

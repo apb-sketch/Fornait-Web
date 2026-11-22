@@ -1,0 +1,172 @@
+[
+  {
+    "Type": "Material",
+    "Name": "M_PBW_EditMode",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode",
+    "Properties": {
+      "TranslucencyLightingMode": "ETranslucencyLightingMode::TLM_VolumetricPerVertexNonDirectional",
+      "bCanMaskedBeAssumedOpaque": true,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "468D09F9-A51D6AAB-03D9A596-601E09F9",
+      "ReferencedDefaultTextures": [
+        {
+          "ObjectName": "Texture2D'T_VertGradient'",
+          "ObjectPath": "/Game/Global/Textures/Default/Masks_and_Gradients/T_VertGradient.0"
+        }
+      ],
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Spec",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Rough",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "BaseColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "EmissiveColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "EmissiveColor2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[6]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[7]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[8]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[9]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[10]": {
+        "ParameterInfoSet": []
+      },
+      "ScalarPrimitiveDataIndexValues": [
+        -1,
+        -1
+      ],
+      "VectorPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1
+      ],
+      "ScalarValues": [
+        0.3,
+        0.5
+      ],
+      "StaticSwitchValues": [],
+      "DynamicSwitchValues": [],
+      "VectorValues": [
+        {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 1.0,
+          "Hex": "000000"
+        },
+        {
+          "R": 0.0,
+          "G": 0.063888215,
+          "B": 0.2,
+          "A": 1.0,
+          "Hex": "00477C"
+        },
+        {
+          "R": 0.0,
+          "G": 0.031944107,
+          "B": 0.1,
+          "A": 1.0,
+          "Hex": "003259"
+        }
+      ],
+      "DoubleVectorValues": [],
+      "TextureValues": [],
+      "TextureCollectionValues": [],
+      "ParameterCollectionValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "SparseVolumeTextureValues": [],
+      "ToonProfileValues": [],
+      "ReferencedTextureCollections": [],
+      "ReferencedExternalCodeExpressionClasses": [
+        {
+          "ObjectName": "Class'MaterialExpressionVertexNormalWS'",
+          "ObjectPath": "/Script/Engine"
+        }
+      ],
+      "FunctionInfos": [],
+      "FunctionInfosStateCRC": 4294967295,
+      "ParameterCollectionInfos": [],
+      "NamedGrassTypes": [],
+      "MaterialCacheTags": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": []
+      },
+      "DynamicParameterNames": [],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "MaterialCacheUVCoordinatesUsedMask": 0,
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasFirstPersonOutput": false,
+      "bUsesTemporalResponsiveness": false,
+      "bUsesMotionVectorWorldOffset": false,
+      "bSamplesMaterialCache": false,
+      "bHasMaterialCacheOutput": false,
+      "bMaterialCacheHasNonUVDerivedExpression": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "bHasCustomizedUVs": false,
+      "bHasMeshPaintTexture": false,
+      "bHasWorldPosition": false,
+      "PropertyConnectedMask": 417
+    }
+  }
+]

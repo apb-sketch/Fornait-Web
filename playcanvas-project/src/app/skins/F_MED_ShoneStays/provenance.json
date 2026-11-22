@@ -1,0 +1,1548 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/skins/F_MED_ShoneStays",
+  "entries": [
+    {
+      "file": "T_ShoneStays_Body_D.png",
+      "bytes": 1518488,
+      "sha256": "78f9b0d62da2e6a14bb27fec78e00e52892b3645403461d2d4fc938a5b4ccda6",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_D.uasset",
+          "kind": "paquete",
+          "dumpLine": 645058,
+          "dumpByteOffset": 6885520167,
+          "dumpRowBytes": 3222,
+          "dumpRowSha256": "2d6477ba4a68aeafa07f4812d3142a1c3a764e37388fa2e9608534005f7bac53",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_Body_D",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_D",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_Body_D.png",
+          "bytes": 1518488,
+          "sha256": "78f9b0d62da2e6a14bb27fec78e00e52892b3645403461d2d4fc938a5b4ccda6",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_Body_E.png",
+      "bytes": 142088,
+      "sha256": "d5de988ee986e856014f70f3f97d912bdb0efaaf74132111ab05de84d7e78555",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_E.uasset",
+          "kind": "paquete",
+          "dumpLine": 645061,
+          "dumpByteOffset": 6885523801,
+          "dumpRowBytes": 3203,
+          "dumpRowSha256": "15a4440c244ce6ccbde5de620256fb4f5562f93ae22d476fafe553dcae8e5a2a",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_Body_E",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_E",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_Body_E.png",
+          "bytes": 142088,
+          "sha256": "d5de988ee986e856014f70f3f97d912bdb0efaaf74132111ab05de84d7e78555",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_Body_FX.png",
+      "bytes": 897422,
+      "sha256": "70298cee32f868afc04ad72b223a17b7b134b40ca33c994b04815f5cdce01cdb",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_FX.uasset",
+          "kind": "paquete",
+          "dumpLine": 645064,
+          "dumpByteOffset": 6885527416,
+          "dumpRowBytes": 3299,
+          "dumpRowSha256": "4b6b251971d24fe7a0d78987a24a67e776126c4e7e09526ecc99d184aafb7e4f",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_Body_FX",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_FX",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_Body_FX.png",
+          "bytes": 897422,
+          "sha256": "70298cee32f868afc04ad72b223a17b7b134b40ca33c994b04815f5cdce01cdb",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_Body_M.png",
+      "bytes": 2364054,
+      "sha256": "0d404be28800cddb55608f3a2a4115b109456b4026a6cb4cd824da628112bde9",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_M.uasset",
+          "kind": "paquete",
+          "dumpLine": 645067,
+          "dumpByteOffset": 6885531129,
+          "dumpRowBytes": 3313,
+          "dumpRowSha256": "d9a35c135f6e03b6cdbff4b0ee6d425c514bcc9d562d06924bb1f135bdc840f9",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_Body_M",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_M",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_Body_M.png",
+          "bytes": 2364054,
+          "sha256": "0d404be28800cddb55608f3a2a4115b109456b4026a6cb4cd824da628112bde9",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_Body_N.png",
+      "bytes": 6097469,
+      "sha256": "85a7ae211d035bce5ec2e598ce7bcb5f2ad5be4e8786d55ebd527d4180243a0f",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_N.uasset",
+          "kind": "paquete",
+          "dumpLine": 645070,
+          "dumpByteOffset": 6885534854,
+          "dumpRowBytes": 3329,
+          "dumpRowSha256": "b30ba8973c475b0505cab215f7c1debef0a7a39a16cc47f96dea72d842fa5619",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_Body_N",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_N",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_Body_N.png",
+          "bytes": 6097469,
+          "sha256": "85a7ae211d035bce5ec2e598ce7bcb5f2ad5be4e8786d55ebd527d4180243a0f",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_Body_S.png",
+      "bytes": 2935055,
+      "sha256": "8fbb90fe2e073547bcbc517c964c9b8bcee6f186ad5d9e13edc4f9a9fb548a66",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_S.uasset",
+          "kind": "paquete",
+          "dumpLine": 645073,
+          "dumpByteOffset": 6885538595,
+          "dumpRowBytes": 3313,
+          "dumpRowSha256": "b27cdfe31882c056878125b0e4acd598dd8ee2fdab42feac9d9a1719ca2f6cdb",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_Body_S",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Body_S",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_Body_S.png",
+          "bytes": 2935055,
+          "sha256": "8fbb90fe2e073547bcbc517c964c9b8bcee6f186ad5d9e13edc4f9a9fb548a66",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAccExtra_D.png",
+      "bytes": 1089471,
+      "sha256": "fb21efff36f0867b1f717bb3853f267841e6a5ad8875ec046424a4eb18b68330",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_D.uasset",
+          "kind": "paquete",
+          "dumpLine": 645076,
+          "dumpByteOffset": 6885542320,
+          "dumpRowBytes": 3227,
+          "dumpRowSha256": "d22882dd2c28036dd3dd491d5a2a0a4977adbdb3b07779c83ee032d5f924f3d9",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAccExtra_D",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_D",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAccExtra_D.png",
+          "bytes": 1089471,
+          "sha256": "fb21efff36f0867b1f717bb3853f267841e6a5ad8875ec046424a4eb18b68330",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAccExtra_E.png",
+      "bytes": 105663,
+      "sha256": "c553dfabde1837b00c78288f479a32f3c1ea53c2e60423adf239041544ae7ab8",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_E.uasset",
+          "kind": "paquete",
+          "dumpLine": 645079,
+          "dumpByteOffset": 6885545975,
+          "dumpRowBytes": 3227,
+          "dumpRowSha256": "01f5fa64e31eb7ff9e78f50f7fb417c92f66f5f3771e1d2db295f7658e1dbce3",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAccExtra_E",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_E",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAccExtra_E.png",
+          "bytes": 105663,
+          "sha256": "c553dfabde1837b00c78288f479a32f3c1ea53c2e60423adf239041544ae7ab8",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAccExtra_FX.png",
+      "bytes": 226861,
+      "sha256": "024fb9afc7c564ca407d611c417ec5912ba28dce44016e7b143f7c23df26d229",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_FX.uasset",
+          "kind": "paquete",
+          "dumpLine": 645082,
+          "dumpByteOffset": 6885549630,
+          "dumpRowBytes": 3304,
+          "dumpRowSha256": "bf1099f533e390ad84a38b34eecd7a48e4f9ce8d020c7aeb396dd0ce865559f6",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAccExtra_FX",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_FX",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAccExtra_FX.png",
+          "bytes": 226861,
+          "sha256": "024fb9afc7c564ca407d611c417ec5912ba28dce44016e7b143f7c23df26d229",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAccExtra_M.png",
+      "bytes": 1989708,
+      "sha256": "8531d4d4d6156a2add43b2cf56d11042ea3023c78f2878d77f9e7e9ca348adf7",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_M.uasset",
+          "kind": "paquete",
+          "dumpLine": 645085,
+          "dumpByteOffset": 6885553364,
+          "dumpRowBytes": 3337,
+          "dumpRowSha256": "c840cdf8675190fcd47f209018fb1756b93592a6f77319f123a7d52ba5c2de00",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAccExtra_M",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_M",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAccExtra_M.png",
+          "bytes": 1989708,
+          "sha256": "8531d4d4d6156a2add43b2cf56d11042ea3023c78f2878d77f9e7e9ca348adf7",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAccExtra_N.png",
+      "bytes": 3689356,
+      "sha256": "b002d497d3e23186771a089baa3d624a3383a258b69c5dafd938fb61b8d7e5f5",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_N.uasset",
+          "kind": "paquete",
+          "dumpLine": 645088,
+          "dumpByteOffset": 6885557129,
+          "dumpRowBytes": 3353,
+          "dumpRowSha256": "8bf253b3ffc0e2de8e9d2c17590394125782b8fa79d9c2e1753cf9e187267dae",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAccExtra_N",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_N",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAccExtra_N.png",
+          "bytes": 3689356,
+          "sha256": "b002d497d3e23186771a089baa3d624a3383a258b69c5dafd938fb61b8d7e5f5",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAccExtra_S.png",
+      "bytes": 1703099,
+      "sha256": "417ef2da9d838a6f7468b038c9c7800260bf03e3de3a8493f96b3d4f87c35a3e",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_S.uasset",
+          "kind": "paquete",
+          "dumpLine": 645091,
+          "dumpByteOffset": 6885560910,
+          "dumpRowBytes": 3337,
+          "dumpRowSha256": "caaf99cc535b380613f89c68f2ebb450409e4dcf6e222a2396acce3f65ca6ab6",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAccExtra_S",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAccExtra_S",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAccExtra_S.png",
+          "bytes": 1703099,
+          "sha256": "417ef2da9d838a6f7468b038c9c7800260bf03e3de3a8493f96b3d4f87c35a3e",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAcc_D.png",
+      "bytes": 992412,
+      "sha256": "0a27d3aeefbf07e843a14c01dbfe680e633b22e14eec8db74e1885e88a9377b4",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_D.uasset",
+          "kind": "paquete",
+          "dumpLine": 645094,
+          "dumpByteOffset": 6885564675,
+          "dumpRowBytes": 3231,
+          "dumpRowSha256": "4e9760e2500a600b1544cebd3d4287e2128f1161a29287060b83b6446ddfb973",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAcc_D",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_D",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAcc_D.png",
+          "bytes": 992412,
+          "sha256": "0a27d3aeefbf07e843a14c01dbfe680e633b22e14eec8db74e1885e88a9377b4",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAcc_M.png",
+      "bytes": 2107270,
+      "sha256": "11f1ff21d99e702ef9a88f183eff5e8e1c0f82e44ef0854c0a5230d45143a080",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_M.uasset",
+          "kind": "paquete",
+          "dumpLine": 645097,
+          "dumpByteOffset": 6885568324,
+          "dumpRowBytes": 3322,
+          "dumpRowSha256": "acb39b5faf9085869762ad86901cefb87e03676f1df121842025fe540bd8b5cd",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAcc_M",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_M",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAcc_M.png",
+          "bytes": 2107270,
+          "sha256": "11f1ff21d99e702ef9a88f183eff5e8e1c0f82e44ef0854c0a5230d45143a080",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAcc_N.png",
+      "bytes": 3033084,
+      "sha256": "b92bac5fa48046870a5623b9745b2548c9643f58b96a1c3a117cbf9256a781f0",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_N.uasset",
+          "kind": "paquete",
+          "dumpLine": 645100,
+          "dumpByteOffset": 6885572064,
+          "dumpRowBytes": 3338,
+          "dumpRowSha256": "cc97c71f5c2906061ae6442248ce9a070237f45e6bd68ccaef964362f52cb23e",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAcc_N",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_N",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAcc_N.png",
+          "bytes": 3033084,
+          "sha256": "b92bac5fa48046870a5623b9745b2548c9643f58b96a1c3a117cbf9256a781f0",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAcc_S.png",
+      "bytes": 464664,
+      "sha256": "c34608a1c3c42a325463511921a3a60e6ec335142b500962cd430bc0613f39c0",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_S.uasset",
+          "kind": "paquete",
+          "dumpLine": 645103,
+          "dumpByteOffset": 6885575820,
+          "dumpRowBytes": 3322,
+          "dumpRowSha256": "12601d9f0e045e9b0e23a5c940b369fd96482032bf11eacca652a81c7f936d33",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAcc_S",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_S",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAcc_S.png",
+          "bytes": 464664,
+          "sha256": "c34608a1c3c42a325463511921a3a60e6ec335142b500962cd430bc0613f39c0",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAcc_Strands.png",
+      "bytes": 2600129,
+      "sha256": "9c4a49ce2efbf7a7acb89f14274841d069d71f78e7c2159eb8f34ea72e7bfa76",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_Strands.uasset",
+          "kind": "paquete",
+          "dumpLine": 645106,
+          "dumpByteOffset": 6885579560,
+          "dumpRowBytes": 3323,
+          "dumpRowSha256": "28d0077ad394c5217292c355c677c562162294acbdfd6e73611317c647c0402b",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAcc_Strands",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_Strands",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAcc_Strands.png",
+          "bytes": 2600129,
+          "sha256": "9c4a49ce2efbf7a7acb89f14274841d069d71f78e7c2159eb8f34ea72e7bfa76",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAcc_StrandsN.png",
+      "bytes": 6874306,
+      "sha256": "320a4b2f8c7219aa3512e9fcc7f6eb802a5d9dbe77a349a2d5c40fb4a2694d14",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_StrandsN.uasset",
+          "kind": "paquete",
+          "dumpLine": 645109,
+          "dumpByteOffset": 6885583313,
+          "dumpRowBytes": 3359,
+          "dumpRowSha256": "b933b74530649a3fbda9e44190d46306876ce804f5bca24cbccd5092ab167e06",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAcc_StrandsN",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_StrandsN",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAcc_StrandsN.png",
+          "bytes": 6874306,
+          "sha256": "320a4b2f8c7219aa3512e9fcc7f6eb802a5d9dbe77a349a2d5c40fb4a2694d14",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_FaceAcc_Tangent.png",
+      "bytes": 1560170,
+      "sha256": "58ebe6633066f447908db167f9b28155283b7b85d18f46c76632d37cf0f9175a",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_Tangent.uasset",
+          "kind": "paquete",
+          "dumpLine": 645112,
+          "dumpByteOffset": 6885587104,
+          "dumpRowBytes": 3297,
+          "dumpRowSha256": "c6f5e735443425931fc7df2779a616540414540b7f86c8b7b9f8a48e90956970",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_FaceAcc_Tangent",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_FaceAcc_Tangent",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_FaceAcc_Tangent.png",
+          "bytes": 1560170,
+          "sha256": "58ebe6633066f447908db167f9b28155283b7b85d18f46c76632d37cf0f9175a",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_Head_D.png",
+      "bytes": 310644,
+      "sha256": "1fc0c20859c488024daa836e4fc1be078a7fc1320dd961fd494cf94660d6be8f",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Head_D.uasset",
+          "kind": "paquete",
+          "dumpLine": 645115,
+          "dumpByteOffset": 6885590831,
+          "dumpRowBytes": 3215,
+          "dumpRowSha256": "30e604a84fbeb2b0ac7f6d751dda0da22cba48ded7b90605fa205102e99cf6e0",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_Head_D",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Head_D",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_Head_D.png",
+          "bytes": 310644,
+          "sha256": "1fc0c20859c488024daa836e4fc1be078a7fc1320dd961fd494cf94660d6be8f",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_Head_M.png",
+      "bytes": 408390,
+      "sha256": "c70787138304a3fb902fee05f6d861d67c10e0b50df636ffb17db0a9fa29ff7d",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Head_M.uasset",
+          "kind": "paquete",
+          "dumpLine": 645118,
+          "dumpByteOffset": 6885594458,
+          "dumpRowBytes": 3325,
+          "dumpRowSha256": "4ece54e388cc92bf584c91dcd5559ba86f01475bccddfe952b1e76b32d4ec1c3",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_Head_M",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Head_M",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_Head_M.png",
+          "bytes": 408390,
+          "sha256": "c70787138304a3fb902fee05f6d861d67c10e0b50df636ffb17db0a9fa29ff7d",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_Head_N.png",
+      "bytes": 1270505,
+      "sha256": "55fe2bb3c26682c67b92a1119daff2b8e77b044d70c799685856193b017a8756",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Head_N.uasset",
+          "kind": "paquete",
+          "dumpLine": 645121,
+          "dumpByteOffset": 6885598195,
+          "dumpRowBytes": 3311,
+          "dumpRowSha256": "a4d1a71128385c483ccc21a0f039989952914c2af82538b6290aff6416f9521b",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_Head_N",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Head_N",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_Head_N.png",
+          "bytes": 1270505,
+          "sha256": "55fe2bb3c26682c67b92a1119daff2b8e77b044d70c799685856193b017a8756",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_ShoneStays_Head_S.png",
+      "bytes": 794193,
+      "sha256": "9f986c892c6c4eb46aae472884aa285f2eefddf553c608bd3189d97079f14e5d",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Head_S.uasset",
+          "kind": "paquete",
+          "dumpLine": 645124,
+          "dumpByteOffset": 6885601918,
+          "dumpRowBytes": 3325,
+          "dumpRowSha256": "5e1cd16b28ce9519d24d15257554dd404cf02225a2e07ff9cb5ffba92da04b0a",
+          "objectFields": [
+            {
+              "name": "T_ShoneStays_Head_S",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Textures/T_ShoneStays_Head_S",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Characters\\Player\\Female\\Medium\\Bodies\\F_MED_ShoneStays\\Textures\\T_ShoneStays_Head_S.png",
+          "bytes": 794193,
+          "sha256": "9f986c892c6c4eb46aae472884aa285f2eefddf553c608bd3189d97079f14e5d",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "accessory.glb",
+      "bytes": 4607368,
+      "sha256": "96a4cfe5f108f5dd1ab6451ce235f2a5c0b29436beb8fd67d8aaf36a4f24748e",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Meshes/Parts/F_MED_ShoneStays_FaceAcc.uasset",
+          "kind": "paquete",
+          "dumpLine": 645043,
+          "dumpByteOffset": 6885052026,
+          "dumpRowBytes": 18218,
+          "dumpRowSha256": "839a9057517bce1ec81ab2e57da4b7b4040543defd7be59f2c5684b75aba8af0",
+          "objectFields": [
+            {
+              "name": "AnimCurveMetaData_0",
+              "type": "AnimCurveMetaData",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Outer",
+                "Type"
+              ],
+              "propertyNames": []
+            },
+            {
+              "name": "F_MED_ShoneStays_FaceAcc",
+              "type": "SkeletalMesh",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Meshes/Parts/F_MED_ShoneStays_FaceAcc",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "ImportedBounds",
+                "LODModels",
+                "Name",
+                "NaniteResources",
+                "Package",
+                "Properties",
+                "SkeletalMaterials",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "MinLod",
+                "MinQualityLevelLOD",
+                "PhysicsAsset",
+                "SamplingInfo",
+                "Skeleton",
+                "SkinWeightProfiles",
+                "SourceModels",
+                "bHasVertexColors"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/model-data.js#accessory"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\accessory.glb",
+          "bytes": 4607368,
+          "sha256": "96a4cfe5f108f5dd1ab6451ce235f2a5c0b29436beb8fd67d8aaf36a4f24748e",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "F_MED_ShoneStays_FaceAcc"
+        ],
+        "animations": [],
+        "materials": [
+          "MI_ShoneStays_FaceAcc",
+          "MI_ShoneStays_FaceAccExtra"
+        ]
+      }
+    },
+    {
+      "file": "body.glb",
+      "bytes": 9004304,
+      "sha256": "cd1cb9d174b142d6dfbaec1945bd2c0bfe092ea1076605b696870a82178f62ea",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Meshes/F_MED_ShoneStays.uasset",
+          "kind": "paquete",
+          "dumpLine": 645037,
+          "dumpByteOffset": 6884754369,
+          "dumpRowBytes": 22011,
+          "dumpRowSha256": "1a81e4317d5825d3dcaf94281b293d85227f2532d5e64bcff87183767f824516",
+          "objectFields": [
+            {
+              "name": "AnimCurveMetaData_0",
+              "type": "AnimCurveMetaData",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Outer",
+                "Type"
+              ],
+              "propertyNames": []
+            },
+            {
+              "name": "shoeMorphA",
+              "type": "MorphTarget",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "MorphLODModels",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "BaseSkelMesh"
+              ]
+            },
+            {
+              "name": "shoeMorphB",
+              "type": "MorphTarget",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "MorphLODModels",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "BaseSkelMesh"
+              ]
+            },
+            {
+              "name": "shoeMorphC",
+              "type": "MorphTarget",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "MorphLODModels",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "BaseSkelMesh"
+              ]
+            },
+            {
+              "name": "shoeMorphScale",
+              "type": "MorphTarget",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "MorphLODModels",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "BaseSkelMesh"
+              ]
+            },
+            {
+              "name": "F_MED_ShoneStays",
+              "type": "SkeletalMesh",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_ShoneStays/Meshes/F_MED_ShoneStays",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "ImportedBounds",
+                "LODModels",
+                "Name",
+                "NaniteResources",
+                "Package",
+                "Properties",
+                "SkeletalMaterials",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "MinLod",
+                "MinQualityLevelLOD",
+                "MorphTargets",
+                "PhysicsAsset",
+                "SamplingInfo",
+                "ShadowPhysicsAsset",
+                "Skeleton",
+                "SkinWeightProfiles",
+                "SourceModels",
+                "bHasVertexColors"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/model-data.js#body"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\body.glb",
+          "bytes": 6629700,
+          "sha256": "af6622cd8e8599b4754e452b4f8b3e4728a8ab8cbecc4b31864e45cc52198514",
+          "bytesMatchLocalFile": false
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "F_MED_ShoneStays"
+        ],
+        "animations": [
+          "N",
+          "NE",
+          "E",
+          "SE",
+          "S",
+          "SW",
+          "W",
+          "NW",
+          "idle",
+          "dance"
+        ],
+        "materials": [
+          "MI_ShoneStays_Body"
+        ]
+      }
+    },
+    {
+      "file": "head.glb",
+      "bytes": 2051112,
+      "sha256": "79881c7e3cb2964e94b0817974958d93aa7026cb18f0b4be03814a07f243c14a",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Heads/F_MED_ShoneStays_Head/Meshes/F_MED_ShoneStays_Head.uasset",
+          "kind": "paquete",
+          "dumpLine": 676866,
+          "dumpByteOffset": 7288238243,
+          "dumpRowBytes": 24328,
+          "dumpRowSha256": "1226011268e29e4140a4d97f9b3ae7667676342528a03162f628e29f41278374",
+          "objectFields": [
+            {
+              "name": "AnimCurveMetaData_0",
+              "type": "AnimCurveMetaData",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Outer",
+                "Type"
+              ],
+              "propertyNames": []
+            },
+            {
+              "name": "DNAAssetUserData_0",
+              "type": "DNAAssetUserData",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "DNAAsset"
+              ]
+            },
+            {
+              "name": "F_MED_ShoneStays_Head",
+              "type": "SkeletalMesh",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Heads/F_MED_ShoneStays_Head/Meshes/F_MED_ShoneStays_Head",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "ImportedBounds",
+                "LODModels",
+                "Name",
+                "NaniteResources",
+                "Package",
+                "Properties",
+                "SkeletalMaterials",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "MinLod",
+                "MinQualityLevelLOD",
+                "SamplingInfo",
+                "Skeleton",
+                "SourceModels",
+                "bHasVertexColors"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/model-data.js#head"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\head.glb",
+          "bytes": 1918420,
+          "sha256": "d25c9c3fc28ed4607b920cd06ce9def035ddcca03c42cd9c90223dfdaf82ec47",
+          "bytesMatchLocalFile": false
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "F_MED_ShoneStays_Head"
+        ],
+        "animations": [],
+        "materials": [
+          "MI_ShoneStays_Head",
+          "MI_ShoneStays_Eyes"
+        ]
+      }
+    }
+  ],
+  "childManifests": [],
+  "note": "The GLBs are local Unreal exports. The body carries packed animations. The head uses the existing exported diffuse atlas in place of the baked texture. See pack.py and export.py in the workspace."
+}

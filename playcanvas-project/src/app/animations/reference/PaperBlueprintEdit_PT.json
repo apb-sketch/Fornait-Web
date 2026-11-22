@@ -1,0 +1,85 @@
+[
+  {
+    "Type": "ProxyTable",
+    "Name": "PaperBlueprintEdit_PT",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ProxyTable'",
+    "Package": "/Game/Animation/Game/MainPlayerFN/ProxyTables/_Default/PaperBlueprintEdit_PT",
+    "Properties": {
+      "Keys": [
+        "345A8EF9-459ED05E-D08710B9-580E5E92",
+        "4120DB54-460D56C0-46B1BE98-19D7E4F8",
+        "68724255-4DDA831D-E0EA84A7-CE031FE9",
+        "78F9291C-4CC428BD-EB679EB8-80733760",
+        "8D323A44-455834EF-89810EAE-652487C4"
+      ],
+      "RuntimeValues": [
+        {
+          "ProxyAsset": {
+            "ObjectName": "ProxyAsset'ItemSourcePose_PA'",
+            "ObjectPath": "/Game/Characters/Player/ProxyAssets/Pose/ItemSourcePose_PA.0"
+          },
+          "Value": {
+            "Chooser": {
+              "ObjectName": "ChooserTable'PaperBlueprintEdit_SourcePose_CT'",
+              "ObjectPath": "/Game/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprintEdit_SourcePose_CT.0"
+            }
+          },
+          "OutputStructData": []
+        },
+        {
+          "ProxyAsset": {
+            "ObjectName": "ProxyAsset'ItemMaskLayering_PA'",
+            "ObjectPath": "/Game/Characters/Player/ProxyAssets/MaskWeight/ItemMaskLayering_PA.0"
+          },
+          "Value": {
+            "Chooser": {
+              "ObjectName": "ChooserTable'PaperBlueprint_Layering_CT'",
+              "ObjectPath": "/Game/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprint_Layering_CT.0"
+            }
+          },
+          "OutputStructData": []
+        },
+        {
+          "ProxyAsset": {
+            "ObjectName": "ProxyAsset'ProceduralMotionArmL_PA'",
+            "ObjectPath": "/Game/Characters/Player/ProxyAssets/MaskWeight/ProceduralMotionArmL_PA.0"
+          },
+          "Value": {
+            "Asset": {
+              "ObjectName": "FortProceduralMotionDataAsset'PaperBlueprint_ProceduralArmL_DA'",
+              "ObjectPath": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_ProceduralArmL_DA.0"
+            }
+          },
+          "OutputStructData": []
+        },
+        {
+          "ProxyAsset": {
+            "ObjectName": "ProxyAsset'ProceduralMotion_PA'",
+            "ObjectPath": "/Game/Characters/Player/ProxyAssets/MaskWeight/ProceduralMotion_PA.0"
+          },
+          "Value": {
+            "Asset": {
+              "ObjectName": "FortProceduralMotionDataAsset'PaperBlueprint_Procedural_DA'",
+              "ObjectPath": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_Procedural_DA.0"
+            }
+          },
+          "OutputStructData": []
+        },
+        {
+          "ProxyAsset": {
+            "ObjectName": "ProxyAsset'ItemMaskAdditive_PA'",
+            "ObjectPath": "/Game/Characters/Player/ProxyAssets/MaskWeight/ItemMaskAdditive_PA.0"
+          },
+          "Value": {
+            "Chooser": {
+              "ObjectName": "ChooserTable'PaperBlueprint_Additive_CT'",
+              "ObjectPath": "/Game/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprint_Additive_CT.0"
+            }
+          },
+          "OutputStructData": []
+        }
+      ]
+    }
+  }
+]

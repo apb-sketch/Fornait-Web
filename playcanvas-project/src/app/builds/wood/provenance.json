@@ -1,0 +1,2267 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/builds/wood",
+  "entries": [
+    {
+      "file": "PBW_W1_Archway.glb",
+      "bytes": 145808,
+      "sha256": "069ef096a77d2fa08c4692dc5c1cd54034ed780c03d600871c1823806999b940",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Archway.uasset",
+          "kind": "paquete",
+          "dumpLine": 293105,
+          "dumpByteOffset": 3065272534,
+          "dumpRowBytes": 14132,
+          "dumpRowSha256": "5dd0a84adbf77c76dfaf4872894cec354c75a1e2fae8ae3924486b9613e95e70",
+          "objectFields": [
+            {
+              "name": "BodySetup_1",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_Archway",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_Archway",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LODForCollision",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.Archway"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Archway.glb",
+          "bytes": 145808,
+          "sha256": "069ef096a77d2fa08c4692dc5c1cd54034ed780c03d600871c1823806999b940",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_Archway"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_ArchwayLarge.glb",
+      "bytes": 143092,
+      "sha256": "a4707601f200222261d1b28351e39d7637dfe64fa30e4f1a4cc483a3773ae939",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_ArchwayLarge.uasset",
+          "kind": "paquete",
+          "dumpLine": 293107,
+          "dumpByteOffset": 3065286790,
+          "dumpRowBytes": 11458,
+          "dumpRowSha256": "88e727de91a2b6cfb673d6418a4caac2032daae5520d3df1c8ad97c8db364d5f",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_23",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_ArchwayLarge",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_ArchwayLarge",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LODForCollision",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.ArchwayLarge"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_ArchwayLarge.glb",
+          "bytes": 143092,
+          "sha256": "a4707601f200222261d1b28351e39d7637dfe64fa30e4f1a4cc483a3773ae939",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_ArchwayLarge"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_ArchwaySupportLarge.glb",
+      "bytes": 81764,
+      "sha256": "97f1e1fe75e8fb49652b612da56a8916acbb3682099961653e07ce3bc5854045",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_ArchwaySupportLarge.uasset",
+          "kind": "paquete",
+          "dumpLine": 293109,
+          "dumpByteOffset": 3065298377,
+          "dumpRowBytes": 8236,
+          "dumpRowSha256": "ba639665e200fc1c51e9aff3dfbbbda5730a394922a8c2bb27c0c0df57509cdf",
+          "objectFields": [
+            {
+              "name": "BodySetup_1",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "PBW_W1_ArchwaySupportLarge",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_ArchwaySupportLarge",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.ArchwayLargeSupport"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_ArchwaySupportLarge.glb",
+          "bytes": 81764,
+          "sha256": "97f1e1fe75e8fb49652b612da56a8916acbb3682099961653e07ce3bc5854045",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_ArchwaySupportLarge"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_Brace.glb",
+      "bytes": 109528,
+      "sha256": "f74368a70d11debf5f0c4c59591573a5bf4d00ae0985b907e508ad193548158b",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Brace.uasset",
+          "kind": "paquete",
+          "dumpLine": 293119,
+          "dumpByteOffset": 3065354853,
+          "dumpRowBytes": 9777,
+          "dumpRowSha256": "30403a6baa7dc8e495768c008b803ae4f19993cc87e37fdad718427b5bfb9829",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_4",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_Brace",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_Brace",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Brace.glb",
+          "bytes": 109528,
+          "sha256": "f74368a70d11debf5f0c4c59591573a5bf4d00ae0985b907e508ad193548158b",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_Brace"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_DoorC.glb",
+      "bytes": 243508,
+      "sha256": "f4b79882d62a13f11c3df88e04331a191b78f911b7632fae6da1406f98a70c89",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_DoorC.uasset",
+          "kind": "paquete",
+          "dumpLine": 293123,
+          "dumpByteOffset": 3065373441,
+          "dumpRowBytes": 9853,
+          "dumpRowSha256": "f692dd0d3079d177555ade34f1e456cafec17bb674e21006cd5aeca3ebce592b",
+          "objectFields": [
+            {
+              "name": "BodySetup_0",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_DoorC",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_DoorC",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.DoorC"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_DoorC.glb",
+          "bytes": 243508,
+          "sha256": "f4b79882d62a13f11c3df88e04331a191b78f911b7632fae6da1406f98a70c89",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_DoorC"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_DoorS.glb",
+      "bytes": 246680,
+      "sha256": "726dc9721c0e1560902dd19318557e0a10855d4430c55db6c266ba7004734bc0",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_DoorS.uasset",
+          "kind": "paquete",
+          "dumpLine": 293125,
+          "dumpByteOffset": 3065383416,
+          "dumpRowBytes": 15164,
+          "dumpRowSha256": "8235c267ded16b4964da6ee8751822ebd23c259084a1c92f6c726c4e6617ef9a",
+          "objectFields": [
+            {
+              "name": "BodySetup_1",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "FortStaticMeshNavigationEdgesUserData_0",
+              "type": "FortStaticMeshNavigationEdgesUserData",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "EdgesList",
+                "OwnerStaticMesh"
+              ]
+            },
+            {
+              "name": "PBW_W1_DoorS",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_DoorS",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.DoorS"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_DoorS.glb",
+          "bytes": 246680,
+          "sha256": "726dc9721c0e1560902dd19318557e0a10855d4430c55db6c266ba7004734bc0",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_DoorS"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_DoorSide.glb",
+      "bytes": 273556,
+      "sha256": "1fea2c31dc9654ba2d0fd2ebae18fe7d2a5bd091fe039503b2f210d52f03bd23",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_DoorSide.uasset",
+          "kind": "paquete",
+          "dumpLine": 293127,
+          "dumpByteOffset": 3065398702,
+          "dumpRowBytes": 11351,
+          "dumpRowSha256": "2e19713eb0e19381cd723e01be655dd851551131eea56846d1eeee20c0c89621",
+          "objectFields": [
+            {
+              "name": "BodySetup_0",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_DoorSide",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_DoorSide",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.DoorSide"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_DoorSide.glb",
+          "bytes": 273556,
+          "sha256": "1fea2c31dc9654ba2d0fd2ebae18fe7d2a5bd091fe039503b2f210d52f03bd23",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_DoorSide"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_Floor.glb",
+      "bytes": 161044,
+      "sha256": "0a154ee6016ad3b85ffafc90e71886a82d2bc65e1dbcbb792ea7ed9ae31b83fe",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Floor.uasset",
+          "kind": "paquete",
+          "dumpLine": 293129,
+          "dumpByteOffset": 3065410178,
+          "dumpRowBytes": 8783,
+          "dumpRowSha256": "89d1096f4d1f22d4422891b39e52c9d72b0610160ebdd4e3790050ede926b561",
+          "objectFields": [
+            {
+              "name": "BodySetup_2",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_Floor",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_Floor",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#models.floor"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Floor.glb",
+          "bytes": 161044,
+          "sha256": "0a154ee6016ad3b85ffafc90e71886a82d2bc65e1dbcbb792ea7ed9ae31b83fe",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_Floor"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_HalfWallDoor.glb",
+      "bytes": 74752,
+      "sha256": "55608ce306171630a332c3f66d1fa37c9ba4050c516629938686377fd914a26c",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallDoor.uasset",
+          "kind": "paquete",
+          "dumpLine": 293131,
+          "dumpByteOffset": 3065419083,
+          "dumpRowBytes": 9003,
+          "dumpRowSha256": "f7d6463c5df72f12af1644bbf95e4007f752596fecfdeaf366cf45c3d7ed57ce",
+          "objectFields": [
+            {
+              "name": "BodySetup_16",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "PBW_W1_HalfWallDoor",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_HalfWallDoor",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.HalfWallDoor"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_HalfWallDoor.glb",
+          "bytes": 74752,
+          "sha256": "55608ce306171630a332c3f66d1fa37c9ba4050c516629938686377fd914a26c",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_HalfWallDoor"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_HalfWallDoorS.glb",
+      "bytes": 76544,
+      "sha256": "0f12fb9b840d71aaa545ef22ff5948e8d89caa9cc8a4b881333a6c39f6afb6bd",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallDoorS.uasset",
+          "kind": "paquete",
+          "dumpLine": 293133,
+          "dumpByteOffset": 3065428215,
+          "dumpRowBytes": 9023,
+          "dumpRowSha256": "f404949d0739073cba7b69ac62528cf8392ea4c2e52b3e6d1dcb5a926f0e2ade",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_28",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "PBW_W1_HalfWallDoorS",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_HalfWallDoorS",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.HalfWallDoorS"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_HalfWallDoorS.glb",
+          "bytes": 76544,
+          "sha256": "0f12fb9b840d71aaa545ef22ff5948e8d89caa9cc8a4b881333a6c39f6afb6bd",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_HalfWallDoorS"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_HalfWallHalf.glb",
+      "bytes": 46572,
+      "sha256": "b75fb2a89af23411735d022600605265e6de150a74490ab364387d069222a284",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallHalf.uasset",
+          "kind": "paquete",
+          "dumpLine": 293135,
+          "dumpByteOffset": 3065437368,
+          "dumpRowBytes": 9796,
+          "dumpRowSha256": "e10afb5a4e4c7e810e75a56b2be11f703b6854fedfb57db6070b2ba0d6337462",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_10",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_HalfWallHalf",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_HalfWallHalf",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.HalfWallHalf"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_HalfWallHalf.glb",
+          "bytes": 46572,
+          "sha256": "b75fb2a89af23411735d022600605265e6de150a74490ab364387d069222a284",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_HalfWallHalf"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_HalfWallS.glb",
+      "bytes": 99140,
+      "sha256": "c9d3d5bf5af68fc4b0c8ebb918dbfb0bb06a6637be2e7a71a409366ccad4a45c",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallS.uasset",
+          "kind": "paquete",
+          "dumpLine": 293137,
+          "dumpByteOffset": 3065447293,
+          "dumpRowBytes": 8234,
+          "dumpRowSha256": "10289a3068eb1afbcba98b8e92a76da04aca46a253bc552ca5d34dc703930a78",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_10",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "PBW_W1_HalfWallS",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_HalfWallS",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.HalfWallS"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_HalfWallS.glb",
+          "bytes": 99140,
+          "sha256": "c9d3d5bf5af68fc4b0c8ebb918dbfb0bb06a6637be2e7a71a409366ccad4a45c",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_HalfWallS"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_Pillar.glb",
+      "bytes": 55628,
+      "sha256": "a67d37c113cf2150eb26cb8836125e409f4799b6b7d024d4923d6f615497f86a",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Pillar.uasset",
+          "kind": "paquete",
+          "dumpLine": 293139,
+          "dumpByteOffset": 3065455653,
+          "dumpRowBytes": 9191,
+          "dumpRowSha256": "ce61ab190f4b300df55dba4ca3fb9a387bb7ce3f7e357c552b08757cf552a43a",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_11",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_Pillar",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_Pillar",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.Pillar"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Pillar.glb",
+          "bytes": 55628,
+          "sha256": "a67d37c113cf2150eb26cb8836125e409f4799b6b7d024d4923d6f615497f86a",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_Pillar"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_QuarterWallHalf.glb",
+      "bytes": 67356,
+      "sha256": "4fb0400df21636c1afd798213255de6bfb623e3f6e0528428493986bee867bf1",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_QuarterWallHalf.uasset",
+          "kind": "paquete",
+          "dumpLine": 293141,
+          "dumpByteOffset": 3065464967,
+          "dumpRowBytes": 8856,
+          "dumpRowSha256": "3702005499959461b2dc4637bea92231a0e1bb979dcb05a9a032d71a4784cd4b",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_12",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_QuarterWallHalf",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_QuarterWallHalf",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.QuarterWallHalf"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_QuarterWallHalf.glb",
+          "bytes": 67356,
+          "sha256": "4fb0400df21636c1afd798213255de6bfb623e3f6e0528428493986bee867bf1",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_QuarterWallHalf"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_QuarterWallS.glb",
+      "bytes": 98604,
+      "sha256": "035ffde50d108f4b2b72569019868efc5c6a13887e0a6b6e86fda98a1bcc8a5c",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_QuarterWallS.uasset",
+          "kind": "paquete",
+          "dumpLine": 293143,
+          "dumpByteOffset": 3065473955,
+          "dumpRowBytes": 9247,
+          "dumpRowSha256": "5b84b753a64d1a8da61dd744407055b86b02f9e5c8d2549b469562f31a4d27b5",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_13",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "PBW_W1_QuarterWallS",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_QuarterWallS",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.QuarterWallS"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_QuarterWallS.glb",
+          "bytes": 98604,
+          "sha256": "035ffde50d108f4b2b72569019868efc5c6a13887e0a6b6e86fda98a1bcc8a5c",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_QuarterWallS"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_RoofC.glb",
+      "bytes": 230484,
+      "sha256": "8fa76b224dcc427de004865af66f33327342f43824ff1ab04acbead1f7207444",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_RoofC.uasset",
+          "kind": "paquete",
+          "dumpLine": 293145,
+          "dumpByteOffset": 3065483331,
+          "dumpRowBytes": 11742,
+          "dumpRowSha256": "e07e3a5acb643f5535c95a81bb8d788f1563720d51cc43fe118f6136924223b9",
+          "objectFields": [
+            {
+              "name": "RB_BodySetup_29",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_RoofC",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_RoofC",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#models.cone"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_RoofC.glb",
+          "bytes": 230484,
+          "sha256": "8fa76b224dcc427de004865af66f33327342f43824ff1ab04acbead1f7207444",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_RoofC"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_RoofWall.glb",
+      "bytes": 91808,
+      "sha256": "22132ca6dde15d6857456447b797eb21a4ecc7f49de9b85b140cf2f19a3855aa",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_RoofWall.uasset",
+          "kind": "paquete",
+          "dumpLine": 293155,
+          "dumpByteOffset": 3065531341,
+          "dumpRowBytes": 8380,
+          "dumpRowSha256": "dcdd662db309228d53760826b6ad4bb56a2a14a84f62655a7d87bce5f9aec9e4",
+          "objectFields": [
+            {
+              "name": "BodySetup_33",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_RoofWall",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_RoofWall",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_RoofWall.glb",
+          "bytes": 91808,
+          "sha256": "22132ca6dde15d6857456447b797eb21a4ecc7f49de9b85b140cf2f19a3855aa",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_RoofWall"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_Solid.glb",
+      "bytes": 313196,
+      "sha256": "1d3e038782ca4ddc8deeec201cc6f9c291a98056435dffcb7e7c4ecc5ce8bbe4",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Solid.uasset",
+          "kind": "paquete",
+          "dumpLine": 293157,
+          "dumpByteOffset": 3065539846,
+          "dumpRowBytes": 8773,
+          "dumpRowSha256": "691fc93fac1d097f54541490b3c34b8451c47478c1599e4657406e71750c9595",
+          "objectFields": [
+            {
+              "name": "BodySetup_4",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance",
+                "PhysicsType"
+              ]
+            },
+            {
+              "name": "PBW_W1_Solid",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_Solid",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "Sockets",
+                "StaticMaterials"
+              ]
+            },
+            {
+              "name": "StaticMeshSocket_0",
+              "type": "StaticMeshSocket",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "RelativeLocation",
+                "SocketName"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#models.wall"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Solid.glb",
+          "bytes": 313196,
+          "sha256": "1d3e038782ca4ddc8deeec201cc6f9c291a98056435dffcb7e7c4ecc5ce8bbe4",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_Solid"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_StairW.glb",
+      "bytes": 167852,
+      "sha256": "14538add51f8ec5aba65578fea154414c8bfcf1d4e988769f55fc081ad9d3d5c",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_StairW.uasset",
+          "kind": "paquete",
+          "dumpLine": 293165,
+          "dumpByteOffset": 3065585327,
+          "dumpRowBytes": 8082,
+          "dumpRowSha256": "937f5069a89415de3a47ccce7bb914644e50ac4da518fd8d1317746cde4415be",
+          "objectFields": [
+            {
+              "name": "BodySetup_641",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "PBW_W1_StairW",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_StairW",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#models.ramp"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_StairW.glb",
+          "bytes": 167852,
+          "sha256": "14538add51f8ec5aba65578fea154414c8bfcf1d4e988769f55fc081ad9d3d5c",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_StairW"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_WindowC.glb",
+      "bytes": 280004,
+      "sha256": "45e4d6ebe242be4155013bb6e88ca98d8451a4531e3ad64f3a16c9bb69a04683",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_WindowC.uasset",
+          "kind": "paquete",
+          "dumpLine": 293167,
+          "dumpByteOffset": 3065593532,
+          "dumpRowBytes": 12192,
+          "dumpRowSha256": "efc7d1f4aa5ece1ab3d241beb4e995f4efd3fec7ca7587bbf30451f3b9762f8d",
+          "objectFields": [
+            {
+              "name": "BodySetup_0",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "FortStaticMeshNavigationEdgesUserData_0",
+              "type": "FortStaticMeshNavigationEdgesUserData",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "EdgesList",
+                "OwnerStaticMesh"
+              ]
+            },
+            {
+              "name": "PBW_W1_WindowC",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_WindowC",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.WindowC"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_WindowC.glb",
+          "bytes": 280004,
+          "sha256": "45e4d6ebe242be4155013bb6e88ca98d8451a4531e3ad64f3a16c9bb69a04683",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_WindowC"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_WindowSide.glb",
+      "bytes": 272512,
+      "sha256": "e53546e6eac1be195ba9f6a17bddc50b8eecbe5c49d43add1e81434b1e35f219",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_WindowSide.uasset",
+          "kind": "paquete",
+          "dumpLine": 293169,
+          "dumpByteOffset": 3065605848,
+          "dumpRowBytes": 12240,
+          "dumpRowSha256": "d3e062bb813c3661867909c6db7d07fab422b0484dd9b6f5cfc691dfd29e2bba",
+          "objectFields": [
+            {
+              "name": "BodySetup_0",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "FortStaticMeshNavigationEdgesUserData_0",
+              "type": "FortStaticMeshNavigationEdgesUserData",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "EdgesList",
+                "OwnerStaticMesh"
+              ]
+            },
+            {
+              "name": "PBW_W1_WindowSide",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_WindowSide",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.WindowSide"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_WindowSide.glb",
+          "bytes": 272512,
+          "sha256": "e53546e6eac1be195ba9f6a17bddc50b8eecbe5c49d43add1e81434b1e35f219",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_WindowSide"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "PBW_W1_Windows.glb",
+      "bytes": 250628,
+      "sha256": "77a56869bfbe2ea9ff711bac23ab92f744507cdbe9e7afe1287e72435581a97f",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Windows.uasset",
+          "kind": "paquete",
+          "dumpLine": 293171,
+          "dumpByteOffset": 3065618215,
+          "dumpRowBytes": 14119,
+          "dumpRowSha256": "48b2f71abe8549fa86af6c2c63c412f5fde028eef54b2bdc0da7f1405ffcde3c",
+          "objectFields": [
+            {
+              "name": "BodySetup_1",
+              "type": "BodySetup",
+              "package": null,
+              "exportFields": [
+                "BodySetupGuid",
+                "Class",
+                "CookedFormatData",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "AggGeom",
+                "CollisionTraceFlag",
+                "DefaultInstance"
+              ]
+            },
+            {
+              "name": "FortStaticMeshNavigationEdgesUserData_0",
+              "type": "FortStaticMeshNavigationEdgesUserData",
+              "package": null,
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Outer",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "EdgesList",
+                "OwnerStaticMesh"
+              ]
+            },
+            {
+              "name": "PBW_W1_Windows",
+              "type": "StaticMesh",
+              "package": "/Game/Packages/PBW/Wood/L1/PBW_W1_Windows",
+              "exportFields": [
+                "BodySetup",
+                "Class",
+                "Flags",
+                "LightingGuid",
+                "Name",
+                "NavCollision",
+                "Package",
+                "Properties",
+                "RenderData",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "ExtendedBounds",
+                "LightMapResolution",
+                "LightmapUVDensity",
+                "MinLOD",
+                "MinQualityLevelLOD",
+                "StaticMaterials"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#wallVariants.Windows"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Windows.glb",
+          "bytes": 250628,
+          "sha256": "77a56869bfbe2ea9ff711bac23ab92f744507cdbe9e7afe1287e72435581a97f",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [
+          "PBW_W1_Windows"
+        ],
+        "animations": [],
+        "materials": [
+          "Wood_lvl1_Static"
+        ]
+      }
+    },
+    {
+      "file": "T_PBW_W1_D.png",
+      "bytes": 2060151,
+      "sha256": "07d296b2c598c3e1e54f11fcd7c07bb2d9f4a2c91b4b2217a4f2b9f76d37fe7c",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Textures/T_PBW_W1_D.uasset",
+          "kind": "paquete",
+          "dumpLine": 293364,
+          "dumpByteOffset": 3066495555,
+          "dumpRowBytes": 3057,
+          "dumpRowSha256": "7d1b2137656e91b9eb3d28cc6aac8dc248615f078a002589970f76679f2d2348",
+          "objectFields": [
+            {
+              "name": "T_PBW_W1_D",
+              "type": "Texture2D",
+              "package": "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_D",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LightingGuid"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#diffuse"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\Textures\\T_PBW_W1_D.png",
+          "bytes": 2060151,
+          "sha256": "07d296b2c598c3e1e54f11fcd7c07bb2d9f4a2c91b4b2217a4f2b9f76d37fe7c",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "T_PBW_W1_N.png",
+      "bytes": 897474,
+      "sha256": "19d98fc436a2df461f31bd7ce5cdba7b0123422e56aa89471ea574de297da7ea",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Textures/T_PBW_W1_N.uasset",
+          "kind": "paquete",
+          "dumpLine": 293371,
+          "dumpByteOffset": 3066502053,
+          "dumpRowBytes": 2965,
+          "dumpRowSha256": "be9da597baa78d900ccf1fd420bd62d751ca91cb0dd18995ec0125e920a65443",
+          "objectFields": [
+            {
+              "name": "T_PBW_W1_N",
+              "type": "Texture2D",
+              "package": "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_N",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "CompressionSettings",
+                "ImportedSize",
+                "LODBias",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [
+        "assets/wood-data.js#normal"
+      ],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\Textures\\T_PBW_W1_N.png",
+          "bytes": 897474,
+          "sha256": "19d98fc436a2df461f31bd7ce5cdba7b0123422e56aa89471ea574de297da7ea",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "Wood_lvl1_Floor.json",
+      "bytes": 11336,
+      "sha256": "1402a47b5912a46bf68b6316e9d5e0620e2d4ebde0ab1f5ad062ff042e811902",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Materials/Wood_lvl1_Floor.uasset",
+          "kind": "paquete",
+          "dumpLine": 293319,
+          "dumpByteOffset": 3066386009,
+          "dumpRowBytes": 7218,
+          "dumpRowSha256": "f6f7284bf7e5d008bc1c7833c8013ec21e19f360d9ac403b4d18d88bdc862ff5",
+          "objectFields": [
+            {
+              "name": "Wood_lvl1_Floor",
+              "type": "MaterialInstanceConstant",
+              "package": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Floor",
+              "exportFields": [
+                "CachedData",
+                "Class",
+                "Flags",
+                "LoadedMaterialResources",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "BasePropertyOverrides",
+                "Parent",
+                "PhysMaterial",
+                "ReferencedDefaultTextures",
+                "ScalarParameterValues",
+                "StaticParametersRuntime",
+                "TextureParameterValues",
+                "VectorParameterValues",
+                "bHasStaticPermutationResource",
+                "bIncludedInBaseGame",
+                "bOverridePhysMaterial"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "Wood_lvl1_Floor",
+          "type": "MaterialInstanceConstant",
+          "package": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Floor",
+          "exportFields": [
+            "CachedData",
+            "Class",
+            "Flags",
+            "LoadedMaterialResources",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "BasePropertyOverrides",
+            "Parent",
+            "PhysMaterial",
+            "ReferencedDefaultTextures",
+            "ScalarParameterValues",
+            "StaticParametersRuntime",
+            "TextureParameterValues",
+            "VectorParameterValues",
+            "bHasStaticPermutationResource",
+            "bIncludedInBaseGame",
+            "bOverridePhysMaterial"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Wood_lvl1_Static.json",
+      "bytes": 8067,
+      "sha256": "b7173079377343e25c9833ab84dcec7caa3457c3933cfec74c66fa837ac4c326",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Materials/Wood_lvl1_Static.uasset",
+          "kind": "paquete",
+          "dumpLine": 293320,
+          "dumpByteOffset": 3066393227,
+          "dumpRowBytes": 5202,
+          "dumpRowSha256": "7891e270c2bc49ead17ba9c25c1816caf47cc2da2662fbabdede69135b5a6ea7",
+          "objectFields": [
+            {
+              "name": "Wood_lvl1_Static",
+              "type": "MaterialInstanceConstant",
+              "package": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Static",
+              "exportFields": [
+                "CachedData",
+                "Class",
+                "Flags",
+                "LoadedMaterialResources",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "BasePropertyOverrides",
+                "Parent",
+                "PhysMaterial",
+                "ReferencedDefaultTextures",
+                "ScalarParameterValues",
+                "StaticParametersRuntime",
+                "TextureParameterValues",
+                "bHasStaticPermutationResource",
+                "bIncludedInBaseGame",
+                "bOverridePhysMaterial"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "Wood_lvl1_Static",
+          "type": "MaterialInstanceConstant",
+          "package": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Static",
+          "exportFields": [
+            "CachedData",
+            "Class",
+            "Flags",
+            "LoadedMaterialResources",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "BasePropertyOverrides",
+            "Parent",
+            "PhysMaterial",
+            "ReferencedDefaultTextures",
+            "ScalarParameterValues",
+            "StaticParametersRuntime",
+            "TextureParameterValues",
+            "bHasStaticPermutationResource",
+            "bIncludedInBaseGame",
+            "bOverridePhysMaterial"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Wood_lvl1_Wall.json",
+      "bytes": 13755,
+      "sha256": "3b42690acb4e492f426d6a39f7982a521c8f1ca5716c410a5b25f4a52d0cec3a",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Materials/Wood_lvl1_Wall.uasset",
+          "kind": "paquete",
+          "dumpLine": 293322,
+          "dumpByteOffset": 3066407207,
+          "dumpRowBytes": 8580,
+          "dumpRowSha256": "8986ad8cd7ef7586ccf9c7d10ef745f670b95db3bc37fa2beacc9df9a2a1a085",
+          "objectFields": [
+            {
+              "name": "Wood_lvl1_Wall",
+              "type": "MaterialInstanceConstant",
+              "package": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Wall",
+              "exportFields": [
+                "CachedData",
+                "Class",
+                "Flags",
+                "LoadedMaterialResources",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "BasePropertyOverrides",
+                "Parent",
+                "PhysMaterial",
+                "ReferencedDefaultTextures",
+                "ScalarParameterValues",
+                "StaticParametersRuntime",
+                "TextureParameterValues",
+                "VectorParameterValues",
+                "bHasStaticPermutationResource",
+                "bIncludedInBaseGame",
+                "bOverridePhysMaterial"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "Wood_lvl1_Wall",
+          "type": "MaterialInstanceConstant",
+          "package": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Wall",
+          "exportFields": [
+            "CachedData",
+            "Class",
+            "Flags",
+            "LoadedMaterialResources",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "BasePropertyOverrides",
+            "Parent",
+            "PhysMaterial",
+            "ReferencedDefaultTextures",
+            "ScalarParameterValues",
+            "StaticParametersRuntime",
+            "TextureParameterValues",
+            "VectorParameterValues",
+            "bHasStaticPermutationResource",
+            "bIncludedInBaseGame",
+            "bOverridePhysMaterial"
+          ]
+        }
+      ]
+    }
+  ],
+  "childManifests": []
+}

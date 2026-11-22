@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/animations/emotes/caderas-fiesteras",
+  "entries": [
+    {
+      "file": "dance.glb",
+      "bytes": 667112,
+      "sha256": "031c495511f2772801dfb145ffa082a017ca192e5ab20e29ab04fb282d930494",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Animation/Game/MainPlayer/Emotes/StringDance/Emote_StringDance_CMF_New.uasset",
+          "kind": "paquete",
+          "dumpLine": 489284,
+          "dumpByteOffset": 5032455574,
+          "dumpRowBytes": 2902,
+          "dumpRowSha256": "1d8611d7e63670b8c754d6bbcfa73f64105014ff03924658d3a51833977df52e",
+          "objectFields": [
+            {
+              "name": "Emote_StringDance_CMF_New",
+              "type": "AnimSequence",
+              "package": "/BRCosmetics/Animation/Game/MainPlayer/Emotes/StringDance/Emote_StringDance_CMF_New",
+              "exportFields": [
+                "Class",
+                "CompressedCurveNames",
+                "CompressedDataStructure",
+                "CompressedRawDataSize",
+                "CompressedTrackToSkeletonMapTable",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "SkeletonGuid",
+                "Type"
+              ],
+              "propertyNames": [
+                "AdditiveAnimType",
+                "AssetUserData",
+                "BoneCompressionSettings",
+                "CurveCompressionSettings",
+                "RefPoseType",
+                "RetargetSource",
+                "SequenceLength",
+                "Skeleton",
+                "VariableFrameStrippingSettings"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\BRCosmetics\\Animation\\Game\\MainPlayer\\Emotes\\StringDance\\Emote_StringDance_CMF_New.ueanim",
+          "bytes": 81250,
+          "sha256": "c5a1a1254c6b092a5c20ff147c23fc30a722d8ee242f06374127e76da01bf142",
+          "bytesMatchLocalFile": false
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\dance.glb",
+          "bytes": 667112,
+          "sha256": "031c495511f2772801dfb145ffa082a017ca192e5ab20e29ab04fb282d930494",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [],
+        "animations": [
+          "Emote_StringDance_CMF_New_0"
+        ],
+        "materials": []
+      }
+    }
+  ],
+  "childManifests": [],
+  "note": "The GLB was retargeted and exported via the local Unreal project. The intermediate UEANIM is an export, not the original archive package."
+}

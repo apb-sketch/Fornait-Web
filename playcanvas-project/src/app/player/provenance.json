@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/player",
+  "entries": [
+    {
+      "file": "movement.ts",
+      "bytes": 1168,
+      "sha256": "74e1c77a0288017ada20ce165478c0425afec9788e6c3f4188d86ae5f79ded2f",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "MOVE_SPEED",
+        "camera-relative WASD axes",
+        "player orientation",
+        "per-frame displacement"
+      ],
+      "literalConstants": {
+        "MOVE_SPEED": 4.0
+      },
+      "note": "Pure extraction of existing movement behavior from the previous camera controller."
+    }
+  ],
+  "childManifests": []
+}

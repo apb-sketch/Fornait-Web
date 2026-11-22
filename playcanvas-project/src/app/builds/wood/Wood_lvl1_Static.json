@@ -1,0 +1,243 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "Wood_lvl1_Static",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Static",
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'Wood'",
+        "ObjectPath": "/Game/FortressPhysicalMaterials/Wood.0"
+      },
+      "Parent": {
+        "ObjectName": "MaterialInstanceConstant'Wood_lvl1_Floor'",
+        "ObjectPath": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Floor.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "bOverridePhysMaterial": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "3DAnimationProgress",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 10.0,
+          "ExpressionGUID": "08ADBF30-44F3220B-2AC82EB7-425F87EB"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "debug build speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0525,
+          "ExpressionGUID": "0CF758E3-4CF19FD6-EFF1CD97-B4A7C153"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SpecRoughnessMax",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.95,
+          "ExpressionGUID": "856DC2B1-440C6C48-E0B17A8B-F9D89614"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SpecRoughnessMin",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.1,
+          "ExpressionGUID": "87B260CB-459DBD8F-D2C662A9-7803D648"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Blueprint_Outline_Texture",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'BluePrintTexture02'",
+            "ObjectPath": "/Game/Packages/Fortress_SharedMaterials/BluePrintTexture02.0"
+          },
+          "ExpressionGUID": "9C7D941E-4CDA94D6-B5DCCF84-C7D06881"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Diffuse",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_PBW_W1_D'",
+            "ObjectPath": "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_D.0"
+          },
+          "ExpressionGUID": "1AFB7D9F-43591A25-3EBF6CA7-A277B9E9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "NormalMap",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_PBW_W1_N'",
+            "ObjectPath": "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_N.0"
+          },
+          "ExpressionGUID": "2DC5658F-4288867F-648C7BA1-5937A6CD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SpecularMasks",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_PBW_W1_S'",
+            "ObjectPath": "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_S.0"
+          },
+          "ExpressionGUID": "1D2904B2-40CC06C8-51044A9B-414FE786"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "bOverride_TwoSided": true,
+        "OpacityMaskClipValue": 0.3333,
+        "UsageFlags": 4456448
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "3dAnimationBuild",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "74329761-497C9D8A-8BD05EAD-2C23093D"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "Builder Material",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "A4A2C8F0-40590D9D-F9D07E81-41C3924A"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "debug build motion",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "D7409740-474E02D5-7633E884-96FAFEB1"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Walls True Floors False",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "5690C9F8-49C919F6-FBA230BC-39E658F2"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Use 3 Materials",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "EA527EC0-4BF7B2C5-2FAD9FA7-FC7E3077"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Use multiple diffuse textures",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "D07A17D5-45CEF96A-19813991-282710B5"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseNormalMap",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "6E818EAD-40A345F7-BBEB7891-9C9E8A27"
+          }
+        ]
+      },
+      "ReferencedDefaultTextures": [
+        {
+          "ObjectName": "Texture2D'T_PhaseSquare'",
+          "ObjectPath": "/Game/Packages/Fortnite_UniqueMaterials_1/T_PhaseSquare.0"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "ObjectName": "Texture2D'PBW_wood_2_D'",
+          "ObjectPath": "/Game/Packages/PBW/Wood/Textures/PBW_wood_2_D.0"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "ObjectName": "Texture2D'T_Teleporter_GridSquares_01'",
+          "ObjectPath": "/Game/Gadgets/Assets/Teleporter/Textures/T_Teleporter_GridSquares_01.0"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

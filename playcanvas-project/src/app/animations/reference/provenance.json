@@ -1,0 +1,632 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/animations/reference",
+  "entries": [
+    {
+      "file": "Layering_BodyParts_DA.json",
+      "bytes": 44574,
+      "sha256": "c43026c914c44586548d3c3cfcd713cb8ea7e154f249ed49dc0fcc3a2716abbc",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Characters/Player/DataAssets/Layering_BodyParts_DA.uasset",
+          "kind": "paquete",
+          "dumpLine": 73073,
+          "dumpByteOffset": 1542025635,
+          "dumpRowBytes": 18296,
+          "dumpRowSha256": "cf2d067ae3ea95d1d11312e1e29b4bac756a018725373921cc7cf9529ead0ae3",
+          "objectFields": [
+            {
+              "name": "Layering_BodyParts_DA",
+              "type": "FortAnimationLayeringBodyPartsDataAsset",
+              "package": "/Game/Characters/Player/DataAssets/Layering_BodyParts_DA",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "BoneMaskDefinition"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "Layering_BodyParts_DA",
+          "type": "FortAnimationLayeringBodyPartsDataAsset",
+          "package": "/Game/Characters/Player/DataAssets/Layering_BodyParts_DA",
+          "exportFields": [
+            "Class",
+            "Flags",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "BoneMaskDefinition"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "PaperBlueprintEdit_PT.json",
+      "bytes": 3391,
+      "sha256": "df8692bb07af99f9c980e6f754003d5fb56b6520e244a824c9d6bbefceb4bf41",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayerFN/ProxyTables/_Default/PaperBlueprintEdit_PT.uasset",
+          "kind": "paquete",
+          "dumpLine": 28759,
+          "dumpByteOffset": 842905666,
+          "dumpRowBytes": 2525,
+          "dumpRowSha256": "5e64fdc2675c58bc32d5c2f17ce5b0a3ea1c81d41abac08131ace6689c01aa87",
+          "objectFields": [
+            {
+              "name": "PaperBlueprintEdit_PT",
+              "type": "ProxyTable",
+              "package": "/Game/Animation/Game/MainPlayerFN/ProxyTables/_Default/PaperBlueprintEdit_PT",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "Keys",
+                "RuntimeValues"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "PaperBlueprintEdit_PT",
+          "type": "ProxyTable",
+          "package": "/Game/Animation/Game/MainPlayerFN/ProxyTables/_Default/PaperBlueprintEdit_PT",
+          "exportFields": [
+            "Class",
+            "Flags",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "Keys",
+            "RuntimeValues"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "PaperBlueprintEdit_SourcePose_CT.json",
+      "bytes": 1796,
+      "sha256": "a02fb752ee2f78c2f3e7584d8b5caa3faddd59e60e94c9604fdcd0f4d8cbd8f1",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprintEdit_SourcePose_CT.uasset",
+          "kind": "paquete",
+          "dumpLine": 27622,
+          "dumpByteOffset": 841061232,
+          "dumpRowBytes": 1382,
+          "dumpRowSha256": "ccc7cb265df8d154de0fd019d9f2ce82e0bd3ead13d3807bca7a75f2475e2683",
+          "objectFields": [
+            {
+              "name": "PaperBlueprintEdit_SourcePose_CT",
+              "type": "ChooserTable",
+              "package": "/Game/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprintEdit_SourcePose_CT",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "ColumnsStructs",
+                "ContextData",
+                "CookedResults",
+                "OutputObjectType"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "PaperBlueprintEdit_SourcePose_CT",
+          "type": "ChooserTable",
+          "package": "/Game/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprintEdit_SourcePose_CT",
+          "exportFields": [
+            "Class",
+            "Flags",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "ColumnsStructs",
+            "ContextData",
+            "CookedResults",
+            "OutputObjectType"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "PaperBlueprint_Additive_CT.json",
+      "bytes": 1865,
+      "sha256": "4c2d629f6aabaf431153a419d95923f212804acddad595f743ae01ff37b7a741",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprint_Additive_CT.uasset",
+          "kind": "paquete",
+          "dumpLine": 27623,
+          "dumpByteOffset": 841062614,
+          "dumpRowBytes": 1445,
+          "dumpRowSha256": "2c514ebfe0bcba93b97cb5533f38bad74d0a6aa421e7b92479d3a87ba080da65",
+          "objectFields": [
+            {
+              "name": "PaperBlueprint_Additive_CT",
+              "type": "ChooserTable",
+              "package": "/Game/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprint_Additive_CT",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "ColumnsStructs",
+                "ContextData",
+                "CookedResults",
+                "OutputObjectType"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "PaperBlueprint_Additive_CT",
+          "type": "ChooserTable",
+          "package": "/Game/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprint_Additive_CT",
+          "exportFields": [
+            "Class",
+            "Flags",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "ColumnsStructs",
+            "ContextData",
+            "CookedResults",
+            "OutputObjectType"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "PaperBlueprint_Layering_CT.json",
+      "bytes": 1865,
+      "sha256": "67838834dea53b49e708c8acbe5570f6336ae75a91aa3b932b4e0745cab422cd",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprint_Layering_CT.uasset",
+          "kind": "paquete",
+          "dumpLine": 27624,
+          "dumpByteOffset": 841064059,
+          "dumpRowBytes": 1445,
+          "dumpRowSha256": "6fd2547758900102afcb7a12a1e926d424467bb289b763a6756824416ba8a065",
+          "objectFields": [
+            {
+              "name": "PaperBlueprint_Layering_CT",
+              "type": "ChooserTable",
+              "package": "/Game/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprint_Layering_CT",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "ColumnsStructs",
+                "ContextData",
+                "CookedResults",
+                "OutputObjectType"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "PaperBlueprint_Layering_CT",
+          "type": "ChooserTable",
+          "package": "/Game/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprint_Layering_CT",
+          "exportFields": [
+            "Class",
+            "Flags",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "ColumnsStructs",
+            "ContextData",
+            "CookedResults",
+            "OutputObjectType"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "PaperBlueprint_Layering_DA.json",
+      "bytes": 1434,
+      "sha256": "446329252eb9c90487c1d6f4f8937df9c0be77e0d23a67e6bc7beb29cd823eac",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_Layering_DA.uasset",
+          "kind": "paquete",
+          "dumpLine": 28244,
+          "dumpByteOffset": 841782723,
+          "dumpRowBytes": 1167,
+          "dumpRowSha256": "a0ce79cca6208cc57cd336bae83b5485aa7040b968d157588d8364ffcccd38f9",
+          "objectFields": [
+            {
+              "name": "PaperBlueprint_Layering_DA",
+              "type": "FortAnimationLayeringWeightsDataAsset",
+              "package": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_Layering_DA",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "ArmL",
+                "ArmR",
+                "BodyPartsDefinition",
+                "FingersL",
+                "FingersR",
+                "HandAttachL",
+                "HandAttachR",
+                "HandL",
+                "HandR",
+                "ShoulderL",
+                "ShoulderR",
+                "WeaponL",
+                "WeaponR",
+                "bUseLocalSpaceAdditive"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "PaperBlueprint_Layering_DA",
+          "type": "FortAnimationLayeringWeightsDataAsset",
+          "package": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_Layering_DA",
+          "exportFields": [
+            "Class",
+            "Flags",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "ArmL",
+            "ArmR",
+            "BodyPartsDefinition",
+            "FingersL",
+            "FingersR",
+            "HandAttachL",
+            "HandAttachR",
+            "HandL",
+            "HandR",
+            "ShoulderL",
+            "ShoulderR",
+            "WeaponL",
+            "WeaponR",
+            "bUseLocalSpaceAdditive"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "PaperBlueprint_ProceduralArmL_DA.json",
+      "bytes": 881,
+      "sha256": "59023d3b113ac2f559d339c55fe9639a03f10f93305587757c05a53f188fde96",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_ProceduralArmL_DA.uasset",
+          "kind": "paquete",
+          "dumpLine": 28245,
+          "dumpByteOffset": 841783890,
+          "dumpRowBytes": 864,
+          "dumpRowSha256": "2d8e5c920a70760a6d092f23e973c3558b54b3d3c99f2c7283f6c780e2afd7a1",
+          "objectFields": [
+            {
+              "name": "PaperBlueprint_ProceduralArmL_DA",
+              "type": "FortProceduralMotionDataAsset",
+              "package": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_ProceduralArmL_DA",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "Delay",
+                "IKHandGunInHandSpaceAlpha",
+                "LeftElbowTwistOffset",
+                "LeftElbowTwistScale",
+                "ProceduralAlpha",
+                "RotationScale",
+                "RotationSmoothingTime",
+                "TranslationScale",
+                "TranslationSmoothingTime",
+                "bUseAlternateCopyMotionBoneSetup",
+                "bUseCopyMotionLegacyBehavior"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "PaperBlueprint_ProceduralArmL_DA",
+          "type": "FortProceduralMotionDataAsset",
+          "package": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_ProceduralArmL_DA",
+          "exportFields": [
+            "Class",
+            "Flags",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "Delay",
+            "IKHandGunInHandSpaceAlpha",
+            "LeftElbowTwistOffset",
+            "LeftElbowTwistScale",
+            "ProceduralAlpha",
+            "RotationScale",
+            "RotationSmoothingTime",
+            "TranslationScale",
+            "TranslationSmoothingTime",
+            "bUseAlternateCopyMotionBoneSetup",
+            "bUseCopyMotionLegacyBehavior"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "PaperBlueprint_Procedural_DA.json",
+      "bytes": 906,
+      "sha256": "4a6583fc241eedd5d6e2c47b11b4b828347280272c97eaffe511cb0a8e238e6c",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_Procedural_DA.uasset",
+          "kind": "paquete",
+          "dumpLine": 28246,
+          "dumpByteOffset": 841784754,
+          "dumpRowBytes": 853,
+          "dumpRowSha256": "8bb5ddea582561d7c791cd935ed37e24e620b2cad71667378ca7a77fee863ad2",
+          "objectFields": [
+            {
+              "name": "PaperBlueprint_Procedural_DA",
+              "type": "FortProceduralMotionDataAsset",
+              "package": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_Procedural_DA",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "Delay",
+                "IKHandGunInHandSpaceAlpha",
+                "IKHandGunTranslationOffset",
+                "ProceduralAlpha",
+                "RotationScale",
+                "RotationSmoothingTime",
+                "TranslationScale",
+                "TranslationSmoothingTime",
+                "bUseAlternateCopyMotionBoneSetup",
+                "bUseCopyMotionLegacyBehavior"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "PaperBlueprint_Procedural_DA",
+          "type": "FortProceduralMotionDataAsset",
+          "package": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_Procedural_DA",
+          "exportFields": [
+            "Class",
+            "Flags",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "Delay",
+            "IKHandGunInHandSpaceAlpha",
+            "IKHandGunTranslationOffset",
+            "ProceduralAlpha",
+            "RotationScale",
+            "RotationSmoothingTime",
+            "TranslationScale",
+            "TranslationSmoothingTime",
+            "bUseAlternateCopyMotionBoneSetup",
+            "bUseCopyMotionLegacyBehavior"
+          ]
+        }
+      ]
+    }
+  ],
+  "childManifests": [],
+  "historicalEvidence": [
+    {
+      "archivedFile": {
+        "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\playcanvas-previous-configurations\\animations\\edit-pose.json",
+        "bytes": 42215,
+        "sha256": "baed97269dac41b29aab2d81a845cd6355b6f103e51ed6f5bced0133d2b1b9a7"
+      },
+      "status": "historical_derived_data",
+      "topLevelParameters": [
+        "source",
+        "rotations",
+        "branches"
+      ],
+      "derivation": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\pack_edit_pose.py",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayer/Poses/Medium/Male/M_BluePrint_Edit.uasset",
+          "kind": "paquete",
+          "dumpLine": 25166,
+          "dumpByteOffset": 832553085,
+          "dumpRowBytes": 1871,
+          "dumpRowSha256": "c668887690b8b261fa4854826fc7a877abfaf90fb80ad966fbb9722485c765e5",
+          "objectFields": [
+            {
+              "name": "M_BluePrint_Edit",
+              "type": "AnimSequence",
+              "package": "/Game/Animation/Game/MainPlayer/Poses/Medium/Male/M_BluePrint_Edit",
+              "exportFields": [
+                "Class",
+                "CompressedCurveNames",
+                "CompressedDataStructure",
+                "CompressedRawDataSize",
+                "CompressedTrackToSkeletonMapTable",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "SkeletonGuid",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "BoneCompressionSettings",
+                "CurveCompressionSettings",
+                "RetargetSource",
+                "SequenceLength",
+                "Skeleton",
+                "VariableFrameStrippingSettings"
+              ]
+            }
+          ]
+        }
+      ],
+      "intermediates": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Animation\\Game\\MainPlayer\\Poses\\Medium\\Male\\M_BluePrint_Edit.ueanim",
+          "bytes": 23275,
+          "sha256": "58996f77507e356bfb8745e0d0750c931a3d10d5ed4b2387ecabb923551236a2"
+        }
+      ]
+    },
+    {
+      "archivedFile": {
+        "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\playcanvas-previous-configurations\\animations\\rates.json",
+        "bytes": 839,
+        "sha256": "edc48dd62320d5a99b95898ed58247aab83fca544b56b89bc5457364a3606cd9"
+      },
+      "status": "historical_derived_data",
+      "topLevelParameters": [
+        "N",
+        "NE",
+        "E",
+        "SE",
+        "S",
+        "SW",
+        "W",
+        "NW",
+        "idle",
+        "dance"
+      ],
+      "derivation": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\export.py",
+      "parameters": {
+        "N": {
+          "scale": 1.0555555820465088,
+          "length": 0.6000000238418579
+        },
+        "NE": {
+          "scale": 1.0555555820465088,
+          "length": 0.6000000238418579
+        },
+        "E": {
+          "scale": 1.0555555820465088,
+          "length": 0.6000000238418579
+        },
+        "SE": {
+          "scale": 1.0555555820465088,
+          "length": 0.6000000238418579
+        },
+        "S": {
+          "scale": 1.0555555820465088,
+          "length": 0.6000000238418579
+        },
+        "SW": {
+          "scale": 1.0555555820465088,
+          "length": 0.6000000238418579
+        },
+        "W": {
+          "scale": 1.0555555820465088,
+          "length": 0.6000000238418579
+        },
+        "NW": {
+          "scale": 1.0555555820465088,
+          "length": 0.6000000238418579
+        },
+        "idle": {
+          "scale": 1.0,
+          "length": 0.6000000238418579
+        },
+        "dance": {
+          "scale": 1.0098038911819458,
+          "length": 3.4000000953674316
+        }
+      }
+    }
+  ]
+}

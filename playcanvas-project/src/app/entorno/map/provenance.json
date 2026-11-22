@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/entorno/map",
+  "entries": [
+    {
+      "file": "map.ts",
+      "bytes": 2774,
+      "sha256": "db2cf24f447c1dd6f43f4fa45d61edc99e3fd4ac9e57bb72bdd2b02abfec573a",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "GROUND_SIZE",
+        "floor color and roughness",
+        "grid size, divisions, colors, height and opacity"
+      ],
+      "literalConstants": {
+        "GROUND_SIZE": 10000.0,
+        "GRID_SIZE": 120.0,
+        "GRID_DIVISIONS": 240.0,
+        "GRID_OPACITY": 0.12,
+        "GRID_HEIGHT": 0.024,
+        "FLOOR_ROUGHNESS": 0.94
+      },
+      "prototypeSource": {
+        "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\outputs\\fortnitelocal-web\\main.js",
+        "bytes": 24065,
+        "sha256": "50bf1944e6d27810e10ba19f04a9fde7c23f9b30ec8a56d9e67e14316e66e2c2",
+        "sourceLocations": [
+          "makeStage: floor and grid"
+        ],
+        "sourceParameters": {
+          "floorColor": "#3c344a",
+          "floorRoughness": 0.94,
+          "floorSize": 400,
+          "gridSize": 120,
+          "gridDivisions": 240,
+          "gridSpacing": 0.5,
+          "gridCenterColor": "#716281",
+          "gridColor": "#62566d",
+          "gridOpacity": 0.34,
+          "gridHeight": 0.002
+        },
+        "adaptation": "Retains the 10000-unit fixed PlayCanvas plane. The line mesh uses linear vertex colors converted from the source sRGB colors. PlayCanvas grid opacity 0.12 matches the reference contrast more closely and the height 0.024 prevents depth overlap with the larger plane."
+      }
+    }
+  ],
+  "childManifests": [],
+  "note": "The fixed PlayCanvas floor uses the palette and grid settings from the local Three.js prototype."
+}

@@ -1,0 +1,658 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/camera/reference",
+  "entries": [
+    {
+      "file": "Athena_PlayerCameraModeBase.json",
+      "bytes": 5372,
+      "sha256": "33679ef3a95588e9f30c1bb354005fb9865b771a06c7124a29a8cf584e5c5ce4",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Blueprints/Camera/Athena/Athena_PlayerCameraModeBase.uasset",
+          "kind": "paquete",
+          "dumpLine": 67292,
+          "dumpByteOffset": 1495198095,
+          "dumpRowBytes": 3188,
+          "dumpRowSha256": "41578282835284b2be7b6f98fc44bdc2c73808a7b4f8007ec7bfd2fd2e23dc1f",
+          "objectFields": [
+            {
+              "name": "Default__Athena_PlayerCameraModeBase_C",
+              "type": "Athena_PlayerCameraModeBase_C",
+              "package": "/Game/Blueprints/Camera/Athena/Athena_PlayerCameraModeBase",
+              "exportFields": [
+                "Class",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "CameraOriginInterpSpeed",
+                "CameraSpaceForwardDistance",
+                "CameraSpaceViewOffset",
+                "CollisionPushOutDistance",
+                "FOV",
+                "PenetrationAvoidanceFeelers",
+                "TransitionOutTime",
+                "TransitionParams",
+                "TransitionTime",
+                "ViewTargetSpaceViewOffset",
+                "ViewTargetSpaceViewOffsetInterpSpeed",
+                "ViewTargetSpaceViewOffset_Crouch"
+              ]
+            },
+            {
+              "name": "Athena_PlayerCameraModeBase_C",
+              "type": "BlueprintGeneratedClass",
+              "package": "/Game/Blueprints/Camera/Athena/Athena_PlayerCameraModeBase",
+              "exportFields": [
+                "Class",
+                "ClassConfigName",
+                "ClassDefaultObject",
+                "ClassFlags",
+                "ClassWithin",
+                "EditorTags",
+                "Flags",
+                "Name",
+                "Package",
+                "SuperStruct",
+                "Type",
+                "bCooked"
+              ],
+              "propertyNames": []
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "Default__Athena_PlayerCameraModeBase_C",
+          "type": "Athena_PlayerCameraModeBase_C",
+          "package": "/Game/Blueprints/Camera/Athena/Athena_PlayerCameraModeBase",
+          "exportFields": [
+            "Class",
+            "Flags",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "CameraOriginInterpSpeed",
+            "CameraSpaceForwardDistance",
+            "CameraSpaceViewOffset",
+            "CollisionPushOutDistance",
+            "FOV",
+            "PenetrationAvoidanceFeelers",
+            "TransitionOutTime",
+            "TransitionParams",
+            "TransitionTime",
+            "ViewTargetSpaceViewOffset",
+            "ViewTargetSpaceViewOffsetInterpSpeed",
+            "ViewTargetSpaceViewOffset_Crouch"
+          ]
+        },
+        {
+          "name": "Athena_PlayerCameraModeBase_C",
+          "type": "BlueprintGeneratedClass",
+          "package": "/Game/Blueprints/Camera/Athena/Athena_PlayerCameraModeBase",
+          "exportFields": [
+            "Class",
+            "ClassConfigName",
+            "ClassDefaultObject",
+            "ClassFlags",
+            "ClassWithin",
+            "EditorTags",
+            "Flags",
+            "Name",
+            "Package",
+            "SuperStruct",
+            "Type",
+            "bCooked"
+          ],
+          "propertyNames": []
+        }
+      ],
+      "cameraDefaultsInLocalFile": {
+        "CameraOriginInterpSpeed": {
+          "X": 12.0,
+          "Y": 100000000000.0,
+          "Z": 60.0
+        },
+        "CameraSpaceForwardDistance": -280.0,
+        "CameraSpaceViewOffset": {
+          "SamplePoints": [
+            {
+              "LargeBodyTypeAddtnlOffset": {
+                "X": 0.0,
+                "Y": 6.0,
+                "Z": 0.0
+              },
+              "PitchAngle": 0.0,
+              "ViewOffset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            {
+              "LargeBodyTypeAddtnlOffset": {
+                "X": 0.0,
+                "Y": 6.0,
+                "Z": 0.0
+              },
+              "PitchAngle": 90.0,
+              "ViewOffset": {
+                "X": -10.0,
+                "Y": 0.0,
+                "Z": 25.0
+              }
+            },
+            {
+              "LargeBodyTypeAddtnlOffset": {
+                "X": 0.0,
+                "Y": 6.0,
+                "Z": 0.0
+              },
+              "PitchAngle": -90.0,
+              "ViewOffset": {
+                "X": 10.0,
+                "Y": 0.0,
+                "Z": 25.0
+              }
+            }
+          ]
+        },
+        "CollisionPushOutDistance": 0.2,
+        "FOV": 80.0,
+        "PenetrationAvoidanceFeelers": [
+          {
+            "AdjustmentRot": {
+              "Pitch": 0.0,
+              "Roll": 0.0,
+              "Yaw": 0.0
+            },
+            "Extent": 8.0,
+            "FramesUntilNextTrace": 0,
+            "PawnWeight": 0.5,
+            "TraceInterval": 0,
+            "WorldWeight": 0.5
+          },
+          {
+            "AdjustmentRot": {
+              "Pitch": 0.0,
+              "Roll": 0.0,
+              "Yaw": 1.0
+            },
+            "Extent": 0.0,
+            "FramesUntilNextTrace": 0,
+            "PawnWeight": 0.4,
+            "TraceInterval": 3,
+            "WorldWeight": 0.4
+          },
+          {
+            "AdjustmentRot": {
+              "Pitch": 0.0,
+              "Roll": 0.0,
+              "Yaw": -1.0
+            },
+            "Extent": 0.0,
+            "FramesUntilNextTrace": 0,
+            "PawnWeight": 0.4,
+            "TraceInterval": 3,
+            "WorldWeight": 0.4
+          },
+          {
+            "AdjustmentRot": {
+              "Pitch": 1.0,
+              "Roll": 0.0,
+              "Yaw": 0.0
+            },
+            "Extent": 0.0,
+            "FramesUntilNextTrace": 0,
+            "PawnWeight": 0.4,
+            "TraceInterval": 4,
+            "WorldWeight": 0.4
+          },
+          {
+            "AdjustmentRot": {
+              "Pitch": -1.0,
+              "Roll": 0.0,
+              "Yaw": 0.0
+            },
+            "Extent": 0.0,
+            "FramesUntilNextTrace": 0,
+            "PawnWeight": 0.4,
+            "TraceInterval": 4,
+            "WorldWeight": 0.4
+          }
+        ],
+        "TransitionOutTime": 0.45,
+        "TransitionParams": {
+          "BlendFunction": "EViewTargetBlendFunction::VTBlend_EaseInOut"
+        },
+        "TransitionTime": 0.45,
+        "ViewTargetSpaceViewOffset": {
+          "SamplePoints": [
+            {
+              "LargeBodyTypeAddtnlOffset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "PitchAngle": 0.0,
+              "ViewOffset": {
+                "X": 0.0,
+                "Y": 45.0,
+                "Z": 75.0
+              }
+            }
+          ]
+        },
+        "ViewTargetSpaceViewOffsetInterpSpeed": {
+          "X": 10.0,
+          "Y": 10.0,
+          "Z": 10.0
+        },
+        "ViewTargetSpaceViewOffset_Crouch": {
+          "SamplePoints": [
+            {
+              "LargeBodyTypeAddtnlOffset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "PitchAngle": 0.0,
+              "ViewOffset": {
+                "X": 0.0,
+                "Y": 45.0,
+                "Z": 40.0
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "file": "DefaultInput.ini",
+      "bytes": 418914,
+      "sha256": "0a5c28d0b7ea32b6c100439d820cc29cc109f77018d8a6d24f71ec69db1704a4",
+      "status": "text_matches_dump_normalized",
+      "records": [
+        {
+          "archivePath": "FortniteGame/Config/DefaultInput.ini",
+          "kind": "texto",
+          "dumpLine": 903,
+          "dumpByteOffset": 6677524,
+          "dumpRowBytes": 440890,
+          "dumpRowSha256": "54381ddb1cb0dcfcd1d24d87bd8fcd13a585cd5c9844f0fb53ba39bf4f07418c"
+        }
+      ],
+      "parametersBySection": {
+        "CurrentIniVersion": [
+          "Preserve",
+          "Version"
+        ],
+        "SectionsToSave": [
+          "+Section"
+        ],
+        "/Script/Engine.PlayerInput": [
+          "+DebugExecBindings",
+          "-DebugExecBindings",
+          "DebugExecBindings"
+        ],
+        "/Script/FortniteGame.FortPlayerInput": [
+          "+AthenaKBMResetToDefaultPresetNames",
+          "+CampaignKBMResetToDefaultPresetNames",
+          "+FortPlayerInputSettingsNames",
+          "+InputActionGroupContexts",
+          "+InputActionGroupExemptFromAllModesCheck",
+          "+InputActionTypeFriendlyNames",
+          "AthenaDefaultKBMPresetName",
+          "CampaignDefaultKBMPresetName",
+          "CustomGamepadPresetNameAthena",
+          "DefaultGamepadPresetName",
+          "DefaultGamepadPresetNameAthena",
+          "DefaultGamepadPresetNameAthenaMobile"
+        ],
+        "ConfigKBM_Campaign /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigKBM_Athena /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigKBMResetToDefault_Campaign /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "Description",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "SubDescription",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigKBMResetToDefault_Campaign2 /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "Description",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigKBMResetToDefault_Athena /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "Description",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "SubDescription",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigKBMResetToDefault_Athena2 /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "Description",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigD /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionKeyAliases",
+          "+ActionMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigE /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionKeyAliases",
+          "+ActionMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigF /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionKeyAliases",
+          "+ActionMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigG /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionKeyAliases",
+          "+ActionMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigD_Athena /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "+AxisMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigE_Athena /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "+AxisMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigF_Athena /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "+AxisMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigG_Athena /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "+AxisMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigH_Athena /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "+AxisMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "ConfigCustom_Athena /Script/FortniteGame.FortPlayerInputSettings": [
+          "+ActionMappings",
+          "+ActionsThatShouldAlwaysBeBound",
+          "+AxisMappings",
+          "FriendlyName",
+          "HoldCraftAmmoTime",
+          "HoldInputTime",
+          "NumActiveTrapSlots",
+          "bBuildingPickerOnlyChoosesCategories",
+          "bEditModeUsableFromCombatMode",
+          "bEnabledForAthena",
+          "bEnabledForCampaign",
+          "bRadialClosesOnRelease",
+          "bTrapPickerUsesRadial",
+          "bWeaponPickerShowOnlySlottedItems",
+          "bWeaponSlotsAreSharedWhenUsingGamepad"
+        ],
+        "/Script/EngineSettings.ConsoleSettings": [
+          "!AutoCompleteMapPaths",
+          "+ManualAutoCompleteList"
+        ],
+        "/Script/Engine.InputSettings": [
+          "+ActionMappings",
+          "+AxisConfig",
+          "+AxisMappings",
+          "+DeprecatedActionAndAxisNames",
+          "+ExcludedAutocorrectCultures",
+          "+ExcludedAutocorrectDeviceModels",
+          "+ExcludedKeysForMostRecentlyUsedDevice",
+          "-AxisConfig",
+          "DefaultInputComponentClass",
+          "DefaultPlayerInputClass",
+          "DefaultTouchInterface",
+          "DefaultViewportMouseCaptureMode",
+          "DefaultViewportMouseLockMode",
+          "DoubleClickTime",
+          "FOVScale",
+          "bAltEnterTogglesFullscreen",
+          "bAlwaysShowTouchInterface",
+          "bCaptureMouseOnLaunch",
+          "bEnableFOVScaling",
+          "bEnableGestureRecognizer",
+          "bEnableLegacyInputScales",
+          "bEnableMotionControls",
+          "bEnableMouseSmoothing",
+          "bEnabledLegacyMappingDeprecationWarnings",
+          "bF11TogglesFullscreen",
+          "bFilterInputByPlatformUser",
+          "bShouldFlushPressedKeysOnViewportFocusLost",
+          "bShowConsoleOnFourFingerTap",
+          "bUseAutocorrect",
+          "bUseMouseForTouch"
+        ],
+        "/Script/CommonUI.CommonUIInputSettings": [
+          "+InputActions",
+          "AnalogCursorSettings",
+          "UIActionProcessingPriority",
+          "bLinkCursorToGamepadFocus"
+        ],
+        "/Script/EnhancedInput.EnhancedInputDeveloperSettings": [
+          "DefaultMappingContextInputModeQuery",
+          "DefaultPlayerMappableKeyProfileClass",
+          "UserSettingsClass",
+          "bEnableUserSettings",
+          "bEnableWorldSubsystem"
+        ],
+        "/Script/FortniteGame.FortEnhancedInputUserSettingsConfiguration": [
+          "+LegacyActionGroupOverlapFilters",
+          "+MappingNameRedirects"
+        ],
+        "InputPlatformSettings_Windows InputPlatformSettings": [
+          "+HardwareDevices",
+          "input.DeviceMappingPolicy"
+        ],
+        "/Script/GameInputBase.GameInputDeveloperSettings": [
+          "+DeviceConfigurations",
+          "bDoNotProcessDuplicateCapabilitiesForSingleUser"
+        ],
+        "GameInputPlatformSettings_Windows GameInputPlatformSettings": [
+          "bProcessController",
+          "bProcessRawInput"
+        ],
+        "/Script/MidiInputInternal.MidiInputSettings": [
+          "+DeviceConfigurations"
+        ]
+      },
+      "mouseAxisLines": [
+        "-AxisConfig=(AxisKeyName=\"MouseX\",AxisProperties=(DeadZone=0.f,Exponent=1.f,Sensitivity=0.07f))",
+        "-AxisConfig=(AxisKeyName=\"MouseY\",AxisProperties=(DeadZone=0.f,Exponent=1.f,Sensitivity=0.07f))",
+        "-AxisConfig=(AxisKeyName=\"Mouse2D\",AxisProperties=(DeadZone=0.f,Exponent=1.f,Sensitivity=0.07f))",
+        "+AxisConfig=(AxisKeyName=\"Mouse2D\",AxisProperties=(DeadZone=0.000000,Sensitivity=0.070000,Exponent=1.000000,bInvert=False))",
+        "+AxisConfig=(AxisKeyName=\"MouseX\",AxisProperties=(DeadZone=0.000000,Sensitivity=0.070000,Exponent=1.000000,bInvert=False))",
+        "+AxisConfig=(AxisKeyName=\"MouseY\",AxisProperties=(DeadZone=0.000000,Sensitivity=0.070000,Exponent=1.000000,bInvert=False))"
+      ]
+    }
+  ],
+  "childManifests": [],
+  "note": "The camera export describes a base mode. It does not establish the effective POV, absolute camera height, player sensitivity, or active mode. INI operators are kept literal. Runtime camera values are in engine/provenance.json."
+}

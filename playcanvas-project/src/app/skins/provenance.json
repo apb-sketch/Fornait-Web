@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/skins",
+  "entries": [
+    {
+      "file": "character-rig.ts",
+      "bytes": 1914,
+      "sha256": "0e6ef249b3cfd26b1badd09b0a5ee2847b1a1b633000384eb890bd7c6fc40343",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "matching joint paths",
+        "bind offsets",
+        "pre-render synchronization"
+      ]
+    }
+  ],
+  "childManifests": [
+    "F_MED_ShoneStays/provenance.json"
+  ]
+}

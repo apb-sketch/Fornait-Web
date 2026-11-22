@@ -1,0 +1,204 @@
+[
+  {
+    "Type": "Material",
+    "Name": "M_PBW_EditMode_Blocks",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode_Blocks",
+    "Properties": {
+      "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+      "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+      "ShadingModels": {
+        "ShadingModelField": 1
+      },
+      "TranslucencyLightingMode": "ETranslucencyLightingMode::TLM_VolumetricPerVertexNonDirectional",
+      "bDisableDepthTest": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "bUseTranslucencyVertexFog": false,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "172445EE-AB0094A7-29FCA8BF-AB40CD97",
+      "TextureStreamingData": [
+        {
+          "SamplingScale": 1.0,
+          "UVChannelIndex": 0,
+          "TextureName": "BlueprintTest1"
+        }
+      ],
+      "ReferencedDefaultTextures": [
+        {
+          "ObjectName": "Texture2D'BlueprintTest1'",
+          "ObjectPath": "/Game/Packages/DS_Fortnite_Mesh/BlueprintTest1.0"
+        }
+      ],
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": [
+          {
+            "Name": "isX",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "isblinkingSign",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Opacity-Intersecting",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FadeDistance",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "OpacityB",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "CustomDepthDivisor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "BlueColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Diffuse",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[6]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[7]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[8]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "UseDirectionalArrowPulse",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[9]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[10]": {
+        "ParameterInfoSet": []
+      },
+      "ScalarPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "VectorPrimitiveDataIndexValues": [
+        -1
+      ],
+      "ScalarValues": [
+        0.0,
+        0.0,
+        0.4,
+        5.0,
+        1.0,
+        50000.0
+      ],
+      "StaticSwitchValues": [
+        false
+      ],
+      "DynamicSwitchValues": [
+        false
+      ],
+      "VectorValues": [
+        {
+          "R": 0.012932429,
+          "G": 0.08963752,
+          "B": 0.29,
+          "A": 1.0,
+          "Hex": "1E5493"
+        }
+      ],
+      "DoubleVectorValues": [],
+      "TextureValues": [
+        {
+          "AssetPathName": "/Game/Packages/DS_Fortnite_Mesh/BlueprintTest1.BlueprintTest1",
+          "SubPathString": ""
+        }
+      ],
+      "TextureCollectionValues": [],
+      "ParameterCollectionValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "SparseVolumeTextureValues": [],
+      "ToonProfileValues": [],
+      "ReferencedTextureCollections": [],
+      "ReferencedExternalCodeExpressionClasses": [],
+      "FunctionInfos": [],
+      "FunctionInfosStateCRC": 4294967295,
+      "ParameterCollectionInfos": [],
+      "NamedGrassTypes": [],
+      "MaterialCacheTags": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": []
+      },
+      "DynamicParameterNames": [],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "MaterialCacheUVCoordinatesUsedMask": 0,
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasFirstPersonOutput": false,
+      "bUsesTemporalResponsiveness": false,
+      "bUsesMotionVectorWorldOffset": false,
+      "bSamplesMaterialCache": false,
+      "bHasMaterialCacheOutput": false,
+      "bMaterialCacheHasNonUVDerivedExpression": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "bHasCustomizedUVs": false,
+      "bHasMeshPaintTexture": false,
+      "bHasWorldPosition": false,
+      "PropertyConnectedMask": 3
+    }
+  }
+]

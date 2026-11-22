@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/assets",
+  "entries": [
+    {
+      "file": "playcanvas.png",
+      "bytes": 14311,
+      "sha256": "ac422b0f004c6c64e8521b48f9a7069242c17baa7ead7f19994d91a319fc6019",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    }
+  ],
+  "childManifests": []
+}

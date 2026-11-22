@@ -1,0 +1,52 @@
+[
+  {
+    "Type": "FortAnimationLayeringWeightsDataAsset",
+    "Name": "PaperBlueprint_Layering_DA",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'FortAnimationLayeringWeightsDataAsset'",
+    "Package": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_Layering_DA",
+    "Properties": {
+      "BodyPartsDefinition": {
+        "ObjectName": "FortAnimationLayeringBodyPartsDataAsset'Layering_BodyParts_DA'",
+        "ObjectPath": "/Game/Characters/Player/DataAssets/Layering_BodyParts_DA.0"
+      },
+      "bUseLocalSpaceAdditive": true,
+      "ShoulderL": {
+        "LocalSpaceWeight": 0.5
+      },
+      "ShoulderR": {
+        "LocalSpaceWeight": 0.5
+      },
+      "ArmL": {
+        "LocalSpaceWeight": 0.7
+      },
+      "ArmR": {
+        "LocalSpaceWeight": 0.5
+      },
+      "WeaponL": {
+        "LocalSpaceWeight": 1.0
+      },
+      "WeaponR": {
+        "LocalSpaceWeight": 1.0
+      },
+      "HandAttachL": {
+        "LocalSpaceWeight": 1.0
+      },
+      "HandAttachR": {
+        "LocalSpaceWeight": 1.0
+      },
+      "HandL": {
+        "LocalSpaceWeight": 0.95
+      },
+      "HandR": {
+        "LocalSpaceWeight": 0.95
+      },
+      "FingersL": {
+        "LocalSpaceWeight": 1.0
+      },
+      "FingersR": {
+        "LocalSpaceWeight": 1.0
+      }
+    }
+  }
+]

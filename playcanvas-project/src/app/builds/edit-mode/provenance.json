@@ -1,0 +1,467 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/builds/edit-mode",
+  "entries": [
+    {
+      "file": "BlueprintTest1.png",
+      "bytes": 14429,
+      "sha256": "e72a372d09f9eb54ce010fa5e5368099cb856217976bfa5f8a2827d6d7293c8c",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/BlueprintTest1.uasset",
+          "kind": "paquete",
+          "dumpLine": 152,
+          "dumpByteOffset": 266589,
+          "dumpRowBytes": 2221,
+          "dumpRowSha256": "1364705f6593c0e7f426811e3dea5bb70b6c49cd28b4087901b9c786b9666064",
+          "objectFields": [
+            {
+              "name": "BlueprintTest1",
+              "type": "Texture2D",
+              "package": "/Game/Packages/DS_Fortnite_Mesh/BlueprintTest1",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LightingGuid"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\DS_Fortnite_Mesh\\BlueprintTest1.png",
+          "bytes": 14429,
+          "sha256": "e72a372d09f9eb54ce010fa5e5368099cb856217976bfa5f8a2827d6d7293c8c",
+          "bytesMatchLocalFile": true
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\edit-material\\BlueprintTest1.png",
+          "bytes": 14429,
+          "sha256": "e72a372d09f9eb54ce010fa5e5368099cb856217976bfa5f8a2827d6d7293c8c",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "BlueprintTestX.png",
+      "bytes": 14902,
+      "sha256": "30b96d11ed7c09cc2155b0ae77aedb3456c1bb3932b09b8516dc0f8abea2963d",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/BlueprintTestX.uasset",
+          "kind": "paquete",
+          "dumpLine": 154,
+          "dumpByteOffset": 268939,
+          "dumpRowBytes": 2221,
+          "dumpRowSha256": "9fd991bb2e162a1a7f77c89d23effae0166cfaeaf7c67e80aad5290d03cbdf29",
+          "objectFields": [
+            {
+              "name": "BlueprintTestX",
+              "type": "Texture2D",
+              "package": "/Game/Packages/DS_Fortnite_Mesh/BlueprintTestX",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LightingGuid"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\DS_Fortnite_Mesh\\BlueprintTestX.png",
+          "bytes": 14902,
+          "sha256": "30b96d11ed7c09cc2155b0ae77aedb3456c1bb3932b09b8516dc0f8abea2963d",
+          "bytesMatchLocalFile": true
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\edit-material\\BlueprintTestX.png",
+          "bytes": 14902,
+          "sha256": "30b96d11ed7c09cc2155b0ae77aedb3456c1bb3932b09b8516dc0f8abea2963d",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    },
+    {
+      "file": "M_PBW_EditMode.json",
+      "bytes": 4931,
+      "sha256": "ef7dd567345d4d687b59abd8d7a4ec26d46842ca5b1c241a47560888282acdbd",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode.uasset",
+          "kind": "paquete",
+          "dumpLine": 160,
+          "dumpByteOffset": 284709,
+          "dumpRowBytes": 3349,
+          "dumpRowSha256": "bc5f966a90c0e74fd38ccb5124e237d6a2eb9e4a85d7083e10109f4cc2881cec",
+          "objectFields": [
+            {
+              "name": "M_PBW_EditMode",
+              "type": "Material",
+              "package": "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode",
+              "exportFields": [
+                "CachedExpressionData",
+                "Class",
+                "Flags",
+                "LoadedMaterialResources",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "PixelDepthOffsetMode",
+                "ReferencedDefaultTextures",
+                "StateId",
+                "TranslucencyLightingMode",
+                "bCanMaskedBeAssumedOpaque",
+                "bIncludedInBaseGame"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "M_PBW_EditMode",
+          "type": "Material",
+          "package": "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode",
+          "exportFields": [
+            "CachedExpressionData",
+            "Class",
+            "Flags",
+            "LoadedMaterialResources",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "PixelDepthOffsetMode",
+            "ReferencedDefaultTextures",
+            "StateId",
+            "TranslucencyLightingMode",
+            "bCanMaskedBeAssumedOpaque",
+            "bIncludedInBaseGame"
+          ]
+        }
+      ],
+      "existingRawExport": {
+        "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\edit-material\\M_PBW_EditMode.uasset",
+        "bytes": 10306,
+        "sha256": "444717237b264638da13f24c1521bf83135f9fdff0eef5bf32e3c0323eac4a65",
+        "linkage": "same basename in historical exporter output"
+      }
+    },
+    {
+      "file": "M_PBW_EditMode_Blocks.json",
+      "bytes": 5958,
+      "sha256": "2c58d4617ca37a03bf3f505ab510eaa584305a3119b3c355c96bc61885c490b4",
+      "status": "content_matches_dump",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode_Blocks.uasset",
+          "kind": "paquete",
+          "dumpLine": 161,
+          "dumpByteOffset": 288058,
+          "dumpRowBytes": 4021,
+          "dumpRowSha256": "8a26d8815be76069c9da95c6b7be9f6e09f521ddf83244568eb8c770e2ab3522",
+          "objectFields": [
+            {
+              "name": "M_PBW_EditMode_Blocks",
+              "type": "Material",
+              "package": "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode_Blocks",
+              "exportFields": [
+                "CachedExpressionData",
+                "Class",
+                "Flags",
+                "LoadedMaterialResources",
+                "Name",
+                "Package",
+                "Properties",
+                "Type"
+              ],
+              "propertyNames": [
+                "BlendMode",
+                "PixelDepthOffsetMode",
+                "ReferencedDefaultTextures",
+                "ShadingModel",
+                "ShadingModels",
+                "StateId",
+                "TextureStreamingData",
+                "TranslucencyLightingMode",
+                "bCanMaskedBeAssumedOpaque",
+                "bDisableDepthTest",
+                "bIncludedInBaseGame",
+                "bUseTranslucencyVertexFog"
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsInLocalFile": [
+        {
+          "name": "M_PBW_EditMode_Blocks",
+          "type": "Material",
+          "package": "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode_Blocks",
+          "exportFields": [
+            "CachedExpressionData",
+            "Class",
+            "Flags",
+            "LoadedMaterialResources",
+            "Name",
+            "Package",
+            "Properties",
+            "Type"
+          ],
+          "propertyNames": [
+            "BlendMode",
+            "PixelDepthOffsetMode",
+            "ReferencedDefaultTextures",
+            "ShadingModel",
+            "ShadingModels",
+            "StateId",
+            "TextureStreamingData",
+            "TranslucencyLightingMode",
+            "bCanMaskedBeAssumedOpaque",
+            "bDisableDepthTest",
+            "bIncludedInBaseGame",
+            "bUseTranslucencyVertexFog"
+          ]
+        }
+      ],
+      "existingRawExport": {
+        "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\edit-material\\M_PBW_EditMode_Blocks.uasset",
+        "bytes": 10435,
+        "sha256": "5f3624aab171e899aab4b7f16762ecf9394ebfdef8e5f0e0b979c61c473f92dc",
+        "linkage": "same basename in historical exporter output"
+      }
+    },
+    {
+      "file": "T_VertGradient.png",
+      "bytes": 186,
+      "sha256": "bfdfab5d621d21e3f184b246d8afc5d9f43acd76c0bf4dbfe8951fad81a9f992",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Global/Textures/Default/Masks_and_Gradients/T_VertGradient.uasset",
+          "kind": "paquete",
+          "dumpLine": 276929,
+          "dumpByteOffset": 2601243085,
+          "dumpRowBytes": 1611,
+          "dumpRowSha256": "7542ba9e04f70b940f06c48880808dfaf2a63e41291845894bd13d519a3f57d7",
+          "objectFields": [
+            {
+              "name": "T_VertGradient",
+              "type": "Texture2D",
+              "package": "/Game/Global/Textures/Default/Masks_and_Gradients/T_VertGradient",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        },
+        {
+          "archivePath": "FortniteGame/Content/Weapons/WeaponSkins/Textures/T_VertGradient.uasset",
+          "kind": "paquete",
+          "dumpLine": 360586,
+          "dumpByteOffset": 3408061522,
+          "dumpRowBytes": 1631,
+          "dumpRowSha256": "22013c01f959e0d0ebc87307f7bd8068562d0bde2c4d1113e589ad2c99b99086",
+          "objectFields": [
+            {
+              "name": "T_VertGradient",
+              "type": "Texture2D",
+              "package": "/Game/Weapons/WeaponSkins/Textures/T_VertGradient",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LODGroup",
+                "LightingGuid",
+                "SRGB"
+              ]
+            }
+          ]
+        },
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_Rockstar/Skins/Sparkle/Textures/T_VertGradient.uasset",
+          "kind": "paquete",
+          "dumpLine": 638564,
+          "dumpByteOffset": 6799974921,
+          "dumpRowBytes": 1704,
+          "dumpRowSha256": "4adf75ca5c1fd1d60486bb3ed58b489d5ce81a87482bb0e78b2a29f7c2f0bba7",
+          "objectFields": [
+            {
+              "name": "T_VertGradient",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Rockstar/Skins/Sparkle/Textures/T_VertGradient",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LightingGuid"
+              ]
+            }
+          ]
+        },
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Weapons/FORT_Melee/Pickaxe_CyborgWarrior/Textures/T_VertGradient.uasset",
+          "kind": "paquete",
+          "dumpLine": 966962,
+          "dumpByteOffset": 11204551463,
+          "dumpRowBytes": 1650,
+          "dumpRowSha256": "609baf857f1aed2a9f55c1abe17ca408bb8c07365b8f17bd9286d161c29df511",
+          "objectFields": [
+            {
+              "name": "T_VertGradient",
+              "type": "Texture2D",
+              "package": "/BRCosmetics/Weapons/FORT_Melee/Pickaxe_CyborgWarrior/Textures/T_VertGradient",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LightingGuid"
+              ]
+            }
+          ]
+        },
+        {
+          "archivePath": "FortniteGame/Plugins/GameFeatures/Figment/Figment_S08/Content/Athena/Items/Consumables/Spooky_Mist_Cube/Textures/T_VertGradient.uasset",
+          "kind": "paquete",
+          "dumpLine": 1473737,
+          "dumpByteOffset": 18379937664,
+          "dumpRowBytes": 1660,
+          "dumpRowSha256": "4c161ca8604b9a9ed143ffef2efe9414d678b9207a8b689f6fda2671901a86f9",
+          "objectFields": [
+            {
+              "name": "T_VertGradient",
+              "type": "Texture2D",
+              "package": "/Figment_S08/Athena/Items/Consumables/Spooky_Mist_Cube/Textures/T_VertGradient",
+              "exportFields": [
+                "Class",
+                "FirstMipToSerialize",
+                "Flags",
+                "Mips",
+                "Name",
+                "Package",
+                "PackedData",
+                "PixelFormat",
+                "Properties",
+                "SizeX",
+                "SizeY",
+                "Type"
+              ],
+              "propertyNames": [
+                "ImportedSize",
+                "LightingGuid"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Global\\Textures\\Default\\Masks_and_Gradients\\T_VertGradient.png",
+          "bytes": 186,
+          "sha256": "bfdfab5d621d21e3f184b246d8afc5d9f43acd76c0bf4dbfe8951fad81a9f992",
+          "bytesMatchLocalFile": true
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\edit-material\\T_VertGradient.png",
+          "bytes": 186,
+          "sha256": "bfdfab5d621d21e3f184b246d8afc5d9f43acd76c0bf4dbfe8951fad81a9f992",
+          "bytesMatchLocalFile": true
+        }
+      ]
+    }
+  ],
+  "childManifests": [],
+  "note": "Texture identity and dimensions do not establish the final active or selected cell tint, opacity, or the shader path at runtime."
+}

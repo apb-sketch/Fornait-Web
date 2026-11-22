@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "folder": ".",
+  "entries": [
+    {
+      "file": ".gitignore",
+      "bytes": 253,
+      "sha256": "fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": ".npmrc",
+      "bytes": 37,
+      "sha256": "3a951f66e7e0f3e2dd1832473a871357c4a507b51100636b73bcf6ff0dd78b6c",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": ".prettierignore",
+      "bytes": 28,
+      "sha256": "1c19c63c9a301fa1c7a916c4bb2ed8ca781adc0df72d5d70d22f008a815940f5",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "AGENTS.md",
+      "bytes": 3623,
+      "sha256": "a9ea3e7e9a45a42457a41d7acb23cbf42a7bf1985f9a66f63a936a39cc886716",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "CLAUDE.md",
+      "bytes": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "README.md",
+      "bytes": 2050,
+      "sha256": "6d7a8f4850c2ee05595d1c556a5a7f21203724c848560387c3be0c0c00c1c1c6",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "bun.lock",
+      "bytes": 106705,
+      "sha256": "5c9920be856cffeea2ebd9bdd75791a5d12fff65f26b24ec0e43f33785abd7b6",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "eslint.config.mjs",
+      "bytes": 160,
+      "sha256": "58fb1c55ae63bd307a02c0c417cff1c91a09dae59fef48ddf663796a8740c36e",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "index.html",
+      "bytes": 395,
+      "sha256": "7650dd5989bf505e86d8a95e6c75b9001ca057f438f25b60de559fe6face50e4",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "iniciar-playcanvas.bat",
+      "bytes": 618,
+      "sha256": "a8cee45052167c6a844a2f9f7379635f114d4093a39bb4395b3881ade8681a34",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "package.json",
+      "bytes": 948,
+      "sha256": "a4ea4fcd1a28414edca6027450b1a32346f4e4185f8ee5cd79c96f7eb1d0648f",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "prettier.config.mjs",
+      "bytes": 62,
+      "sha256": "9f7f79eefa579ffa871cc5ae68d0b833c6982c2bc9fe05b7fba89b497a64e188",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "tsconfig.json",
+      "bytes": 731,
+      "sha256": "681f7be21c13e50c3a605705c67025d0ebedf2f951883b954b2f8261a72f2e57",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "vite.config.ts",
+      "bytes": 151,
+      "sha256": "d323f913e23ba21baa5246a95c7f2dbdf381c8cb21001482d3796ced3dceaec8",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    }
+  ],
+  "childManifests": [
+    "src/provenance.json"
+  ],
+  "sourceDump": {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\outputs\\fortnite-texto-completo.jsonl",
+    "records": 1995508,
+    "bytes": 24517770687,
+    "exporterManifestId": "FCB3FADF84FFA56D5234F5F795E49A78B31AED7BEF5E1ECC2590398F97D97DC4"
+  },
+  "localAuditTools": {
+    "indexScript": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\index_playcanvas_provenance.py",
+    "manifestScript": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\write_playcanvas_provenance.py",
+    "lookup": "Seek to dumpByteOffset in the dump and read dumpRowBytes bytes. Verify dumpRowSha256 before parsing."
+  },
+  "hashSemantics": {
+    "sha256": "SHA-256 of the named local file",
+    "dumpRowSha256": "SHA-256 of the exact JSONL record bytes including its line ending",
+    "existingRawExport": "SHA-256 of existing raw export bytes; a parsed dump cannot authenticate the original archive bytes"
+  },
+  "auditLimits": [
+    "No active game runtime or live extraction was used. The installed-game version was not independently verified.",
+    "Path lookups and digest comparisons are against the existing Fortnite Porting dump and local artifacts.",
+    "Code marked local_project_or_tooling belongs to the existing viewer. It is not a verified game configuration.",
+    "No Three.js editing implementation, screenshot-derived color, sensitivity conversion or camera preset was ported.",
+    "Previous source code and archives remain outside this project."
+  ],
+  "threeJsAudit": {
+    "sourceDirectory": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\outputs\\fortnitelocal-web",
+    "removedProjectFile": "F/configurations/threejs-demo-settings.json",
+    "archivedMixedConfigs": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\playcanvas-previous-configurations",
+    "scope": {
+      "skinAndAnimations": "Existing PlayCanvas viewer and asset exports were inventoried. A hash match in matchesThreeJsBytes identifies shared bytes only.",
+      "cameraAndMovement": "The viewer settings were preserved. Three.js app.js defines additional demo-specific camera and movement constants.",
+      "buildingAndEditing": "Metadata and existing exports were inventoried. Three.js free-build.js supplies its own selection, preview, collision handling and placement logic."
+    },
+    "lookups": {
+      "camera": "F/configurations/aim/provenance.json",
+      "materialsAndCollisions": "F/configurations/builds/provenance.json",
+      "editTextures": "F/builds/edit-mode/provenance.json",
+      "existingViewerParameters": "F/engine/provenance.json"
+    }
+  }
+}

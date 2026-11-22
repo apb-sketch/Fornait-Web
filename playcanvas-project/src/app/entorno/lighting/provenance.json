@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/entorno/lighting",
+  "entries": [
+    {
+      "file": "lighting.ts",
+      "bytes": 251,
+      "sha256": "942b674b964b156710fb854259eb2aaef0f6e942fd84943547c0e875cc66449c",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "ambient color"
+      ]
+    }
+  ],
+  "childManifests": []
+}

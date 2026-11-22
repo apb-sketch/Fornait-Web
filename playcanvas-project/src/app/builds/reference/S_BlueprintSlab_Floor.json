@@ -1,0 +1,542 @@
+[
+  {
+    "Type": "BodySetup",
+    "Name": "RB_BodySetup_0",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'BodySetup'",
+    "Outer": {
+      "ObjectName": "StaticMesh'S_BlueprintSlab_Floor'",
+      "ObjectPath": "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor.1"
+    },
+    "Properties": {
+      "AggGeom": {
+        "ConvexElems": [
+          {
+            "VertexData": [
+              {
+                "X": 122.88085,
+                "Y": 122.875,
+                "Z": -6.40625
+              },
+              {
+                "X": 122.88085,
+                "Y": -122.876945,
+                "Z": -6.4000854
+              },
+              {
+                "X": -122.879875,
+                "Y": -122.876945,
+                "Z": -6.40625
+              },
+              {
+                "X": 122.88085,
+                "Y": 122.875,
+                "Z": 6.40625
+              },
+              {
+                "X": -122.879875,
+                "Y": 122.875,
+                "Z": -6.4000854
+              },
+              {
+                "X": -122.879875,
+                "Y": -122.876945,
+                "Z": 6.40625
+              },
+              {
+                "X": -122.879875,
+                "Y": 122.875,
+                "Z": 6.40625
+              },
+              {
+                "X": 122.88085,
+                "Y": -122.876945,
+                "Z": 6.40625
+              }
+            ],
+            "IndexData": [
+              0,
+              2,
+              4,
+              2,
+              6,
+              4,
+              6,
+              0,
+              4,
+              2,
+              0,
+              1,
+              0,
+              7,
+              1,
+              7,
+              2,
+              1,
+              0,
+              6,
+              3,
+              6,
+              7,
+              3,
+              7,
+              0,
+              3,
+              6,
+              2,
+              5,
+              2,
+              7,
+              5,
+              7,
+              6,
+              5
+            ],
+            "ElemBox": {
+              "Min": {
+                "X": -122.879875,
+                "Y": -122.876945,
+                "Z": -6.40625
+              },
+              "Max": {
+                "X": 122.88085,
+                "Y": 122.875,
+                "Z": 6.40625
+              },
+              "IsValid": 1
+            },
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            },
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "DefaultInstance": {
+        "ObjectType": "ECollisionChannel::ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::QueryOnly",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "FCC_Trace_WeaponCapsule",
+              "Response": "ECollisionResponse::ECR_Block"
+            },
+            {
+              "Channel": "FCC_Object_PawnAI",
+              "Response": "ECollisionResponse::ECR_Block"
+            },
+            {
+              "Channel": "FCC_Trace_WeaponMulti",
+              "Response": "ECollisionResponse::ECR_Block"
+            },
+            {
+              "Channel": "FCC_Trace_Weapon",
+              "Response": "ECollisionResponse::ECR_Block"
+            },
+            {
+              "Channel": "FCC_Object_Projectile",
+              "Response": "ECollisionResponse::ECR_Block"
+            },
+            {
+              "Channel": "FCC_Object_ProjectileIgnoreAI",
+              "Response": "ECollisionResponse::ECR_Block"
+            },
+            {
+              "Channel": "FCC_Object_ProjectileMesh",
+              "Response": "ECollisionResponse::ECR_Block"
+            },
+            {
+              "Channel": "FCC_Object_SpectatorDroneCamera",
+              "Response": "ECollisionResponse::ECR_Block"
+            },
+            {
+              "Channel": "FCC_Trace_WeaponPawnAndWorldMulti",
+              "Response": "ECollisionResponse::ECR_Block"
+            }
+          ]
+        },
+        "bSimulatePhysics": true
+      }
+    },
+    "BodySetupGuid": "42F8BF1E4158346246807481F55A5B96",
+    "CookedFormatData": {
+      "Chaos": {
+        "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+        "ElementCount": 1648,
+        "SizeOnDisk": 1648,
+        "OffsetInFile": "0x279"
+      }
+    }
+  },
+  {
+    "Type": "StaticMesh",
+    "Name": "S_BlueprintSlab_Floor",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMesh'",
+    "Package": "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor",
+    "Properties": {
+      "StaticMaterials": [
+        {
+          "MaterialInterface": {
+            "ObjectName": "Material'MGreen'",
+            "ObjectPath": "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/MGreen.0"
+          },
+          "MaterialSlotName": "MGreen",
+          "ImportedMaterialSlotName": "MGreen",
+          "UVChannelData": {
+            "bInitialized": true,
+            "bOverrideDensities": false,
+            "LocalUVDensities": 180.2082,
+            "LocalUVDensities[1]": 0.0,
+            "LocalUVDensities[2]": 0.0,
+            "LocalUVDensities[3]": 0.0
+          },
+          "OverlayMaterialInterface": null
+        }
+      ],
+      "LightmapUVDensity": 180.2082,
+      "LightMapResolution": 64,
+      "ExtendedBounds": {
+        "Origin": {
+          "X": 0.00048828125,
+          "Y": 0.001953125,
+          "Z": -3.0517578e-05
+        },
+        "BoxExtent": {
+          "X": 122.88037,
+          "Y": 122.88086,
+          "Z": 6.400055
+        },
+        "SphereRadius": 173.89724731445312
+      }
+    },
+    "BodySetup": {
+      "ObjectName": "BodySetup'S_BlueprintSlab_Floor:RB_BodySetup_0'",
+      "ObjectPath": "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor.0"
+    },
+    "NavCollision": null,
+    "LightingGuid": "B75677BE-4D70C27C-51CDBDBD-01219989",
+    "RenderData": {
+      "LODs": [
+        {
+          "Sections": [
+            {
+              "MaterialIndex": 0,
+              "FirstIndex": 0,
+              "NumTriangles": 12,
+              "MinVertexIndex": 0,
+              "MaxVertexIndex": 23,
+              "bEnableCollision": true,
+              "bCastShadow": true,
+              "bForceOpaque": false,
+              "bVisibleInRayTracing": true
+            }
+          ],
+          "MaxDeviation": 0.0,
+          "PositionVertexBuffer": {
+            "Stride": 12,
+            "NumVertices": 24
+          },
+          "VertexBuffer": {
+            "NumTexCoords": 1,
+            "NumVertices": 24,
+            "Strides": -1,
+            "UseHighPrecisionTangentBasis": false,
+            "UseFullPrecisionUVs": false
+          },
+          "ColorVertexBuffer": {
+            "Stride": 0,
+            "NumVertices": 0
+          },
+          "CardRepresentationData": {
+            "Bounds": {
+              "Min": {
+                "X": -123.87988,
+                "Y": -123.87891,
+                "Z": -7.4000854
+              },
+              "Max": {
+                "X": 123.88086,
+                "Y": 123.88281,
+                "Z": 7.4000244
+              },
+              "IsValid": 1
+            },
+            "MaxLodLevel": 0,
+            "bMostlyTwoSided": false,
+            "CardBuildData": [
+              {
+                "OBB": {
+                  "AxisX": {
+                    "X": 0.0,
+                    "Y": 1.0,
+                    "Z": 0.0
+                  },
+                  "AxisY": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 1.0
+                  },
+                  "AxisZ": {
+                    "X": -1.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                  },
+                  "Origin": {
+                    "X": -119.99951,
+                    "Y": 0.001953125,
+                    "Z": -3.0517578e-05
+                  },
+                  "Extent": {
+                    "X": 123.88086,
+                    "Y": 5.0,
+                    "Z": 10.0
+                  }
+                },
+                "LODLevel": 0,
+                "AxisAlignedDirectionIndex": 0
+              },
+              {
+                "OBB": {
+                  "AxisX": {
+                    "X": 0.0,
+                    "Y": 1.0,
+                    "Z": 0.0
+                  },
+                  "AxisY": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 1.0
+                  },
+                  "AxisZ": {
+                    "X": 1.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                  },
+                  "Origin": {
+                    "X": 120.00049,
+                    "Y": 0.001953125,
+                    "Z": -3.0517578e-05
+                  },
+                  "Extent": {
+                    "X": 123.88086,
+                    "Y": 5.0,
+                    "Z": 10.0
+                  }
+                },
+                "LODLevel": 0,
+                "AxisAlignedDirectionIndex": 1
+              },
+              {
+                "OBB": {
+                  "AxisX": {
+                    "X": 1.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                  },
+                  "AxisY": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 1.0
+                  },
+                  "AxisZ": {
+                    "X": 0.0,
+                    "Y": -1.0,
+                    "Z": 0.0
+                  },
+                  "Origin": {
+                    "X": 0.00048828125,
+                    "Y": -119.99805,
+                    "Z": -3.0517578e-05
+                  },
+                  "Extent": {
+                    "X": 123.88037,
+                    "Y": 5.0,
+                    "Z": 10.0
+                  }
+                },
+                "LODLevel": 0,
+                "AxisAlignedDirectionIndex": 2
+              },
+              {
+                "OBB": {
+                  "AxisX": {
+                    "X": 1.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                  },
+                  "AxisY": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 1.0
+                  },
+                  "AxisZ": {
+                    "X": 0.0,
+                    "Y": 1.0,
+                    "Z": 0.0
+                  },
+                  "Origin": {
+                    "X": 0.00048828125,
+                    "Y": 120.00195,
+                    "Z": -3.0517578e-05
+                  },
+                  "Extent": {
+                    "X": 123.88037,
+                    "Y": 5.0,
+                    "Z": 10.0
+                  }
+                },
+                "LODLevel": 0,
+                "AxisAlignedDirectionIndex": 3
+              },
+              {
+                "OBB": {
+                  "AxisX": {
+                    "X": 1.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                  },
+                  "AxisY": {
+                    "X": 0.0,
+                    "Y": 1.0,
+                    "Z": 0.0
+                  },
+                  "AxisZ": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": -1.0
+                  },
+                  "Origin": {
+                    "X": 0.00048828125,
+                    "Y": 0.001953125,
+                    "Z": -3.0517578e-05
+                  },
+                  "Extent": {
+                    "X": 123.88037,
+                    "Y": 123.88086,
+                    "Z": 10.0
+                  }
+                },
+                "LODLevel": 0,
+                "AxisAlignedDirectionIndex": 4
+              },
+              {
+                "OBB": {
+                  "AxisX": {
+                    "X": 1.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                  },
+                  "AxisY": {
+                    "X": 0.0,
+                    "Y": 1.0,
+                    "Z": 0.0
+                  },
+                  "AxisZ": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 1.0
+                  },
+                  "Origin": {
+                    "X": 0.00048828125,
+                    "Y": 0.001953125,
+                    "Z": -3.0517578e-05
+                  },
+                  "Extent": {
+                    "X": 123.88037,
+                    "Y": 123.88086,
+                    "Z": 10.0
+                  }
+                },
+                "LODLevel": 0,
+                "AxisAlignedDirectionIndex": 5
+              }
+            ]
+          }
+        }
+      ],
+      "NaniteResources": {
+        "StreamablePages": {
+          "BulkDataFlags": "BULKDATA_None",
+          "ElementCount": 0,
+          "SizeOnDisk": 0,
+          "OffsetInFile": "0x462"
+        },
+        "AssemblyTransforms": [],
+        "AssemblyBoneAttachmentData": [],
+        "BoneIndices": [],
+        "VoxelMaterialsMask": 0,
+        "MeshBounds": {
+          "Origin": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "BoxExtent": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "SphereRadius": 0.0
+        },
+        "PageRangeLookup": [],
+        "NumRootPages": 0,
+        "PositionPrecision": 0,
+        "NormalPrecision": 0,
+        "NumInputTriangles": 0,
+        "NumInputVertices": 0,
+        "NumInputMeshes": 0,
+        "NumInputTexCoords": 0,
+        "NumClusters": 0,
+        "NumInputCurves": 0,
+        "ResourceFlags": "NONE"
+      },
+      "Bounds": {
+        "Origin": {
+          "X": 0.00048828125,
+          "Y": 0.001953125,
+          "Z": -3.0517578e-05
+        },
+        "BoxExtent": {
+          "X": 122.88037,
+          "Y": 122.88086,
+          "Z": 6.400055
+        },
+        "SphereRadius": 173.89725
+      },
+      "bLODsShareStaticLighting": true,
+      "ScreenSize": [
+        2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "folder": "src",
+  "entries": [
+    {
+      "file": "inspector.css",
+      "bytes": 743,
+      "sha256": "b752f4d91fc82541bdc7194b2792c683277e67f5c98b259b672bb9d1ccce1d92",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "inspector.ts",
+      "bytes": 1310,
+      "sha256": "4dcde015ff0b6cffdeb7395d88509d01a1c96070bd84109b6579130a3d7299ac",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "main.ts",
+      "bytes": 1108,
+      "sha256": "5b4d894adb93c39081a8258fc5547f77e6b22d4b6c0295d25a58d1ff0ec376a2",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "starter.css",
+      "bytes": 2918,
+      "sha256": "b5f4a7f27ee845499416da676e0dc62a0cd2a46af3ad13cb4519f5a92da9af90",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    },
+    {
+      "file": "vite-env.d.ts",
+      "bytes": 562,
+      "sha256": "da6339fa1ec86798c88aa5ea8765e3a1da09a9186b61cb88f56a951ec1633274",
+      "status": "local_project_or_tooling",
+      "parameters": []
+    }
+  ],
+  "childManifests": [
+    "app/provenance.json",
+    "assets/provenance.json"
+  ]
+}

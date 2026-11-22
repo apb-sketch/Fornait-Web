@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/entorno/shadows",
+  "entries": [
+    {
+      "file": "shadows.ts",
+      "bytes": 1430,
+      "sha256": "adbfe165d755bb71df10f73267467452cbfcb8e339599c8654a2ef2db885f5ed",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "directional light color, intensity and offset",
+        "shadow resolution, bias, filtering and caster bounds"
+      ],
+      "literalConstants": {
+        "SHADOW_HALF_EXTENT": 4.0,
+        "SHADOW_MAP_SIZE": 2048.0,
+        "SHADOW_INTENSITY": 0.34
+      },
+      "prototypeSource": {
+        "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\outputs\\fortnitelocal-web\\main.js",
+        "bytes": 24065,
+        "sha256": "50bf1944e6d27810e10ba19f04a9fde7c23f9b30ec8a56d9e67e14316e66e2c2",
+        "sourceLocations": [
+          "makeStage: key light",
+          "renderer.shadowMap",
+          "keyOffset",
+          "animate: key follows character"
+        ],
+        "sourceParameters": {
+          "keyColor": "#fff5f1",
+          "keyIntensity": 1.65,
+          "offset": [
+            4,
+            7,
+            3
+          ],
+          "resolution": 2048,
+          "orthographicHalfExtent": 4,
+          "near": 0.1,
+          "far": 22,
+          "depthBias": -0.0002,
+          "normalBias": 0.023,
+          "filter": "PCFShadowMap"
+        },
+        "adaptation": "Uses PlayCanvas PCF3 and a caster volume centered on the character. PlayCanvas fits the shadow camera to the volume and computes its clip planes. Shadow intensity 0.34 is a local contrast adjustment based on the reference screenshot."
+      }
+    }
+  ],
+  "childManifests": []
+}

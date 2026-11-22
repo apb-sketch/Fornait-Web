@@ -1,0 +1,3500 @@
+{
+    "schemaVersion": 1,
+    "folder": "src/app/builds",
+    "auditDate": "2026-11-22",
+    "purpose": "Auditoría local de procedencia de los recursos existentes y de los límites de la evidencia.",
+    "currentEpicInstallation": {
+        "launcherManifest": {
+            "path": "C:\\ProgramData\\Epic\\EpicGamesLauncher\\Data\\Manifests\\A9525FAAC8C8FFE87C65061D85B5E319.item",
+            "bytes": 2875,
+            "sha256": "53f79993dfd898b022acc09584ff98fc722744a89530b61b7aa0437af9323e6f"
+        },
+        "installLocation": "C:\\Program Files\\Epic Games\\Fortnite",
+        "appVersionString": "++Fortnite+Release-43.10-CL-60118918-Windows",
+        "archiveDirectory": "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks",
+        "archiveModeReportedByMcpLog": "LatestInstalled",
+        "versionReportedByMcpLog": "43.10",
+        "ioStoreTableOfContentsFiles": [
+            {
+                "name": "pakchunk0-WindowsClient.utoc",
+                "presentInInstalledPaks": true,
+                "path": "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\pakchunk0-WindowsClient.utoc",
+                "bytes": 8331220,
+                "sha256": "564c781e82ea16379d34c6f837c817e98edcf2fe4b740e69e54efe8148aa1ade"
+            },
+            {
+                "name": "pakchunk100iad-WindowsClient_OnDemand.utoc",
+                "presentInInstalledPaks": false
+            },
+            {
+                "name": "pakchunk30-WindowsClient.utoc",
+                "presentInInstalledPaks": true,
+                "path": "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\pakchunk30-WindowsClient.utoc",
+                "bytes": 21636421,
+                "sha256": "ef69becd9a4b3fb30fd1c9b211646f7f2f74f7e0e2a8bb4e2cd77abe5fdbfbb3"
+            },
+            {
+                "name": "pakchunk40-WindowsClient.utoc",
+                "presentInInstalledPaks": true,
+                "path": "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\pakchunk40-WindowsClient.utoc",
+                "bytes": 53489488,
+                "sha256": "a18019431ab385c35a3120713b435dc939fcbb650b007e47def7eca23ab9a4a2"
+            },
+            {
+                "name": "pakchunk50-WindowsClient.utoc",
+                "presentInInstalledPaks": true,
+                "path": "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\pakchunk50-WindowsClient.utoc",
+                "bytes": 9447144,
+                "sha256": "566a7c8100237740cd6db342f34f91afeff021011d83e8aec66c50a1c347fd45"
+            }
+        ],
+        "packageBinarySha256Verified": false
+    },
+    "fortnitePortingMcp": {
+        "gitCommit": "1f43c2b5cddfa0d7c348b8f98cc61a6c6ed8e108",
+        "cue4ParseGitCommit": "c8ac62c44685bba305004df3547a3ba3c2ff4e7f",
+        "preexistingModifiedCue4ParseFiles": [
+            "CUE4Parse/MappingsProvider/Usmap/EUsmapVersion.cs",
+            "CUE4Parse/MappingsProvider/Usmap/UsmapParser.cs"
+        ],
+        "sdkVersion": "10.0.404",
+        "binary": {
+            "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-22\\trabaja-en-este-directorio-de-windows\\work\\mcp-release\\FortnitePorting.exe",
+            "bytes": 254575801,
+            "sha256": "c588894fc0a6a58b0bbfdd50de5d011b55c416563b9778100a2aefd4322c1964"
+        },
+        "serverLogPath": "C:\\Users\\Administrator\\AppData\\Local\\FortnitePorting\\Logs\\FortnitePorting-2026-11-22-03-20-24.log",
+        "readOnlyLiveEvidence": {
+            "health": {
+                "service": "FortnitePorting-MCP",
+                "mcp": "http://127.0.0.1:6010/mcp",
+                "fortniteReady": true,
+                "registryAssets": 563827
+            },
+            "fortniteStatus": {
+                "ready": true,
+                "loading": false,
+                "status": "",
+                "registryAssets": 563827
+            },
+            "protocolVersion": "2025-11-25",
+            "tools": [
+                "fortnite_export_asset",
+                "fortnite_export_file",
+                "fortnite_get_asset",
+                "fortnite_get_asset_properties",
+                "fortnite_get_file_info",
+                "fortnite_list_asset_types",
+                "fortnite_list_assets",
+                "fortnite_list_directory",
+                "fortnite_list_package_objects",
+                "fortnite_search_assets",
+                "fortnite_search_files",
+                "fortnite_status"
+            ],
+            "checks": [
+                {
+                    "archivePath": "FortniteGame/Content/FortressPhysicalMaterials/Wood.uasset",
+                    "source": "serialized_dependency",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["PhysicalMaterial"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Gadgets/Assets/Teleporter/Textures/T_Teleporter_GridSquares_01.uasset",
+                    "source": "serialized_dependency",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Global/Textures/Default/Masks_and_Gradients/T_VertGradient.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/BlueprintTest1.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/BlueprintTestX.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Wall.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Builder_2.uasset",
+                    "source": "serialized_dependency",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Material"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Effects/MGreen.uasset",
+                    "source": "serialized_dependency",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Material"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Material"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode_Blocks.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Material"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/T_PhaseSquare.uasset",
+                    "source": "serialized_dependency",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/Fortress_SharedMaterials/BluePrintTexture02.uasset",
+                    "source": "serialized_dependency",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Archway.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_ArchwayLarge.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_ArchwaySupportLarge.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Brace.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_DoorC.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_DoorS.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 3,
+                    "unrealClasses": ["BodySetup", "FortStaticMeshNavigationEdgesUserData", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_DoorSide.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Floor.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallDoor.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallDoorS.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallHalf.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallS.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Pillar.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_QuarterWallHalf.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_QuarterWallS.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_RoofC.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_RoofWall.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Solid.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 3,
+                    "unrealClasses": ["BodySetup", "StaticMesh", "StaticMeshSocket"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_StairW.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 2,
+                    "unrealClasses": ["BodySetup", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_WindowC.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 3,
+                    "unrealClasses": ["BodySetup", "FortStaticMeshNavigationEdgesUserData", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_WindowSide.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 3,
+                    "unrealClasses": ["BodySetup", "FortStaticMeshNavigationEdgesUserData", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Windows.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk30-WindowsClient.utoc"],
+                    "parsedObjectCount": 3,
+                    "unrealClasses": ["BodySetup", "FortStaticMeshNavigationEdgesUserData", "StaticMesh"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Materials/Wood_lvl1_Floor.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["MaterialInstanceConstant"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Materials/Wood_lvl1_Static.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["MaterialInstanceConstant"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Materials/Wood_lvl1_Wall.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["MaterialInstanceConstant"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Textures/PBW_wood_2_D.uasset",
+                    "source": "serialized_dependency",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Textures/T_PBW_W1_D.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Textures/T_PBW_W1_N.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Textures/T_PBW_W1_S.uasset",
+                    "source": "serialized_dependency",
+                    "listed": true,
+                    "vfs": ["pakchunk0-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Weapons/WeaponSkins/Textures/T_VertGradient.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk40-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_Rockstar/Skins/Sparkle/Textures/T_VertGradient.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk100iad-WindowsClient_OnDemand.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Weapons/FORT_Melee/Pickaxe_CyborgWarrior/Textures/T_VertGradient.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk100iad-WindowsClient_OnDemand.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                },
+                {
+                    "archivePath": "FortniteGame/Plugins/GameFeatures/Figment/Figment_S08/Content/Athena/Items/Consumables/Spooky_Mist_Cube/Textures/T_VertGradient.uasset",
+                    "source": "manifest_candidate",
+                    "listed": true,
+                    "vfs": ["pakchunk50-WindowsClient.utoc"],
+                    "parsedObjectCount": 1,
+                    "unrealClasses": ["Texture2D"]
+                }
+            ],
+            "jsonComparisons": [
+                {
+                    "file": "edit-mode/M_PBW_EditMode.json",
+                    "objectPath": "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode.M_PBW_EditMode",
+                    "parsedContentMatches": true,
+                    "propertiesMatch": true,
+                    "exportFieldsReported": [
+                        "CachedExpressionData",
+                        "Class",
+                        "Flags",
+                        "LoadedMaterialResources",
+                        "Name",
+                        "Package",
+                        "Properties",
+                        "Type"
+                    ],
+                    "propertiesReported": [
+                        "PixelDepthOffsetMode",
+                        "ReferencedDefaultTextures",
+                        "StateId",
+                        "TranslucencyLightingMode",
+                        "bCanMaskedBeAssumedOpaque",
+                        "bIncludedInBaseGame"
+                    ],
+                    "nonemptyLoadedMaterialResources": false
+                },
+                {
+                    "file": "edit-mode/M_PBW_EditMode_Blocks.json",
+                    "objectPath": "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode_Blocks.M_PBW_EditMode_Blocks",
+                    "parsedContentMatches": true,
+                    "propertiesMatch": true,
+                    "exportFieldsReported": [
+                        "CachedExpressionData",
+                        "Class",
+                        "Flags",
+                        "LoadedMaterialResources",
+                        "Name",
+                        "Package",
+                        "Properties",
+                        "Type"
+                    ],
+                    "propertiesReported": [
+                        "BlendMode",
+                        "PixelDepthOffsetMode",
+                        "ReferencedDefaultTextures",
+                        "ShadingModel",
+                        "ShadingModels",
+                        "StateId",
+                        "TextureStreamingData",
+                        "TranslucencyLightingMode",
+                        "bCanMaskedBeAssumedOpaque",
+                        "bDisableDepthTest",
+                        "bIncludedInBaseGame",
+                        "bUseTranslucencyVertexFog"
+                    ],
+                    "nonemptyLoadedMaterialResources": false
+                },
+                {
+                    "file": "reference/S_BlueprintSlab_Floor.json",
+                    "objectPath": "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor.S_BlueprintSlab_Floor",
+                    "parsedContentMatches": true,
+                    "propertiesMatch": true,
+                    "exportFieldsReported": [
+                        "BodySetup",
+                        "Class",
+                        "Flags",
+                        "LightingGuid",
+                        "Name",
+                        "NavCollision",
+                        "Package",
+                        "Properties",
+                        "RenderData",
+                        "Type"
+                    ],
+                    "propertiesReported": [
+                        "ExtendedBounds",
+                        "LightMapResolution",
+                        "LightmapUVDensity",
+                        "StaticMaterials"
+                    ],
+                    "nonemptyLoadedMaterialResources": false
+                },
+                {
+                    "file": "reference/S_BlueprintSlab_Wall.json",
+                    "objectPath": "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Wall.S_BlueprintSlab_Wall",
+                    "parsedContentMatches": true,
+                    "propertiesMatch": true,
+                    "exportFieldsReported": [
+                        "BodySetup",
+                        "Class",
+                        "Flags",
+                        "LightingGuid",
+                        "Name",
+                        "NavCollision",
+                        "Package",
+                        "Properties",
+                        "RenderData",
+                        "Type"
+                    ],
+                    "propertiesReported": [
+                        "ExtendedBounds",
+                        "LightMapResolution",
+                        "LightmapUVDensity",
+                        "StaticMaterials"
+                    ],
+                    "nonemptyLoadedMaterialResources": false
+                },
+                {
+                    "file": "wood/Wood_lvl1_Floor.json",
+                    "objectPath": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Floor.Wood_lvl1_Floor",
+                    "parsedContentMatches": true,
+                    "propertiesMatch": true,
+                    "exportFieldsReported": [
+                        "CachedData",
+                        "Class",
+                        "Flags",
+                        "LoadedMaterialResources",
+                        "Name",
+                        "Package",
+                        "Properties",
+                        "Type"
+                    ],
+                    "propertiesReported": [
+                        "BasePropertyOverrides",
+                        "Parent",
+                        "PhysMaterial",
+                        "ReferencedDefaultTextures",
+                        "ScalarParameterValues",
+                        "StaticParametersRuntime",
+                        "TextureParameterValues",
+                        "VectorParameterValues",
+                        "bHasStaticPermutationResource",
+                        "bIncludedInBaseGame",
+                        "bOverridePhysMaterial"
+                    ],
+                    "nonemptyLoadedMaterialResources": false
+                },
+                {
+                    "file": "wood/Wood_lvl1_Static.json",
+                    "objectPath": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Static.Wood_lvl1_Static",
+                    "parsedContentMatches": true,
+                    "propertiesMatch": true,
+                    "exportFieldsReported": [
+                        "CachedData",
+                        "Class",
+                        "Flags",
+                        "LoadedMaterialResources",
+                        "Name",
+                        "Package",
+                        "Properties",
+                        "Type"
+                    ],
+                    "propertiesReported": [
+                        "BasePropertyOverrides",
+                        "Parent",
+                        "PhysMaterial",
+                        "ReferencedDefaultTextures",
+                        "ScalarParameterValues",
+                        "StaticParametersRuntime",
+                        "TextureParameterValues",
+                        "bHasStaticPermutationResource",
+                        "bIncludedInBaseGame",
+                        "bOverridePhysMaterial"
+                    ],
+                    "nonemptyLoadedMaterialResources": false
+                },
+                {
+                    "file": "wood/Wood_lvl1_Wall.json",
+                    "objectPath": "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Wall.Wood_lvl1_Wall",
+                    "parsedContentMatches": true,
+                    "propertiesMatch": true,
+                    "exportFieldsReported": [
+                        "CachedData",
+                        "Class",
+                        "Flags",
+                        "LoadedMaterialResources",
+                        "Name",
+                        "Package",
+                        "Properties",
+                        "Type"
+                    ],
+                    "propertiesReported": [
+                        "BasePropertyOverrides",
+                        "Parent",
+                        "PhysMaterial",
+                        "ReferencedDefaultTextures",
+                        "ScalarParameterValues",
+                        "StaticParametersRuntime",
+                        "TextureParameterValues",
+                        "VectorParameterValues",
+                        "bHasStaticPermutationResource",
+                        "bIncludedInBaseGame",
+                        "bOverridePhysMaterial"
+                    ],
+                    "nonemptyLoadedMaterialResources": false
+                }
+            ],
+            "materialDependencies": [
+                {
+                    "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Builder_2.uasset",
+                    "parsed": true,
+                    "exportFieldsReported": [
+                        "CachedExpressionData",
+                        "Class",
+                        "Flags",
+                        "LoadedMaterialResources",
+                        "Name",
+                        "Package",
+                        "Properties",
+                        "Type"
+                    ],
+                    "propertiesReported": [
+                        "NumCustomizedUVs",
+                        "PixelDepthOffsetMode",
+                        "ReferencedDefaultTextures",
+                        "StateId",
+                        "bAutomaticallySetUsageInEditor",
+                        "bIncludedInBaseGame",
+                        "bUseMaterialAttributes",
+                        "bUsedWithNanite"
+                    ],
+                    "nonemptyLoadedMaterialResources": false
+                },
+                {
+                    "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Effects/MGreen.uasset",
+                    "parsed": true,
+                    "exportFieldsReported": [
+                        "CachedExpressionData",
+                        "Class",
+                        "Flags",
+                        "LoadedMaterialResources",
+                        "Name",
+                        "Package",
+                        "Properties",
+                        "Type"
+                    ],
+                    "propertiesReported": [
+                        "PixelDepthOffsetMode",
+                        "ReferencedDefaultTextures",
+                        "ShadingModel",
+                        "ShadingModels",
+                        "StateId",
+                        "TextureStreamingData",
+                        "TranslucencyLightingMode",
+                        "bCanMaskedBeAssumedOpaque",
+                        "bIncludedInBaseGame",
+                        "bUseTranslucencyVertexFog"
+                    ],
+                    "nonemptyLoadedMaterialResources": false
+                }
+            ]
+        }
+    },
+    "historicalEvidenceAndLocalFileChecks": {
+        "sourceDump": {
+            "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\outputs\\fortnite-texto-completo.jsonl",
+            "bytes": 24517770687,
+            "bytesMatchManifest": true,
+            "exporterManifestIdReportedByProject": "FCB3FADF84FFA56D5234F5F795E49A78B31AED7BEF5E1ECC2590398F97D97DC4",
+            "dumpLineSource": "existing provenance manifests",
+            "originalPackageBytesVerified": false,
+            "origin": "Exportación experimental histórica del usuario, serializada con Fortnite Porting/CUE4Parse.",
+            "exporterManifestIdMeaning": "SHA-256 del inventario ordenado por el exportador, formado por ruta virtual, tabulación y tamaño por línea. No es el hash del JSONL ni un identificador de compilación de Epic.",
+            "sha256OfEntireDumpCalculated": false
+        },
+        "summary": {
+            "localFiles": {
+                "match": 34
+            },
+            "jsonContentsMatchingDump": 7,
+            "dumpRows": {
+                "match": 162
+            },
+            "intermediateExports": {
+                "unavailable": 27,
+                "match": 3
+            },
+            "existingRawExports": {
+                "match": 2
+            },
+            "historicalResearchFiles": {
+                "match": 3
+            }
+        },
+        "files": [
+            {
+                "file": "edit-mode/BlueprintTest1.png",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 14429,
+                "sha256": "e72a372d09f9eb54ce010fa5e5368099cb856217976bfa5f8a2827d6d7293c8c",
+                "candidateDumpByteOffsets": [266589],
+                "convertedFileMetadata": {
+                    "format": "PNG",
+                    "width": 256,
+                    "height": 256,
+                    "bitDepth": 8,
+                    "colorType": 6
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\DS_Fortnite_Mesh\\BlueprintTest1.png",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    },
+                    {
+                        "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\edit-material\\BlueprintTest1.png",
+                        "verification": "match",
+                        "bytes": 14429,
+                        "sha256": "e72a372d09f9eb54ce010fa5e5368099cb856217976bfa5f8a2827d6d7293c8c",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "edit-mode/BlueprintTestX.png",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 14902,
+                "sha256": "30b96d11ed7c09cc2155b0ae77aedb3456c1bb3932b09b8516dc0f8abea2963d",
+                "candidateDumpByteOffsets": [268939],
+                "convertedFileMetadata": {
+                    "format": "PNG",
+                    "width": 256,
+                    "height": 256,
+                    "bitDepth": 8,
+                    "colorType": 6
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\DS_Fortnite_Mesh\\BlueprintTestX.png",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    },
+                    {
+                        "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\edit-material\\BlueprintTestX.png",
+                        "verification": "match",
+                        "bytes": 14902,
+                        "sha256": "30b96d11ed7c09cc2155b0ae77aedb3456c1bb3932b09b8516dc0f8abea2963d",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "edit-mode/M_PBW_EditMode.json",
+                "status": "content_matches_dump",
+                "verification": "match",
+                "bytes": 4931,
+                "sha256": "ef7dd567345d4d687b59abd8d7a4ec26d46842ca5b1c241a47560888282acdbd",
+                "candidateDumpByteOffsets": [284709],
+                "parsedContentMatchingDumpByteOffsets": [284709],
+                "serializedObjectReferences": [
+                    "/Game/Global/Textures/Default/Masks_and_Gradients/T_VertGradient.0",
+                    "/Script/Engine"
+                ],
+                "existingRawExport": {
+                    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\edit-material\\M_PBW_EditMode.uasset",
+                    "verification": "match",
+                    "bytes": 10306,
+                    "sha256": "444717237b264638da13f24c1521bf83135f9fdff0eef5bf32e3c0323eac4a65",
+                    "linkage": "same basename in historical exporter output"
+                }
+            },
+            {
+                "file": "edit-mode/M_PBW_EditMode_Blocks.json",
+                "status": "content_matches_dump",
+                "verification": "match",
+                "bytes": 5958,
+                "sha256": "2c58d4617ca37a03bf3f505ab510eaa584305a3119b3c355c96bc61885c490b4",
+                "candidateDumpByteOffsets": [288058],
+                "parsedContentMatchingDumpByteOffsets": [288058],
+                "serializedObjectReferences": [
+                    "/Game/Packages/DS_Fortnite_Mesh/BlueprintTest1.0",
+                    "/Game/Packages/DS_Fortnite_Mesh/BlueprintTest1.BlueprintTest1"
+                ],
+                "existingRawExport": {
+                    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\edit-material\\M_PBW_EditMode_Blocks.uasset",
+                    "verification": "match",
+                    "bytes": 10435,
+                    "sha256": "5f3624aab171e899aab4b7f16762ecf9394ebfdef8e5f0e0b979c61c473f92dc",
+                    "linkage": "same basename in historical exporter output"
+                }
+            },
+            {
+                "file": "edit-mode/T_VertGradient.png",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 186,
+                "sha256": "bfdfab5d621d21e3f184b246d8afc5d9f43acd76c0bf4dbfe8951fad81a9f992",
+                "candidateDumpByteOffsets": [2601243085, 3408061522, 6799974921, 11204551463, 18379937664],
+                "convertedFileMetadata": {
+                    "format": "PNG",
+                    "width": 1,
+                    "height": 32,
+                    "bitDepth": 8,
+                    "colorType": 6
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Global\\Textures\\Default\\Masks_and_Gradients\\T_VertGradient.png",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    },
+                    {
+                        "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\edit-material\\T_VertGradient.png",
+                        "verification": "match",
+                        "bytes": 186,
+                        "sha256": "bfdfab5d621d21e3f184b246d8afc5d9f43acd76c0bf4dbfe8951fad81a9f992",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "reference/S_BlueprintSlab_Floor.json",
+                "status": "content_matches_dump",
+                "verification": "match",
+                "bytes": 15335,
+                "sha256": "3f5119cae253b70391a7053edb39e0e11b137384f0a1b0d0fb6631f47da4c4e0",
+                "candidateDumpByteOffsets": [271289],
+                "parsedContentMatchingDumpByteOffsets": [271289],
+                "serializedObjectReferences": [
+                    "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor.0",
+                    "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor.1",
+                    "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/MGreen.0"
+                ]
+            },
+            {
+                "file": "reference/S_BlueprintSlab_Wall.json",
+                "status": "content_matches_dump",
+                "verification": "match",
+                "bytes": 15197,
+                "sha256": "1deb2068a674b1f56e5301c2749d2314a8fa3180ff0fbb5ee632cb8a41f21712",
+                "candidateDumpByteOffsets": [278069],
+                "parsedContentMatchingDumpByteOffsets": [278069],
+                "serializedObjectReferences": [
+                    "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Wall.0",
+                    "/Game/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Wall.1",
+                    "/Game/Packages/Fortnite_UniqueMaterials_1/Effects/MGreen.0"
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_Archway.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 145808,
+                "sha256": "069ef096a77d2fa08c4692dc5c1cd54034ed780c03d600871c1823806999b940",
+                "candidateDumpByteOffsets": [3065272534],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Archway.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_ArchwayLarge.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 143092,
+                "sha256": "a4707601f200222261d1b28351e39d7637dfe64fa30e4f1a4cc483a3773ae939",
+                "candidateDumpByteOffsets": [3065286790],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_ArchwayLarge.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_ArchwaySupportLarge.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 81764,
+                "sha256": "97f1e1fe75e8fb49652b612da56a8916acbb3682099961653e07ce3bc5854045",
+                "candidateDumpByteOffsets": [3065298377],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_ArchwaySupportLarge.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_Brace.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 109528,
+                "sha256": "f74368a70d11debf5f0c4c59591573a5bf4d00ae0985b907e508ad193548158b",
+                "candidateDumpByteOffsets": [3065354853],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Brace.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_DoorC.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 243508,
+                "sha256": "f4b79882d62a13f11c3df88e04331a191b78f911b7632fae6da1406f98a70c89",
+                "candidateDumpByteOffsets": [3065373441],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_DoorC.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_DoorS.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 246680,
+                "sha256": "726dc9721c0e1560902dd19318557e0a10855d4430c55db6c266ba7004734bc0",
+                "candidateDumpByteOffsets": [3065383416],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_DoorS.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_DoorSide.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 273556,
+                "sha256": "1fea2c31dc9654ba2d0fd2ebae18fe7d2a5bd091fe039503b2f210d52f03bd23",
+                "candidateDumpByteOffsets": [3065398702],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_DoorSide.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_Floor.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 161044,
+                "sha256": "0a154ee6016ad3b85ffafc90e71886a82d2bc65e1dbcbb792ea7ed9ae31b83fe",
+                "candidateDumpByteOffsets": [3065410178],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Floor.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_HalfWallDoor.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 74752,
+                "sha256": "55608ce306171630a332c3f66d1fa37c9ba4050c516629938686377fd914a26c",
+                "candidateDumpByteOffsets": [3065419083],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_HalfWallDoor.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_HalfWallDoorS.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 76544,
+                "sha256": "0f12fb9b840d71aaa545ef22ff5948e8d89caa9cc8a4b881333a6c39f6afb6bd",
+                "candidateDumpByteOffsets": [3065428215],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_HalfWallDoorS.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_HalfWallHalf.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 46572,
+                "sha256": "b75fb2a89af23411735d022600605265e6de150a74490ab364387d069222a284",
+                "candidateDumpByteOffsets": [3065437368],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_HalfWallHalf.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_HalfWallS.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 99140,
+                "sha256": "c9d3d5bf5af68fc4b0c8ebb918dbfb0bb06a6637be2e7a71a409366ccad4a45c",
+                "candidateDumpByteOffsets": [3065447293],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_HalfWallS.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_Pillar.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 55628,
+                "sha256": "a67d37c113cf2150eb26cb8836125e409f4799b6b7d024d4923d6f615497f86a",
+                "candidateDumpByteOffsets": [3065455653],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Pillar.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_QuarterWallHalf.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 67356,
+                "sha256": "4fb0400df21636c1afd798213255de6bfb623e3f6e0528428493986bee867bf1",
+                "candidateDumpByteOffsets": [3065464967],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_QuarterWallHalf.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_QuarterWallS.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 98604,
+                "sha256": "035ffde50d108f4b2b72569019868efc5c6a13887e0a6b6e86fda98a1bcc8a5c",
+                "candidateDumpByteOffsets": [3065473955],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_QuarterWallS.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_RoofC.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 230484,
+                "sha256": "8fa76b224dcc427de004865af66f33327342f43824ff1ab04acbead1f7207444",
+                "candidateDumpByteOffsets": [3065483331],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_RoofC.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_RoofWall.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 91808,
+                "sha256": "22132ca6dde15d6857456447b797eb21a4ecc7f49de9b85b140cf2f19a3855aa",
+                "candidateDumpByteOffsets": [3065531341],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_RoofWall.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_Solid.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 313196,
+                "sha256": "1d3e038782ca4ddc8deeec201cc6f9c291a98056435dffcb7e7c4ecc5ce8bbe4",
+                "candidateDumpByteOffsets": [3065539846],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Solid.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_StairW.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 167852,
+                "sha256": "14538add51f8ec5aba65578fea154414c8bfcf1d4e988769f55fc081ad9d3d5c",
+                "candidateDumpByteOffsets": [3065585327],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_StairW.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_WindowC.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 280004,
+                "sha256": "45e4d6ebe242be4155013bb6e88ca98d8451a4531e3ad64f3a16c9bb69a04683",
+                "candidateDumpByteOffsets": [3065593532],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_WindowC.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_WindowSide.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 272512,
+                "sha256": "e53546e6eac1be195ba9f6a17bddc50b8eecbe5c49d43add1e81434b1e35f219",
+                "candidateDumpByteOffsets": [3065605848],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_WindowSide.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/PBW_W1_Windows.glb",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 250628,
+                "sha256": "77a56869bfbe2ea9ff711bac23ab92f744507cdbe9e7afe1287e72435581a97f",
+                "candidateDumpByteOffsets": [3065618215],
+                "convertedFileMetadata": {
+                    "format": "GLB",
+                    "version": 2,
+                    "meshes": 1,
+                    "materials": ["Wood_lvl1_Static"],
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 1,
+                        "POSITION": 1,
+                        "TANGENT": 1,
+                        "TEXCOORD_0": 1,
+                        "TEXCOORD_1": 1,
+                        "TEXCOORD_2": 1,
+                        "TEXCOORD_3": 1,
+                        "TEXCOORD_4": 1,
+                        "TEXCOORD_5": 1,
+                        "TEXCOORD_6": 1,
+                        "TEXCOORD_7": 1
+                    },
+                    "extensionsUsed": []
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\L1\\PBW_W1_Windows.glb",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/T_PBW_W1_D.png",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 2060151,
+                "sha256": "07d296b2c598c3e1e54f11fcd7c07bb2d9f4a2c91b4b2217a4f2b9f76d37fe7c",
+                "candidateDumpByteOffsets": [3066495555],
+                "convertedFileMetadata": {
+                    "format": "PNG",
+                    "width": 2048,
+                    "height": 2048,
+                    "bitDepth": 8,
+                    "colorType": 6
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\Textures\\T_PBW_W1_D.png",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/T_PBW_W1_N.png",
+                "status": "existing_derivative_with_package_candidate",
+                "verification": "match",
+                "bytes": 897474,
+                "sha256": "19d98fc436a2df461f31bd7ce5cdba7b0123422e56aa89471ea574de297da7ea",
+                "candidateDumpByteOffsets": [3066502053],
+                "convertedFileMetadata": {
+                    "format": "PNG",
+                    "width": 1024,
+                    "height": 1024,
+                    "bitDepth": 8,
+                    "colorType": 6
+                },
+                "existingIntermediateExports": [
+                    {
+                        "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Packages\\PBW\\Wood\\Textures\\T_PBW_W1_N.png",
+                        "verification": "unavailable",
+                        "matchesLocalHash": true
+                    }
+                ]
+            },
+            {
+                "file": "wood/Wood_lvl1_Floor.json",
+                "status": "content_matches_dump",
+                "verification": "match",
+                "bytes": 11336,
+                "sha256": "1402a47b5912a46bf68b6316e9d5e0620e2d4ebde0ab1f5ad062ff042e811902",
+                "candidateDumpByteOffsets": [3066386009],
+                "parsedContentMatchingDumpByteOffsets": [3066386009],
+                "serializedObjectReferences": [
+                    "/Game/FortressPhysicalMaterials/Wood.0",
+                    "/Game/Gadgets/Assets/Teleporter/Textures/T_Teleporter_GridSquares_01.0",
+                    "/Game/Packages/Fortnite_UniqueMaterials_1/T_PhaseSquare.0",
+                    "/Game/Packages/Fortress_SharedMaterials/BluePrintTexture02.0",
+                    "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Wall.0",
+                    "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_D.0",
+                    "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_N.0",
+                    "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_S.0"
+                ]
+            },
+            {
+                "file": "wood/Wood_lvl1_Static.json",
+                "status": "content_matches_dump",
+                "verification": "match",
+                "bytes": 8067,
+                "sha256": "b7173079377343e25c9833ab84dcec7caa3457c3933cfec74c66fa837ac4c326",
+                "candidateDumpByteOffsets": [3066393227],
+                "parsedContentMatchingDumpByteOffsets": [3066393227],
+                "serializedObjectReferences": [
+                    "/Game/FortressPhysicalMaterials/Wood.0",
+                    "/Game/Gadgets/Assets/Teleporter/Textures/T_Teleporter_GridSquares_01.0",
+                    "/Game/Packages/Fortnite_UniqueMaterials_1/T_PhaseSquare.0",
+                    "/Game/Packages/Fortress_SharedMaterials/BluePrintTexture02.0",
+                    "/Game/Packages/PBW/Wood/Materials/Wood_lvl1_Floor.0",
+                    "/Game/Packages/PBW/Wood/Textures/PBW_wood_2_D.0",
+                    "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_D.0",
+                    "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_N.0",
+                    "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_S.0"
+                ]
+            },
+            {
+                "file": "wood/Wood_lvl1_Wall.json",
+                "status": "content_matches_dump",
+                "verification": "match",
+                "bytes": 13755,
+                "sha256": "3b42690acb4e492f426d6a39f7982a521c8f1ca5716c410a5b25f4a52d0cec3a",
+                "candidateDumpByteOffsets": [3066407207],
+                "parsedContentMatchingDumpByteOffsets": [3066407207],
+                "serializedObjectReferences": [
+                    "/Game/FortressPhysicalMaterials/Wood.0",
+                    "/Game/Gadgets/Assets/Teleporter/Textures/T_Teleporter_GridSquares_01.0",
+                    "/Game/Packages/Fortnite_UniqueMaterials_1/Builder_2.0",
+                    "/Game/Packages/Fortnite_UniqueMaterials_1/T_PhaseSquare.0",
+                    "/Game/Packages/Fortress_SharedMaterials/BluePrintTexture02.0",
+                    "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_D.0",
+                    "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_N.0",
+                    "/Game/Packages/PBW/Wood/Textures/T_PBW_W1_S.0"
+                ]
+            }
+        ],
+        "historicalResearchFiles": [
+            {
+                "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\playcanvas-previous-configurations\\builds\\auditoria-edicion-pared.json",
+                "verification": "match",
+                "bytes": 1877757,
+                "sha256": "dfdadd085e199c4f1d9be045d585440ad49a0c31ae03760377483c6056ea6329"
+            },
+            {
+                "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\playcanvas-previous-configurations\\builds\\building-source-audit.json",
+                "verification": "match",
+                "bytes": 86857,
+                "sha256": "b3146dc64d0f00458e46efa4d7ef5e69b6bb2dc59a197ecb6b2dea294264b779"
+            },
+            {
+                "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\playcanvas-previous-configurations\\builds\\wall-variant-sources.json",
+                "verification": "match",
+                "bytes": 56434,
+                "sha256": "0f1589871aa1cf84f89eb300cd5409a48bdac9d635798f9306691ad781ab8870"
+            }
+        ],
+        "dumpRows": [
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Archway.uasset",
+                "kind": "paquete",
+                "dumpLine": 98,
+                "dumpByteOffset": 161372,
+                "dumpRowBytes": 1735,
+                "dumpRowSha256": "af9734fdf6ccbdd9a224e392b08786c0b9ead40abf3ea4940b77f2a41334b2e8",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_ArchwayLarge.uasset",
+                "kind": "paquete",
+                "dumpLine": 99,
+                "dumpByteOffset": 163107,
+                "dumpRowBytes": 1755,
+                "dumpRowSha256": "9937df63f31e33ccd1066f2268c4f33e004b5ea41734ce91e5473ffe031c26aa",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_ArchwayLargeSpan.uasset",
+                "kind": "paquete",
+                "dumpLine": 100,
+                "dumpByteOffset": 164862,
+                "dumpRowBytes": 1621,
+                "dumpRowSha256": "4f6f90e04d1d3de208eba49f5d1769c6124a39beae67802793437400b9febb8c",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_ArchwayLargeSupport.uasset",
+                "kind": "paquete",
+                "dumpLine": 101,
+                "dumpByteOffset": 166483,
+                "dumpRowBytes": 1789,
+                "dumpRowSha256": "352ec1af5085a0a97e4f620a36987a942fd97827123b5546c85340bd7253daa3",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_ArchwayLargeSupport_Left.uasset",
+                "kind": "paquete",
+                "dumpLine": 102,
+                "dumpByteOffset": 168272,
+                "dumpRowBytes": 1647,
+                "dumpRowSha256": "a93aabc3897c2c925880b1033fc6c95042f050bf500a02a7a5f19aa81f9b81f2",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_ArchwayLarge_Left.uasset",
+                "kind": "paquete",
+                "dumpLine": 103,
+                "dumpByteOffset": 169919,
+                "dumpRowBytes": 1613,
+                "dumpRowSha256": "49b8534751a2e72c6437a14673cb68cb0883d1c6186c188a9fd93df5330e5d0e",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_ArchwaySmall.uasset",
+                "kind": "paquete",
+                "dumpLine": 104,
+                "dumpByteOffset": 171532,
+                "dumpRowBytes": 1762,
+                "dumpRowSha256": "040e7cbe3970b7e92fe3a0107c74e1812dae6e2a1ae8292dc3921d98aa877331",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_ArchwaySupport.uasset",
+                "kind": "paquete",
+                "dumpLine": 105,
+                "dumpByteOffset": 173294,
+                "dumpRowBytes": 1605,
+                "dumpRowSha256": "0c69b608da3bbacfd91c059b3d36c4940bf8cdaa9c93205193826e58af7f78e7",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Brace_TopLeft.uasset",
+                "kind": "paquete",
+                "dumpLine": 106,
+                "dumpByteOffset": 174899,
+                "dumpRowBytes": 1728,
+                "dumpRowSha256": "55aee01a2bf296565d2909ead7a424b5dc7957008c594ce89deae97a4d518d90",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Brace_TopRight.uasset",
+                "kind": "paquete",
+                "dumpLine": 107,
+                "dumpByteOffset": 176627,
+                "dumpRowBytes": 1574,
+                "dumpRowSha256": "879160095a790841ae5df8e2c8ef3d12f1ef77a22fd101b3180ab1dd13303488",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Bridge_A.uasset",
+                "kind": "paquete",
+                "dumpLine": 108,
+                "dumpByteOffset": 178201,
+                "dumpRowBytes": 1539,
+                "dumpRowSha256": "962bea09945aa28ca085ef5e9c6d783556b87a7014688ab678ec86ae647d2eea",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Bridge_B.uasset",
+                "kind": "paquete",
+                "dumpLine": 109,
+                "dumpByteOffset": 179740,
+                "dumpRowBytes": 1518,
+                "dumpRowSha256": "35ed05209f807e0840a04c8c118eedc3081daf49543120f34a62cc875e078208",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Bridge_C.uasset",
+                "kind": "paquete",
+                "dumpLine": 110,
+                "dumpByteOffset": 181258,
+                "dumpRowBytes": 1604,
+                "dumpRowSha256": "1dcac0e1f9993c08a42684dda1f8ed515112194e5dba5787fd60f599dba09765",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Bridge_D.uasset",
+                "kind": "paquete",
+                "dumpLine": 111,
+                "dumpByteOffset": 182862,
+                "dumpRowBytes": 1522,
+                "dumpRowSha256": "b2b1625a255ffb773ea505733cb08554cb2f35e77a0794056fa9e5b99bc9e12e",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Bridge_F.uasset",
+                "kind": "paquete",
+                "dumpLine": 112,
+                "dumpByteOffset": 184384,
+                "dumpRowBytes": 1544,
+                "dumpRowSha256": "0a369a3f72be531979ec4dd1097d4de387f7e0ccab66cb89850b4e943988fe47",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Bridge_G.uasset",
+                "kind": "paquete",
+                "dumpLine": 113,
+                "dumpByteOffset": 185928,
+                "dumpRowBytes": 1597,
+                "dumpRowSha256": "a839c0d3da17f3f0ae8349fabaecad1b052d829889d431a7fa9b5b268be90b8e",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Bridge_I.uasset",
+                "kind": "paquete",
+                "dumpLine": 114,
+                "dumpByteOffset": 187525,
+                "dumpRowBytes": 1516,
+                "dumpRowSha256": "e27543aea01c7165ce947ec44a439265782dc36c6c11717c58e4494f702f693d",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Bridge_J.uasset",
+                "kind": "paquete",
+                "dumpLine": 115,
+                "dumpByteOffset": 189041,
+                "dumpRowBytes": 1565,
+                "dumpRowSha256": "bc7031808409f3014ce52e8ae8e3439963e38e243e859d6ea5251d4a16ba3638",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Broken_Left.uasset",
+                "kind": "paquete",
+                "dumpLine": 116,
+                "dumpByteOffset": 190606,
+                "dumpRowBytes": 1690,
+                "dumpRowSha256": "cfe2aedecf6de0009140aac5bc3a79555ef0ace4e9271269a3fcab577c2889e6",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Curved.uasset",
+                "kind": "paquete",
+                "dumpLine": 117,
+                "dumpByteOffset": 192296,
+                "dumpRowBytes": 1538,
+                "dumpRowSha256": "39af708ac2432f598a16f0003171156a57dfe7e261d737a9065a2bd097c2330b",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_DoorC.uasset",
+                "kind": "paquete",
+                "dumpLine": 118,
+                "dumpByteOffset": 193834,
+                "dumpRowBytes": 1687,
+                "dumpRowSha256": "359f7254257617a2d72d642aedad38dc4b5aab42c95625645cda796ac3671af2",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_DoorS.uasset",
+                "kind": "paquete",
+                "dumpLine": 119,
+                "dumpByteOffset": 195521,
+                "dumpRowBytes": 1826,
+                "dumpRowSha256": "e8f1ead72e3259330f1b29b3972641868dd30f02aac50ae9382fb1133a4adf1c",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_DoorSide.uasset",
+                "kind": "paquete",
+                "dumpLine": 120,
+                "dumpByteOffset": 197347,
+                "dumpRowBytes": 1696,
+                "dumpRowSha256": "bf088bbd96b4e4fe768665a317c81f3c23eac2fcdd59549ac8e3ec15408697ba",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_DoorSideR.uasset",
+                "kind": "paquete",
+                "dumpLine": 121,
+                "dumpByteOffset": 199043,
+                "dumpRowBytes": 1699,
+                "dumpRowSha256": "ccf793e1046444096d67010c8493d4a5294f2015d71973ef3c7f88be0f5942bc",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_HalfWallDoor.uasset",
+                "kind": "paquete",
+                "dumpLine": 122,
+                "dumpByteOffset": 200742,
+                "dumpRowBytes": 1726,
+                "dumpRowSha256": "8757f8a179be4ef0428f822b7794a2617e6459c712bdac36cf9c27c92e02276c",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_HalfWallDoorS.uasset",
+                "kind": "paquete",
+                "dumpLine": 123,
+                "dumpByteOffset": 202468,
+                "dumpRowBytes": 1729,
+                "dumpRowSha256": "8a0aa6d179e8bc37fa1a62a362ce98ff6f898fe1583521cc684629d673be8a1b",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_HalfWallHalf.uasset",
+                "kind": "paquete",
+                "dumpLine": 124,
+                "dumpByteOffset": 204197,
+                "dumpRowBytes": 1586,
+                "dumpRowSha256": "4021f7f9adaefa907853f89e9deb6de8888a89e20bbb28eb95f95a4b044701be",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_HalfWallHalf_Right.uasset",
+                "kind": "paquete",
+                "dumpLine": 125,
+                "dumpByteOffset": 205783,
+                "dumpRowBytes": 1604,
+                "dumpRowSha256": "1bfd6e0654985c76fb564a8a9c48ccbee94601cd2f54be1b61dc95d495272913",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_HalfWallS.uasset",
+                "kind": "paquete",
+                "dumpLine": 126,
+                "dumpByteOffset": 207387,
+                "dumpRowBytes": 1685,
+                "dumpRowSha256": "7534d687cf74780dd9a53c6ad745da5a97b5d58d9c23be05529685ae430090d1",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_L-Shaped.uasset",
+                "kind": "paquete",
+                "dumpLine": 127,
+                "dumpByteOffset": 209072,
+                "dumpRowBytes": 1554,
+                "dumpRowSha256": "d7d72ed1a374c143eba8cd6e8c29e54ca616d67a87185d742fae7049c7ed0562",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_L-Shaped_Right.uasset",
+                "kind": "paquete",
+                "dumpLine": 128,
+                "dumpByteOffset": 210626,
+                "dumpRowBytes": 1604,
+                "dumpRowSha256": "06fdde337bc8cf3bf0e3f35502998fe225d75cd10805c2ec5dc208e69785f88e",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Pillar.uasset",
+                "kind": "paquete",
+                "dumpLine": 129,
+                "dumpByteOffset": 212230,
+                "dumpRowBytes": 1690,
+                "dumpRowSha256": "c53782152b464b5c678547d04816978954a0009a6dc99b702762469011936be7",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_QuarterWallHalf.uasset",
+                "kind": "paquete",
+                "dumpLine": 130,
+                "dumpByteOffset": 213920,
+                "dumpRowBytes": 1593,
+                "dumpRowSha256": "860386a08ec7508e5d4d97de1400c0208d531ef885670ca516f1a8b10bdd3cdd",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_QuarterWallHalf_Right.uasset",
+                "kind": "paquete",
+                "dumpLine": 131,
+                "dumpByteOffset": 215513,
+                "dumpRowBytes": 1613,
+                "dumpRowSha256": "4a06d5a0fa395f45b3f27ce11477ec083e36e16e87b5311cd17bb0b10e1fa9db",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_QuarterWallS.uasset",
+                "kind": "paquete",
+                "dumpLine": 132,
+                "dumpByteOffset": 217126,
+                "dumpRowBytes": 1704,
+                "dumpRowSha256": "543c662f1df55b60686a6ff36b517472f00515e4c722bc440d4539f87438f62a",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_RoofPeak.uasset",
+                "kind": "paquete",
+                "dumpLine": 133,
+                "dumpByteOffset": 218830,
+                "dumpRowBytes": 1539,
+                "dumpRowSha256": "ac2a2329793638f405247331e61a1cb13002aff9d8f52e93ea7f6a86f6e91a40",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_RoofWallLowAngle_Bottom.uasset",
+                "kind": "paquete",
+                "dumpLine": 134,
+                "dumpByteOffset": 220369,
+                "dumpRowBytes": 1735,
+                "dumpRowSha256": "2d448440787d33f555170d42661d79538c46f3b8bf22850cbed8541cad233ee8",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_RoofWallLowAngle_Top.uasset",
+                "kind": "paquete",
+                "dumpLine": 135,
+                "dumpByteOffset": 222104,
+                "dumpRowBytes": 1713,
+                "dumpRowSha256": "95c62305d4d8b204e0be75d4e190a03735ec2f6a5e22f5c158b23ba6147e769c",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_RoofWallLowAngle_TopLeft.uasset",
+                "kind": "paquete",
+                "dumpLine": 136,
+                "dumpByteOffset": 223817,
+                "dumpRowBytes": 1725,
+                "dumpRowSha256": "5618f70daf937ae2d4ad2ed976581213c6c0006f53627ae6fb25eb70cbe2782c",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_RoofWall_Curved_DoorSide_TopRight.uasset",
+                "kind": "paquete",
+                "dumpLine": 137,
+                "dumpByteOffset": 225542,
+                "dumpRowBytes": 1629,
+                "dumpRowSha256": "bbc2b9c2c06434673bf8c1d62ff25e1503137378ef83a5ed7a1a9d9b0973c810",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_RoofWall_Curved_TopRight.uasset",
+                "kind": "paquete",
+                "dumpLine": 138,
+                "dumpByteOffset": 227171,
+                "dumpRowBytes": 1727,
+                "dumpRowSha256": "1a023c2d3685c85e94548c283c5adabc643d3383b804aa8e58212ef0a2994cb2",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_RoofWall_Special_A.uasset",
+                "kind": "paquete",
+                "dumpLine": 139,
+                "dumpByteOffset": 228898,
+                "dumpRowBytes": 1550,
+                "dumpRowSha256": "1ab7a44205c60f35059b0ba180087a7146dd3d07586d4b88415d27128f91fe15",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_RoofWall_TopLeft.uasset",
+                "kind": "paquete",
+                "dumpLine": 140,
+                "dumpByteOffset": 230448,
+                "dumpRowBytes": 1707,
+                "dumpRowSha256": "66a16955e6b1791f8c175c0e6566abc812f9b2205b008cf63d526322cf11ddc8",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_RoofWall_TopRight.uasset",
+                "kind": "paquete",
+                "dumpLine": 141,
+                "dumpByteOffset": 232155,
+                "dumpRowBytes": 1710,
+                "dumpRowSha256": "076b0ce1fa70615853e8404f48372e7abc8373993e81620c124de2670553f3dd",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Sloped.uasset",
+                "kind": "paquete",
+                "dumpLine": 142,
+                "dumpByteOffset": 233865,
+                "dumpRowBytes": 1540,
+                "dumpRowSha256": "11c50e123661c62619cadca8cb008da6da4508c388d22ea6090dbff7f8a214b2",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Solid.uasset",
+                "kind": "paquete",
+                "dumpLine": 143,
+                "dumpByteOffset": 235405,
+                "dumpRowBytes": 1525,
+                "dumpRowSha256": "589f4ae58f544a0644bb0489a1043061214dc3c893795ddfab294d62e788ac88",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Solid_NoTraps.uasset",
+                "kind": "paquete",
+                "dumpLine": 144,
+                "dumpByteOffset": 236930,
+                "dumpRowBytes": 1549,
+                "dumpRowSha256": "45892a3d18e9b42e7238c4de6a5e783d1f718a1c1b9b0a236b4e61d2b2497f48",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_U-Shaped.uasset",
+                "kind": "paquete",
+                "dumpLine": 145,
+                "dumpByteOffset": 238479,
+                "dumpRowBytes": 1547,
+                "dumpRowSha256": "d196da4079e88fcbf61952c697fd027f7d18b000596dcf0b3b45689eef383741",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_WindowC.uasset",
+                "kind": "paquete",
+                "dumpLine": 146,
+                "dumpByteOffset": 240026,
+                "dumpRowBytes": 1836,
+                "dumpRowSha256": "cb6ff1ca707c4ef32b43497cdf207caffb2d5f1e66a47ee7ee92308880c3fa2a",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_WindowSide.uasset",
+                "kind": "paquete",
+                "dumpLine": 147,
+                "dumpByteOffset": 241862,
+                "dumpRowBytes": 1672,
+                "dumpRowSha256": "7db771b73c53c138cec1f84874420ec4e99a223aaae50d9c573f2932fdd589c6",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/EditModePatterns/Wall/EMP_Wall_Windows.uasset",
+                "kind": "paquete",
+                "dumpLine": 148,
+                "dumpByteOffset": 243534,
+                "dumpRowBytes": 1806,
+                "dumpRowSha256": "3e64bdbd8cd631cd23fe88af007d571d0c0328b292ceb057f61e96e152a2117d",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Input/EnhancedInput/FortPlayerController/EditMode/IA_EditMode_EditSelect.uasset",
+                "kind": "paquete",
+                "dumpLine": 149,
+                "dumpByteOffset": 245340,
+                "dumpRowBytes": 2813,
+                "dumpRowSha256": "249bb14f137a0a58f64bea43a088c8bbe8c4b8ef2804bfa643ceccbf33978147",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Input/EnhancedInput/FortPlayerController/EditMode/IA_EditMode_Exit.uasset",
+                "kind": "paquete",
+                "dumpLine": 150,
+                "dumpByteOffset": 248153,
+                "dumpRowBytes": 2032,
+                "dumpRowSha256": "c2325feb89f181f5c5cd37ddd0f7f777e8bb7bdce76d65bf7d01908e3293a6e5",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Input/EnhancedInput/FortPlayerController/EditMode/IMC_EditMode.uasset",
+                "kind": "paquete",
+                "dumpLine": 151,
+                "dumpByteOffset": 250185,
+                "dumpRowBytes": 16404,
+                "dumpRowSha256": "14e725722ec4f43a0f6edf90d1e68c65befb68175b1ecb775bb8bde7c616ae6d",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/BlueprintTest1.uasset",
+                "kind": "paquete",
+                "dumpLine": 152,
+                "dumpByteOffset": 266589,
+                "dumpRowBytes": 2221,
+                "dumpRowSha256": "1364705f6593c0e7f426811e3dea5bb70b6c49cd28b4087901b9c786b9666064",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/BlueprintTestX.uasset",
+                "kind": "paquete",
+                "dumpLine": 154,
+                "dumpByteOffset": 268939,
+                "dumpRowBytes": 2221,
+                "dumpRowSha256": "9fd991bb2e162a1a7f77c89d23effae0166cfaeaf7c67e80aad5290d03cbdf29",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Floor.uasset",
+                "kind": "paquete",
+                "dumpLine": 156,
+                "dumpByteOffset": 271289,
+                "dumpRowBytes": 6644,
+                "dumpRowSha256": "53a1245ed82bab937c09bbb3937e1f52583aee89139b46c9dbd2efd491da2dc9",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/DS_Fortnite_Mesh/S_BlueprintSlab_Wall.uasset",
+                "kind": "paquete",
+                "dumpLine": 158,
+                "dumpByteOffset": 278069,
+                "dumpRowBytes": 6505,
+                "dumpRowSha256": "91381b2b5b51849b10912fcec2f0c46dbb6823c0ca490f2c5c16ac54bb9cf2c6",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode.uasset",
+                "kind": "paquete",
+                "dumpLine": 160,
+                "dumpByteOffset": 284709,
+                "dumpRowBytes": 3349,
+                "dumpRowSha256": "bc5f966a90c0e74fd38ccb5124e237d6a2eb9e4a85d7083e10109f4cc2881cec",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Effects/M_PBW_EditMode_Blocks.uasset",
+                "kind": "paquete",
+                "dumpLine": 161,
+                "dumpByteOffset": 288058,
+                "dumpRowBytes": 4021,
+                "dumpRowSha256": "8a26d8815be76069c9da95c6b7be9f6e09f521ddf83244568eb8c770e2ab3522",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Plugins/GameFeatures/SimpleEdit/Content/DataTables/Overrides/Competitive/SimpleEditData_Composite_Competitive.uasset",
+                "kind": "paquete",
+                "dumpLine": 183,
+                "dumpByteOffset": 402053,
+                "dumpRowBytes": 7311,
+                "dumpRowSha256": "5939ec6fdb7f05feb6179b9bffc72b1fa44f52bfb93d8ce176df7697b546be57",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Plugins/GameFeatures/SimpleEdit/Content/DataTables/Overrides/Creative/SimpleEditData_Composite_Creative.uasset",
+                "kind": "paquete",
+                "dumpLine": 184,
+                "dumpByteOffset": 409364,
+                "dumpRowBytes": 7287,
+                "dumpRowSha256": "b17ea18c34cf4815fcb8da3968a4ca7cf4d50e124bece04b6603bd004546d22e",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Plugins/GameFeatures/SimpleEdit/Content/DataTables/Overrides/Figment/SimpleEditData_Composite_Figment.uasset",
+                "kind": "paquete",
+                "dumpLine": 186,
+                "dumpByteOffset": 417381,
+                "dumpRowBytes": 7279,
+                "dumpRowSha256": "572777161e824ca365dd2f7038fd17dda489d14ee7a35c34fdc96ad2277ea103",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Plugins/GameFeatures/SimpleEdit/Content/DataTables/Overrides/Reload/SimpleEditData_Composite_Reload.uasset",
+                "kind": "paquete",
+                "dumpLine": 188,
+                "dumpByteOffset": 425385,
+                "dumpRowBytes": 7271,
+                "dumpRowSha256": "f626e4de76e9af72ec3470fa19a49df550b4941f85227b5f148cc1b5dc80264e",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Athena/HUD/Bacchus/ButtonBehaviors/BB_Edit.uasset",
+                "kind": "paquete",
+                "dumpLine": 44027,
+                "dumpByteOffset": 1003695013,
+                "dumpRowBytes": 6395,
+                "dumpRowSha256": "3ebdd5adfeb956502e285391d9ba758ee52980156408c623fec98d2773990ac5",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Athena/HUD/Bacchus/ButtonBehaviors/BB_EditConfirm.uasset",
+                "kind": "paquete",
+                "dumpLine": 44028,
+                "dumpByteOffset": 1003701408,
+                "dumpRowBytes": 4155,
+                "dumpRowSha256": "0faabecdd8a56d09d8be116e17d4526044df4a1c70f8f3048d74e1f30304ea12",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Athena/HUD/Bacchus/ButtonBehaviors/BB_EditReset.uasset",
+                "kind": "paquete",
+                "dumpLine": 44029,
+                "dumpByteOffset": 1003705563,
+                "dumpRowBytes": 3964,
+                "dumpRowSha256": "8159399ec9d893f3653e0234303b40a9dc53870cc15574bbc30d2687f36a8435",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Athena/HUD/Bacchus/ButtonBehaviors/BB_EditSelectReset.uasset",
+                "kind": "paquete",
+                "dumpLine": 44030,
+                "dumpByteOffset": 1003709527,
+                "dumpRowBytes": 4005,
+                "dumpRowSha256": "697bcca7c60589d964a315eb645d825f58730b9be4e08bf3ad9c66c7a89aa634",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Athena/HUD/Bacchus/ButtonBehaviors/BB_EditTargetted.uasset",
+                "kind": "paquete",
+                "dumpLine": 44031,
+                "dumpByteOffset": 1003713532,
+                "dumpRowBytes": 2866,
+                "dumpRowSha256": "c76eea5cd91a78a1ff36c69db5d5189edc70e51ef9085f5213f519af3603214c",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Balance/DefaultGameDataCommon.uasset",
+                "kind": "paquete",
+                "dumpLine": 67088,
+                "dumpByteOffset": 1493691663,
+                "dumpRowBytes": 44800,
+                "dumpRowSha256": "554b2d5a558ee2337bedd09baee11731a29b2b458195b30c74de20e55cf1dc31",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Metal/L1/PBWA_M1_ArchwayLarge.uasset",
+                "kind": "paquete",
+                "dumpLine": 68772,
+                "dumpByteOffset": 1506387768,
+                "dumpRowBytes": 7162,
+                "dumpRowSha256": "973ebde48a6005cfb8ce98d11a3815b5ca4bb446473f8eff4aa9657e7584c580",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Metal/L1/PBWA_M1_Brace.uasset",
+                "kind": "paquete",
+                "dumpLine": 68778,
+                "dumpByteOffset": 1506429776,
+                "dumpRowBytes": 6905,
+                "dumpRowSha256": "259e56f3f2e4be4f1160e819b7e801db54f253f4d4f938e5b4dcc277f5d58d7a",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Metal/L1/PBWA_M1_DoorC.uasset",
+                "kind": "paquete",
+                "dumpLine": 68779,
+                "dumpByteOffset": 1506436681,
+                "dumpRowBytes": 7430,
+                "dumpRowSha256": "975d76f665266684c2b0d3d2cd0eacc82794d83d012136aa35e944eb91903370",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Metal/L1/PBWA_M1_RoofWall.uasset",
+                "kind": "paquete",
+                "dumpLine": 68795,
+                "dumpByteOffset": 1506548643,
+                "dumpRowBytes": 6885,
+                "dumpRowSha256": "5ce6cd7b53ccb3602429841983dd80f5554311115616c9621153c2de23e1bd76",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Metal/L1/PBWA_M1_Solid.uasset",
+                "kind": "paquete",
+                "dumpLine": 68796,
+                "dumpByteOffset": 1506555528,
+                "dumpRowBytes": 6807,
+                "dumpRowSha256": "6e21ed4f9961306fad3a2e84275ed9bb13e4e7cc4cd6f0825bef16f08da902fc",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Metal/L1/PBWA_M1_WindowC.uasset",
+                "kind": "paquete",
+                "dumpLine": 68801,
+                "dumpByteOffset": 1506589769,
+                "dumpRowBytes": 6954,
+                "dumpRowSha256": "31594caa8e6480c2c11f22c33ea7d924bb20d1448dc390f184046fefa02e25b7",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Stone/L1/PBWA_S1_ArchwayLarge.uasset",
+                "kind": "paquete",
+                "dumpLine": 68871,
+                "dumpByteOffset": 1507012145,
+                "dumpRowBytes": 7163,
+                "dumpRowSha256": "2ce0732ded49a1f1cf44c2d84d8a21ace98c2dbf1157fb93ce903efb1c48a433",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Stone/L1/PBWA_S1_Brace.uasset",
+                "kind": "paquete",
+                "dumpLine": 68877,
+                "dumpByteOffset": 1507054133,
+                "dumpRowBytes": 6906,
+                "dumpRowSha256": "0257ccf3ea58f6e8c676a0ad1f7ace1fec2d990a5d3146fab77f05c09aae8bf0",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Stone/L1/PBWA_S1_DoorC.uasset",
+                "kind": "paquete",
+                "dumpLine": 68878,
+                "dumpByteOffset": 1507061039,
+                "dumpRowBytes": 7435,
+                "dumpRowSha256": "d6ff26828519925f545caf6b13bd8e580a0b50465eeda865c296d9a8c2955742",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Stone/L1/PBWA_S1_HalfWallS.uasset",
+                "kind": "paquete",
+                "dumpLine": 68885,
+                "dumpByteOffset": 1507112429,
+                "dumpRowBytes": 6906,
+                "dumpRowSha256": "d501f697e8dd0a8b77e62ded7b2cfdd47c9a4fa4479cb09733ae72a40b6c980e",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Stone/L1/PBWA_S1_RoofWall.uasset",
+                "kind": "paquete",
+                "dumpLine": 68894,
+                "dumpByteOffset": 1507173148,
+                "dumpRowBytes": 6890,
+                "dumpRowSha256": "afba49b681dffc831ee297c7d293358e585c23487367388293b33f7a4f9c1840",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Stone/L1/PBWA_S1_Solid.uasset",
+                "kind": "paquete",
+                "dumpLine": 68895,
+                "dumpByteOffset": 1507180038,
+                "dumpRowBytes": 11516,
+                "dumpRowSha256": "574c393c0841f9ca094ab2b2f40738c4deb14aaa9534489749f995aa69539b12",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_Archway.uasset",
+                "kind": "paquete",
+                "dumpLine": 68969,
+                "dumpByteOffset": 1507675767,
+                "dumpRowBytes": 6903,
+                "dumpRowSha256": "59fc10a4315fc7afefd63d767919b8bc7d68daa6e25106b244f385d9643918a7",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_ArchwayLarge.uasset",
+                "kind": "paquete",
+                "dumpLine": 68970,
+                "dumpByteOffset": 1507682670,
+                "dumpRowBytes": 7075,
+                "dumpRowSha256": "07bc476f8a5b2a9f46c73f9caa903bc294ff13b1496d935597bf997804a37205",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_ArchwayLargeSupport.uasset",
+                "kind": "paquete",
+                "dumpLine": 68971,
+                "dumpByteOffset": 1507689745,
+                "dumpRowBytes": 7222,
+                "dumpRowSha256": "565ce4e4a94060d178a795df1aea4c28490765ddf33faf37ecee8979db4d7383",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_Brace.uasset",
+                "kind": "paquete",
+                "dumpLine": 68976,
+                "dumpByteOffset": 1507724124,
+                "dumpRowBytes": 6822,
+                "dumpRowSha256": "63bc7901bed0301f4e9d8e62038dfdbaa4ad89c9963589d87e1fe2e4e8c9dd9a",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_DoorC.uasset",
+                "kind": "paquete",
+                "dumpLine": 68977,
+                "dumpByteOffset": 1507730946,
+                "dumpRowBytes": 7472,
+                "dumpRowSha256": "b4126e3ca2db6354d66e50e7c2834bdc048bb33cab2b5ff1e424000b17fd1521",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_DoorS.uasset",
+                "kind": "paquete",
+                "dumpLine": 68978,
+                "dumpByteOffset": 1507738418,
+                "dumpRowBytes": 7566,
+                "dumpRowSha256": "539080a99f78e7335d92b74c3ab3e1e0fd1f9e3b0c6025943f26290688226f60",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_DoorSide.uasset",
+                "kind": "paquete",
+                "dumpLine": 68979,
+                "dumpByteOffset": 1507745984,
+                "dumpRowBytes": 7572,
+                "dumpRowSha256": "79a0f331ce473229b02c5b1645f819912cf2c9e3d2ce694aff7a11d97443a692",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_HalfWallDoor.uasset",
+                "kind": "paquete",
+                "dumpLine": 68981,
+                "dumpByteOffset": 1507760191,
+                "dumpRowBytes": 7666,
+                "dumpRowSha256": "8729c93f9a3d05adf5ffe9ce829d182b25796b33336c4b2b379e6b2e2fb9f342",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_HalfWallDoorS.uasset",
+                "kind": "paquete",
+                "dumpLine": 68982,
+                "dumpByteOffset": 1507767857,
+                "dumpRowBytes": 7699,
+                "dumpRowSha256": "c57c17b1b603af0469e5638b63d945f92c4e0e45021d9b1ec96a3c8531efff11",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_HalfWallHalf.uasset",
+                "kind": "paquete",
+                "dumpLine": 68983,
+                "dumpByteOffset": 1507775556,
+                "dumpRowBytes": 6771,
+                "dumpRowSha256": "84023d622723ab351d8b3b8ea85806436014264d3ffdbfbae26868edea22a6b6",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_HalfWallS.uasset",
+                "kind": "paquete",
+                "dumpLine": 68984,
+                "dumpByteOffset": 1507782327,
+                "dumpRowBytes": 6818,
+                "dumpRowSha256": "bc58a73cd97b9a0765b86310bf18470615a81bea8d51a0f070720d1c832cf95d",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_Pillar.uasset",
+                "kind": "paquete",
+                "dumpLine": 68985,
+                "dumpByteOffset": 1507789145,
+                "dumpRowBytes": 6066,
+                "dumpRowSha256": "2ebf7015cda81691c4c3a61150b67f3998775a8f46206df1850a13dcb43a60db",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_QuarterWallHalf.uasset",
+                "kind": "paquete",
+                "dumpLine": 68986,
+                "dumpByteOffset": 1507795211,
+                "dumpRowBytes": 6876,
+                "dumpRowSha256": "ea29062d58f1e93db8da8bffb1890fb1c67e5cb2d0b88157a1179a67da2e800d",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_QuarterWallS.uasset",
+                "kind": "paquete",
+                "dumpLine": 68987,
+                "dumpByteOffset": 1507802087,
+                "dumpRowBytes": 6914,
+                "dumpRowSha256": "0914ea617a9889bfffc372327c8a255350124fd4005592c9fcfe77342b273bc4",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_RoofWall.uasset",
+                "kind": "paquete",
+                "dumpLine": 68993,
+                "dumpByteOffset": 1507842220,
+                "dumpRowBytes": 6802,
+                "dumpRowSha256": "350d04808699d84f368e578ab96d34740976d49f6c7ee246f6782e25e2e40010",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_Solid.uasset",
+                "kind": "paquete",
+                "dumpLine": 68994,
+                "dumpByteOffset": 1507849022,
+                "dumpRowBytes": 6759,
+                "dumpRowSha256": "42e45992fb0790e52c14686cc62e457e8adc23d64781e5c4a8c5eda4b3248935",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_WindowC.uasset",
+                "kind": "paquete",
+                "dumpLine": 69000,
+                "dumpByteOffset": 1507891046,
+                "dumpRowBytes": 6870,
+                "dumpRowSha256": "63d7c639ee5908ac28342637a87282730bb77528ec0ebbb516f38c54a5a7fc87",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_WindowSide.uasset",
+                "kind": "paquete",
+                "dumpLine": 69001,
+                "dumpByteOffset": 1507897916,
+                "dumpRowBytes": 6969,
+                "dumpRowSha256": "6ab1038a88bbb23ee7166e907a8b95053d0ad07b17186258677be8d2997860af",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Building/ActorBlueprints/Player/Wood/L1/PBWA_W1_Windows.uasset",
+                "kind": "paquete",
+                "dumpLine": 69002,
+                "dumpByteOffset": 1507904885,
+                "dumpRowBytes": 6887,
+                "dumpRowSha256": "c8fa99bbebbb9278caadf6ecf68c75ff04176cb591693d26c28cb0309df1193a",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Global/Textures/Default/Masks_and_Gradients/T_VertGradient.uasset",
+                "kind": "paquete",
+                "dumpLine": 276929,
+                "dumpByteOffset": 2601243085,
+                "dumpRowBytes": 1611,
+                "dumpRowSha256": "7542ba9e04f70b940f06c48880808dfaf2a63e41291845894bd13d519a3f57d7",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Items/Weapons/BuildingTools/BuildingItemData_Wall.uasset",
+                "kind": "paquete",
+                "dumpLine": 279083,
+                "dumpByteOffset": 2641252041,
+                "dumpRowBytes": 1258,
+                "dumpRowSha256": "aa38d8a54f97cd7aa14d0b4d9bb0de8c717abc234eb81d97d8651f6e6b3c5da0",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/Fortnite_UniqueMaterials_1/Effects/MGreen.uasset",
+                "kind": "paquete",
+                "dumpLine": 289545,
+                "dumpByteOffset": 3026826347,
+                "dumpRowBytes": 4611,
+                "dumpRowSha256": "42b3a73ff39ac22e223639e9b64fa311c61cc986edabe27bc7bc77c2cf5dec0a",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Brick/L1/PBW_B1_ArchwayLarge.uasset",
+                "kind": "paquete",
+                "dumpLine": 292504,
+                "dumpByteOffset": 3062720408,
+                "dumpRowBytes": 12042,
+                "dumpRowSha256": "ddcacc499aa2022a64f8acd92ca355457b6af3e1277ace99509e1704cc4a1cb6",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Brick/L1/PBW_B1_Brace.uasset",
+                "kind": "paquete",
+                "dumpLine": 292516,
+                "dumpByteOffset": 3062786346,
+                "dumpRowBytes": 9382,
+                "dumpRowSha256": "b0de62f6f70a7abcfa483bd7172bd1ed5d914bed60313a5c4fcbc324f2265803",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Brick/L1/PBW_B1_DoorC.uasset",
+                "kind": "paquete",
+                "dumpLine": 292520,
+                "dumpByteOffset": 3062806665,
+                "dumpRowBytes": 10707,
+                "dumpRowSha256": "9f5669df681ebd667f17fec41311a2ca7fbfbaed38e11ddfd6abbb36910ddf9b",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Brick/L1/PBW_B1_HalfWallS.uasset",
+                "kind": "paquete",
+                "dumpLine": 292534,
+                "dumpByteOffset": 3062882855,
+                "dumpRowBytes": 9256,
+                "dumpRowSha256": "2fe38185dc9dbe481dea7bc9472f66583d60081429648064955df2c4f949d4c4",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Brick/L1/PBW_B1_RoofWall.uasset",
+                "kind": "paquete",
+                "dumpLine": 292552,
+                "dumpByteOffset": 3062964736,
+                "dumpRowBytes": 9425,
+                "dumpRowSha256": "e8c751193aae908a70679927cdc420486eb3a76ec70cea504ff7c9ace58d585d",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Brick/L1/PBW_B1_Solid.uasset",
+                "kind": "paquete",
+                "dumpLine": 292554,
+                "dumpByteOffset": 3062974287,
+                "dumpRowBytes": 9234,
+                "dumpRowSha256": "82f45a0b33b159170fbf792a62892095956aacf5cca8981b3398455aac6bef4e",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Metal/L1/PBW_M1_ArchwayLarge.uasset",
+                "kind": "paquete",
+                "dumpLine": 292822,
+                "dumpByteOffset": 3064020015,
+                "dumpRowBytes": 13454,
+                "dumpRowSha256": "8def8a36576f70f1bac0b64da43c239e40b1dffda560b5a998fa549e35ab2258",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Metal/L1/PBW_M1_Brace.uasset",
+                "kind": "paquete",
+                "dumpLine": 292834,
+                "dumpByteOffset": 3064095150,
+                "dumpRowBytes": 10334,
+                "dumpRowSha256": "38acd7484b2d077ddd7862e5ad42c27573be589de6076f02fc21d83e7a11f49d",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Metal/L1/PBW_M1_DoorC.uasset",
+                "kind": "paquete",
+                "dumpLine": 292838,
+                "dumpByteOffset": 3064115386,
+                "dumpRowBytes": 11821,
+                "dumpRowSha256": "28664a29a15c73fac5f2e12b5a0ea311e6f42825b2daa7a9e54064ce3fcf21dc",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Metal/L1/PBW_M1_RoofWall.uasset",
+                "kind": "paquete",
+                "dumpLine": 292870,
+                "dumpByteOffset": 3064289636,
+                "dumpRowBytes": 9771,
+                "dumpRowSha256": "02cb952aa04643df2acc3deccbece6cf7e83b2e8d8866f74899ae1fc16a3ce11",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Metal/L1/PBW_M1_Solid.uasset",
+                "kind": "paquete",
+                "dumpLine": 292872,
+                "dumpByteOffset": 3064299533,
+                "dumpRowBytes": 10144,
+                "dumpRowSha256": "c87a784ca6fd0d0705745e131f07b61e4ac341b7efdf8b17fd6e2d55e259d78c",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Metal/L1/PBW_M1_WindowC.uasset",
+                "kind": "paquete",
+                "dumpLine": 292882,
+                "dumpByteOffset": 3064360165,
+                "dumpRowBytes": 14141,
+                "dumpRowSha256": "0bdc1562ea1cf65e327e85a0f6e3c04f87ceddd30026972086b277cda055a75e",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Archway.uasset",
+                "kind": "paquete",
+                "dumpLine": 293105,
+                "dumpByteOffset": 3065272534,
+                "dumpRowBytes": 14132,
+                "dumpRowSha256": "5dd0a84adbf77c76dfaf4872894cec354c75a1e2fae8ae3924486b9613e95e70",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_ArchwayLarge.uasset",
+                "kind": "paquete",
+                "dumpLine": 293107,
+                "dumpByteOffset": 3065286790,
+                "dumpRowBytes": 11458,
+                "dumpRowSha256": "88e727de91a2b6cfb673d6418a4caac2032daae5520d3df1c8ad97c8db364d5f",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_ArchwaySupportLarge.uasset",
+                "kind": "paquete",
+                "dumpLine": 293109,
+                "dumpByteOffset": 3065298377,
+                "dumpRowBytes": 8236,
+                "dumpRowSha256": "ba639665e200fc1c51e9aff3dfbbbda5730a394922a8c2bb27c0c0df57509cdf",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Brace.uasset",
+                "kind": "paquete",
+                "dumpLine": 293119,
+                "dumpByteOffset": 3065354853,
+                "dumpRowBytes": 9777,
+                "dumpRowSha256": "30403a6baa7dc8e495768c008b803ae4f19993cc87e37fdad718427b5bfb9829",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Door.uasset",
+                "kind": "paquete",
+                "dumpLine": 293121,
+                "dumpByteOffset": 3065364752,
+                "dumpRowBytes": 8568,
+                "dumpRowSha256": "1f16d334ea4595ad5e07682bf9fe312813487141d651c9dd5eb4d720eb6da061",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_DoorC.uasset",
+                "kind": "paquete",
+                "dumpLine": 293123,
+                "dumpByteOffset": 3065373441,
+                "dumpRowBytes": 9853,
+                "dumpRowSha256": "f692dd0d3079d177555ade34f1e456cafec17bb674e21006cd5aeca3ebce592b",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_DoorS.uasset",
+                "kind": "paquete",
+                "dumpLine": 293125,
+                "dumpByteOffset": 3065383416,
+                "dumpRowBytes": 15164,
+                "dumpRowSha256": "8235c267ded16b4964da6ee8751822ebd23c259084a1c92f6c726c4e6617ef9a",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_DoorSide.uasset",
+                "kind": "paquete",
+                "dumpLine": 293127,
+                "dumpByteOffset": 3065398702,
+                "dumpRowBytes": 11351,
+                "dumpRowSha256": "2e19713eb0e19381cd723e01be655dd851551131eea56846d1eeee20c0c89621",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Floor.uasset",
+                "kind": "paquete",
+                "dumpLine": 293129,
+                "dumpByteOffset": 3065410178,
+                "dumpRowBytes": 8783,
+                "dumpRowSha256": "89d1096f4d1f22d4422891b39e52c9d72b0610160ebdd4e3790050ede926b561",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallDoor.uasset",
+                "kind": "paquete",
+                "dumpLine": 293131,
+                "dumpByteOffset": 3065419083,
+                "dumpRowBytes": 9003,
+                "dumpRowSha256": "f7d6463c5df72f12af1644bbf95e4007f752596fecfdeaf366cf45c3d7ed57ce",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallDoorS.uasset",
+                "kind": "paquete",
+                "dumpLine": 293133,
+                "dumpByteOffset": 3065428215,
+                "dumpRowBytes": 9023,
+                "dumpRowSha256": "f404949d0739073cba7b69ac62528cf8392ea4c2e52b3e6d1dcb5a926f0e2ade",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallHalf.uasset",
+                "kind": "paquete",
+                "dumpLine": 293135,
+                "dumpByteOffset": 3065437368,
+                "dumpRowBytes": 9796,
+                "dumpRowSha256": "e10afb5a4e4c7e810e75a56b2be11f703b6854fedfb57db6070b2ba0d6337462",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_HalfWallS.uasset",
+                "kind": "paquete",
+                "dumpLine": 293137,
+                "dumpByteOffset": 3065447293,
+                "dumpRowBytes": 8234,
+                "dumpRowSha256": "10289a3068eb1afbcba98b8e92a76da04aca46a253bc552ca5d34dc703930a78",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Pillar.uasset",
+                "kind": "paquete",
+                "dumpLine": 293139,
+                "dumpByteOffset": 3065455653,
+                "dumpRowBytes": 9191,
+                "dumpRowSha256": "ce61ab190f4b300df55dba4ca3fb9a387bb7ce3f7e357c552b08757cf552a43a",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_QuarterWallHalf.uasset",
+                "kind": "paquete",
+                "dumpLine": 293141,
+                "dumpByteOffset": 3065464967,
+                "dumpRowBytes": 8856,
+                "dumpRowSha256": "3702005499959461b2dc4637bea92231a0e1bb979dcb05a9a032d71a4784cd4b",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_QuarterWallS.uasset",
+                "kind": "paquete",
+                "dumpLine": 293143,
+                "dumpByteOffset": 3065473955,
+                "dumpRowBytes": 9247,
+                "dumpRowSha256": "5b84b753a64d1a8da61dd744407055b86b02f9e5c8d2549b469562f31a4d27b5",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_RoofC.uasset",
+                "kind": "paquete",
+                "dumpLine": 293145,
+                "dumpByteOffset": 3065483331,
+                "dumpRowBytes": 11742,
+                "dumpRowSha256": "e07e3a5acb643f5535c95a81bb8d788f1563720d51cc43fe118f6136924223b9",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_RoofWall.uasset",
+                "kind": "paquete",
+                "dumpLine": 293155,
+                "dumpByteOffset": 3065531341,
+                "dumpRowBytes": 8380,
+                "dumpRowSha256": "dcdd662db309228d53760826b6ad4bb56a2a14a84f62655a7d87bce5f9aec9e4",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Solid.uasset",
+                "kind": "paquete",
+                "dumpLine": 293157,
+                "dumpByteOffset": 3065539846,
+                "dumpRowBytes": 8773,
+                "dumpRowSha256": "691fc93fac1d097f54541490b3c34b8451c47478c1599e4657406e71750c9595",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_StairW.uasset",
+                "kind": "paquete",
+                "dumpLine": 293165,
+                "dumpByteOffset": 3065585327,
+                "dumpRowBytes": 8082,
+                "dumpRowSha256": "937f5069a89415de3a47ccce7bb914644e50ac4da518fd8d1317746cde4415be",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_WindowC.uasset",
+                "kind": "paquete",
+                "dumpLine": 293167,
+                "dumpByteOffset": 3065593532,
+                "dumpRowBytes": 12192,
+                "dumpRowSha256": "efc7d1f4aa5ece1ab3d241beb4e995f4efd3fec7ca7587bbf30451f3b9762f8d",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_WindowSide.uasset",
+                "kind": "paquete",
+                "dumpLine": 293169,
+                "dumpByteOffset": 3065605848,
+                "dumpRowBytes": 12240,
+                "dumpRowSha256": "d3e062bb813c3661867909c6db7d07fab422b0484dd9b6f5cfc691dfd29e2bba",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/L1/PBW_W1_Windows.uasset",
+                "kind": "paquete",
+                "dumpLine": 293171,
+                "dumpByteOffset": 3065618215,
+                "dumpRowBytes": 14119,
+                "dumpRowSha256": "48b2f71abe8549fa86af6c2c63c412f5fde028eef54b2bdc0da7f1405ffcde3c",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Materials/Wood_lvl1_Floor.uasset",
+                "kind": "paquete",
+                "dumpLine": 293319,
+                "dumpByteOffset": 3066386009,
+                "dumpRowBytes": 7218,
+                "dumpRowSha256": "f6f7284bf7e5d008bc1c7833c8013ec21e19f360d9ac403b4d18d88bdc862ff5",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Materials/Wood_lvl1_Static.uasset",
+                "kind": "paquete",
+                "dumpLine": 293320,
+                "dumpByteOffset": 3066393227,
+                "dumpRowBytes": 5202,
+                "dumpRowSha256": "7891e270c2bc49ead17ba9c25c1816caf47cc2da2662fbabdede69135b5a6ea7",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Materials/Wood_lvl1_Wall.uasset",
+                "kind": "paquete",
+                "dumpLine": 293322,
+                "dumpByteOffset": 3066407207,
+                "dumpRowBytes": 8580,
+                "dumpRowSha256": "8986ad8cd7ef7586ccf9c7d10ef745f670b95db3bc37fa2beacc9df9a2a1a085",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Materials/Wood_lvl1_Wall_Damaged.uasset",
+                "kind": "paquete",
+                "dumpLine": 293323,
+                "dumpByteOffset": 3066415787,
+                "dumpRowBytes": 1731,
+                "dumpRowSha256": "9b88142c0575b0203e577a1e0c0ba3997a8c385cf1635567de0bdef27a1d12c5",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Textures/T_PBW_W1_D.uasset",
+                "kind": "paquete",
+                "dumpLine": 293364,
+                "dumpByteOffset": 3066495555,
+                "dumpRowBytes": 3057,
+                "dumpRowSha256": "7d1b2137656e91b9eb3d28cc6aac8dc248615f078a002589970f76679f2d2348",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Packages/PBW/Wood/Textures/T_PBW_W1_N.uasset",
+                "kind": "paquete",
+                "dumpLine": 293371,
+                "dumpByteOffset": 3066502053,
+                "dumpRowBytes": 2965,
+                "dumpRowSha256": "be9da597baa78d900ccf1fd420bd62d751ca91cb0dd18995ec0125e920a65443",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Sounds/Banks/DefaultBuildingAudioBank.uasset",
+                "kind": "paquete",
+                "dumpLine": 301586,
+                "dumpByteOffset": 3094212855,
+                "dumpRowBytes": 12061,
+                "dumpRowSha256": "def642cea01e1baad042dd73185aabf8649fc00931713bf8ef20002c80cbcbc2",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Sounds/Fort_UI_Sounds/Gameplay/Fort_Build_BluePrint_CancelEdit_Cue.uasset",
+                "kind": "paquete",
+                "dumpLine": 338307,
+                "dumpByteOffset": 3240394658,
+                "dumpRowBytes": 2282,
+                "dumpRowSha256": "4c9ced2f02500b7902730c3bd8302452375c7bd05ba71edb169ba09a4692e2b1",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Sounds/Fort_UI_Sounds/Gameplay/Fort_Build_BluePrint_Edit_TurnOnTile_Cue.uasset",
+                "kind": "paquete",
+                "dumpLine": 338308,
+                "dumpByteOffset": 3240396940,
+                "dumpRowBytes": 2340,
+                "dumpRowSha256": "8c667ec9b7b4806ff59e83dab43e24b1deb6beda8f216cbe9a19172aab4a3e91",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Sounds/Fort_UI_Sounds/Gameplay/Fort_Build_BluePrint_EnemyConfirmEdit_Cue.uasset",
+                "kind": "paquete",
+                "dumpLine": 338309,
+                "dumpByteOffset": 3240399280,
+                "dumpRowBytes": 4619,
+                "dumpRowSha256": "9e453911e5a9e5154904e72e39ffa4228b854ed0f2230338acfc9124d7b8fe39",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Sounds/Fort_UI_Sounds/Gameplay/Fort_Build_BluePrint_G_To_Edit_Cue.uasset",
+                "kind": "paquete",
+                "dumpLine": 338310,
+                "dumpByteOffset": 3240403899,
+                "dumpRowBytes": 2242,
+                "dumpRowSha256": "39ff4f29286f4ed49728fa0d900491c6dde7a053816f2aa621ddfec3a4e4ffe4",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/UI/InGame/HUD/Textures/M_UI_QuickBuildIcon.uasset",
+                "kind": "paquete",
+                "dumpLine": 352879,
+                "dumpByteOffset": 3289855052,
+                "dumpRowBytes": 3341,
+                "dumpRowSha256": "ecddc5a1b80eede3da4a1c1a625e22f0b3c949447d63cd63fd74b28100c96f2e",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/UI/InGame/HUD/Textures/M_UI_QuickEdit.uasset",
+                "kind": "paquete",
+                "dumpLine": 352880,
+                "dumpByteOffset": 3289858393,
+                "dumpRowBytes": 9201,
+                "dumpRowSha256": "e73fe94e30e607b12d561f2f16a7d9c25f7380f23cd78080f8cce22d23fcc851",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/UI/InGame/HUD/Textures/M_UI_QuickEdit_0.uasset",
+                "kind": "paquete",
+                "dumpLine": 352881,
+                "dumpByteOffset": 3289867594,
+                "dumpRowBytes": 2064,
+                "dumpRowSha256": "da16e60150b8eb77ca4ef12c90e7ec5f8f0f18456f05193e06c34497a9f76c10",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/UI/InGame/HUD/Textures/M_UI_SimpleEditMeshPreview.uasset",
+                "kind": "paquete",
+                "dumpLine": 352882,
+                "dumpByteOffset": 3289869658,
+                "dumpRowBytes": 2837,
+                "dumpRowSha256": "34faed971842ebe79e426c3c7f9ddcdce3e08179baaf09a0e5521039b573d877",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/UI/InGame/HUD/Textures/T_UI_QuickEdit_Pip.uasset",
+                "kind": "paquete",
+                "dumpLine": 352885,
+                "dumpByteOffset": 3289878665,
+                "dumpRowBytes": 842,
+                "dumpRowSha256": "e945f306e91db710aa1000d85feb8fadb1f25520eef0a7ac62a6b42dfb9f5262",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/UI/InGame/HUD/WBP_QuickEditGrid.uasset",
+                "kind": "paquete",
+                "dumpLine": 352891,
+                "dumpByteOffset": 3290057936,
+                "dumpRowBytes": 44577,
+                "dumpRowSha256": "a6ea27fdd169a9f1a8235a5472774c9ba5d1211d647cc328c513f2f9712c5739",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Content/Weapons/WeaponSkins/Textures/T_VertGradient.uasset",
+                "kind": "paquete",
+                "dumpLine": 360586,
+                "dumpByteOffset": 3408061522,
+                "dumpRowBytes": 1631,
+                "dumpRowSha256": "22013c01f959e0d0ebc87307f7bd8068562d0bde2c4d1113e589ad2c99b99086",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Characters/Player/Female/Medium/Bodies/F_MED_Rockstar/Skins/Sparkle/Textures/T_VertGradient.uasset",
+                "kind": "paquete",
+                "dumpLine": 638564,
+                "dumpByteOffset": 6799974921,
+                "dumpRowBytes": 1704,
+                "dumpRowSha256": "4adf75ca5c1fd1d60486bb3ed58b489d5ce81a87482bb0e78b2a29f7c2f0bba7",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Weapons/FORT_Melee/Pickaxe_CyborgWarrior/Textures/T_VertGradient.uasset",
+                "kind": "paquete",
+                "dumpLine": 966962,
+                "dumpByteOffset": 11204551463,
+                "dumpRowBytes": 1650,
+                "dumpRowSha256": "609baf857f1aed2a9f55c1abe17ca408bb8c07365b8f17bd9286d161c29df511",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Plugins/GameFeatures/Figment/Figment_S08/Content/Athena/Items/Consumables/Spooky_Mist_Cube/Textures/T_VertGradient.uasset",
+                "kind": "paquete",
+                "dumpLine": 1473737,
+                "dumpByteOffset": 18379937664,
+                "dumpRowBytes": 1660,
+                "dumpRowSha256": "4c161ca8604b9a9ed143ffef2efe9414d678b9207a8b689f6fda2671901a86f9",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Plugins/GameFeatures/SimpleEdit/Content/BP_SimpleEditControllerComponent.uasset",
+                "kind": "paquete",
+                "dumpLine": 1851938,
+                "dumpByteOffset": 22849835642,
+                "dumpRowBytes": 26195,
+                "dumpRowSha256": "e8ca4bc51fc1989e7537e386dd40b89ec46db9391edf67af8201c5930340039d",
+                "verification": "match",
+                "exporterReportedError": false
+            },
+            {
+                "archivePath": "FortniteGame/Plugins/GameFeatures/SimpleEdit/Content/SimpleEdit.uasset",
+                "kind": "paquete",
+                "dumpLine": 1851946,
+                "dumpByteOffset": 22849884664,
+                "dumpRowBytes": 6842,
+                "dumpRowSha256": "59e68e9871d0cedb2f802cf9accbd992c2ebad81012fa0e6c359d83afbbfc314",
+                "verification": "match",
+                "exporterReportedError": false
+            }
+        ]
+    },
+    "convertedTexturePixelChecks": [
+        {
+            "file": "edit-mode/BlueprintTest1.png",
+            "pixelsWithNonzeroAlpha": 65536,
+            "pixelsWithNonzeroAlphaAndGreenGreaterThanRedAndBlue": 65536
+        },
+        {
+            "file": "edit-mode/BlueprintTestX.png",
+            "pixelsWithNonzeroAlpha": 65536,
+            "pixelsWithNonzeroAlphaAndGreenGreaterThanRedAndBlue": 65536
+        },
+        {
+            "file": "edit-mode/T_VertGradient.png",
+            "pixelsWithNonzeroAlpha": 32,
+            "pixelsWithNonzeroAlphaAndGreenGreaterThanRedAndBlue": 1
+        }
+    ],
+    "findings": [
+        "Los siete JSON de referencia existentes coinciden como datos JSON con las propiedades devueltas por el MCP desde la versión instalada y con sus filas históricas correspondientes.",
+        "BlueprintTest1 y BlueprintTestX son PNG locales convertidos. El canal verde domina cada píxel visible de ambos. El material serializado M_PBW_EditMode_Blocks referencia BlueprintTest1. Los registros de la losa de suelo y de pared referencian MGreen. La instancia Wood_lvl1_Wall referencia Builder_2 como padre. Son relaciones serializadas; falta demostrar su uso por estado en partida.",
+        "LoadedMaterialResources está vacío en las respuestas del MCP para M_PBW_EditMode, M_PBW_EditMode_Blocks, MGreen y Builder_2. El JSON devuelve propiedades y datos de expresiones en caché. La consulta no proporciona el shader activo ni el estado material de una partida.",
+        "Los meshes GLB y las texturas PNG están registrados como conversiones existentes. Los hashes de los índices IoStore, registros JSONL y exportaciones se refieren exclusivamente a los bytes de esos archivos o filas. La presencia de un objeto en un VFS y la igualdad del JSON serializado no verifican los bytes del paquete Unreal.",
+        "Los dos candidatos históricos T_VertGradient que resuelve el índice On Demand son coincidencias de nombre fuera de las dependencias directas verificadas. El archivo de índice no se encontró en el directorio Paks instalado."
+    ],
+    "runtimeEvidenceGaps": {
+        "geometryAndPlacement": "Los JSON de losas y los GLB acreditan metadatos serializados o de la conversión. Falta validar los transforms colocados, puntos de anclaje, cuadrícula activa, rotación, reglas de encaje y comprobaciones de ocupación por pieza y variante.",
+        "editing": "Falta una traza verificable de la lógica activa de casillas, transformaciones, validación, confirmación y reinicio por variante, modo y estado.",
+        "materialsAndTransparency": "Faltan el grafo o shader de la variante que se ejecuta, la asignación e instancias materiales por estado y los parámetros aplicados durante la edición. Quedan sin determinar el mecanismo del azul y gris y la opacidad efectiva de la madera.",
+        "editingSurfacesAndCollisions": "Las dos losas serializan StaticMesh y BodySetup. Falta vincular las superficies y las consultas de edición y colisión a los componentes activos, sus poses, canales y caras por pieza y variante."
+    },
+    "publicReferences": [
+        {
+            "url": "https://www.epicgames.com/help/c-34254770/c-33726977/hoe-kan-ik-simple-edit-eenvoudig-bewerken-in-of-uitschakelen-in-fortnite-a24415246?lang=es-ES",
+            "scope": "Epic documenta los controles de Edición sencilla y una restricción de disponibilidad por modo."
+        },
+        {
+            "url": "https://dev.epicgames.com/documentation/unreal-engine/instanced-materials-in-unreal-engine?lang=en-US",
+            "scope": "Epic describe en general los parámetros y las instancias de material de Unreal Engine."
+        },
+        {
+            "url": "https://dev.epicgames.com/documentation/unreal-engine/simple-versus-complex-collision-in-unreal-engine",
+            "scope": "Epic documenta la distinción general de colisiones simples y complejas y la intervención de la consulta de escena."
+        }
+    ],
+    "verification": {
+        "mcpRestoreExitCode": 0,
+        "mcpPublishExitCode": 0,
+        "mcpPublishNotes": "La caché CMake de una ruta anterior se conservó aparte. La segunda publicación compiló también CUE4Parse-Natives. NuGet emitió alertas en dependencias del checkout.",
+        "playCanvasTypecheckExitCode": 0,
+        "playCanvasBuildExitCode": 0,
+        "playCanvasLintExitCode": 1,
+        "playCanvasLintNotes": "Seis incidencias de import-x/order en src/app/engine/scene.ts, anteriores a la auditoría.",
+        "playCanvasInitialFormatCheckExitCode": 1,
+        "playCanvasInitialFormatCheckReportedFiles": 48,
+        "playCanvasViewerRenderedInBrowser": true,
+        "fortniteGameRuntimeObserved": false
+    }
+}

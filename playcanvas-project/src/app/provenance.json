@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app",
+  "entries": [],
+  "childManifests": [
+    "HUD/provenance.json",
+    "animations/provenance.json",
+    "builds/provenance.json",
+    "camera/provenance.json",
+    "engine/provenance.json",
+    "entorno/provenance.json",
+    "player/provenance.json",
+    "skins/provenance.json"
+  ]
+}

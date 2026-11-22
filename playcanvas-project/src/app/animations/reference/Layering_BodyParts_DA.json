@@ -1,0 +1,1550 @@
+[
+  {
+    "Type": "FortAnimationLayeringBodyPartsDataAsset",
+    "Name": "Layering_BodyParts_DA",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'FortAnimationLayeringBodyPartsDataAsset'",
+    "Package": "/Game/Characters/Player/DataAssets/Layering_BodyParts_DA",
+    "Properties": {
+      "BoneMaskDefinition": {
+        "BodyPartDefinitions": [
+          {
+            "Name": "Legs",
+            "BranchFilters": [
+              {
+                "BoneName": "thigh_l",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "thigh_r",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "ik_foot_root",
+                "BlendDepth": 0
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 3,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 14,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 15,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 229,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 230,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 231,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 232,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 233,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 234,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 235,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 236,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 237,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 238,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 239,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 240,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 241,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 242,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 243,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 244,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 245,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 246,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 247,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 248,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 249,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 250,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 251,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 252,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 253,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 254,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 255,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 256,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 257,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 258,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 259,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 260,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 261,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 262,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 263,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 264,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 265,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 272,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 273,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 289,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 301,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 311,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 312,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": []
+          },
+          {
+            "Name": "Pelvis",
+            "BranchFilters": [
+              {
+                "BoneName": "pelvis",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "Spine_01",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "thigh_l",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "thigh_r",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "ik_foot_root",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "VB pelvis_ik_hand_gun",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "VB pelvis_ik_hand_r",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "VB pelvis_ik_hand_l",
+                "BlendDepth": -1
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 1,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 16,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 17,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 18,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 19,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 20,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 21,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 266,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 267,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 268,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 269,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 270,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 271,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 300,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 308,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 309,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 310,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": [
+              13,
+              14,
+              15,
+              305,
+              306,
+              307
+            ]
+          },
+          {
+            "Name": "Torso",
+            "BranchFilters": [
+              {
+                "BoneName": "Spine_01",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "neck_01",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "clavicle_l",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "clavicle_r",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "ik_hand_root",
+                "BlendDepth": -1
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 13,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 22,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 23,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 24,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 25,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 26,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 30,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 31,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 32,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 214,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 215,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 216,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 217,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 218,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 219,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 220,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 221,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 222,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 223,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 224,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 225,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 226,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 227,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 228,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 283,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 284,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 285,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 286,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 287,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 288,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 297,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 298,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 299,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": [
+              27,
+              28,
+              29
+            ]
+          },
+          {
+            "Name": "Head",
+            "BranchFilters": [
+              {
+                "BoneName": "neck_01",
+                "BlendDepth": 0
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 29,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 105,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 106,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 107,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 108,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 109,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 110,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 111,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 112,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 113,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 114,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 115,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 116,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 117,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 118,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 119,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 120,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 121,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 122,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 123,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 124,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 125,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 126,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 127,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 128,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 129,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 130,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 131,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 132,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 133,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 134,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 135,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 136,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 137,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 138,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 139,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 140,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 141,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 142,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 143,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 144,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 145,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 146,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 147,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 148,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 149,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 150,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 151,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 152,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 153,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 154,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 155,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 156,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 157,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 158,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 159,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 160,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 161,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 162,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 163,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 164,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 165,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 166,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 167,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 168,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 169,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 170,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 171,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 172,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 173,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 174,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 175,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 176,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 177,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 178,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 179,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 180,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 181,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 182,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 183,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 184,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 185,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 186,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 187,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 188,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 189,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 190,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 191,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 192,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 193,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 194,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 195,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 196,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 197,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 198,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 199,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 200,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 201,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 202,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 203,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 204,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 205,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 206,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 207,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 208,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 209,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 210,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 211,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 212,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 213,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 291,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": []
+          },
+          {
+            "Name": "ShoulderL",
+            "BranchFilters": [
+              {
+                "BoneName": "clavicle_l",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "upperarm_l",
+                "BlendDepth": -1
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 27,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": [
+              33
+            ]
+          },
+          {
+            "Name": "ShoulderR",
+            "BranchFilters": [
+              {
+                "BoneName": "clavicle_r",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "upperarm_r",
+                "BlendDepth": -1
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 28,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": [
+              63
+            ]
+          },
+          {
+            "Name": "ArmL",
+            "BranchFilters": [
+              {
+                "BoneName": "upperarm_l",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "hand_l",
+                "BlendDepth": -1
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 33,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 34,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 35,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 36,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 37,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 39,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 40,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 41,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": [
+              38
+            ]
+          },
+          {
+            "Name": "ArmR",
+            "BranchFilters": [
+              {
+                "BoneName": "upperarm_r",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "hand_r",
+                "BlendDepth": -1
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 63,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 64,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 65,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 66,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 67,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 69,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 70,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 71,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 93,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 94,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 95,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 96,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 97,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 98,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 99,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 100,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 101,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 102,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 103,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 104,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": [
+              68
+            ]
+          },
+          {
+            "Name": "HandL",
+            "BranchFilters": [
+              {
+                "BoneName": "hand_l",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "index_metacarpal_l",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "middle_metacarpal_l",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "pinky_metacarpal_l",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "ring_metacarpal_l",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "thumb_01_l",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "hand_attach_l",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "weapon_l",
+                "BlendDepth": -1
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 38,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": [
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48
+            ]
+          },
+          {
+            "Name": "HandR",
+            "BranchFilters": [
+              {
+                "BoneName": "hand_r",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "index_metacarpal_r",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "middle_metacarpal_r",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "pinky_metacarpal_r",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "ring_metacarpal_r",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "thumb_01_r",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "hand_attach_r",
+                "BlendDepth": -1
+              },
+              {
+                "BoneName": "weapon_r",
+                "BlendDepth": -1
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 68,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": [
+              72,
+              73,
+              74,
+              75,
+              76,
+              77,
+              78
+            ]
+          },
+          {
+            "Name": "WeaponL",
+            "BranchFilters": [
+              {
+                "BoneName": "weapon_l",
+                "BlendDepth": 0
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 47,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": []
+          },
+          {
+            "Name": "WeaponR",
+            "BranchFilters": [
+              {
+                "BoneName": "weapon_r",
+                "BlendDepth": 0
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 77,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": []
+          },
+          {
+            "Name": "HandAttachL",
+            "BranchFilters": [
+              {
+                "BoneName": "hand_attach_l",
+                "BlendDepth": 0
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 48,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": []
+          },
+          {
+            "Name": "HandAttachR",
+            "BranchFilters": [
+              {
+                "BoneName": "hand_attach_r",
+                "BlendDepth": 0
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 78,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": []
+          },
+          {
+            "Name": "FingersL",
+            "BranchFilters": [
+              {
+                "BoneName": "index_metacarpal_l",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "middle_metacarpal_l",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "pinky_metacarpal_l",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "ring_metacarpal_l",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "thumb_01_l",
+                "BlendDepth": 0
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 42,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 43,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 44,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 45,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 46,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 49,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 50,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 51,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 52,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 53,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 54,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 55,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 56,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 57,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 58,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 59,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 60,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 61,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 62,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": []
+          },
+          {
+            "Name": "FingersR",
+            "BranchFilters": [
+              {
+                "BoneName": "index_metacarpal_r",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "middle_metacarpal_r",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "pinky_metacarpal_r",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "ring_metacarpal_r",
+                "BlendDepth": 0
+              },
+              {
+                "BoneName": "thumb_01_r",
+                "BlendDepth": 0
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 72,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 73,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 74,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 75,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 76,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 79,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 80,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 81,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 82,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 83,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 84,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 85,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 86,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 87,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 88,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 89,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 90,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 91,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 92,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": []
+          },
+          {
+            "Name": "FirstPerson",
+            "BranchFilters": [
+              {
+                "BoneName": "root_fp",
+                "BlendDepth": 0
+              }
+            ],
+            "SkeletonPoseBoneWeights": [
+              {
+                "SkeletonPoseBoneIndex": 12,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 277,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 278,
+                "BlendWeight": 1.0
+              },
+              {
+                "SkeletonPoseBoneIndex": 279,
+                "BlendWeight": 1.0
+              }
+            ],
+            "SkeletonPoseChildBoneIndices": []
+          }
+        ]
+      }
+    }
+  }
+]

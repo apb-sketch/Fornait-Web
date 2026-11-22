@@ -1,0 +1,350 @@
+[
+  {
+    "asset": "/LocomotionInitiative/Animation/BlendSpaces/LowLOD_Crouch_Locomotion_BS.LowLOD_Crouch_Locomotion_BS",
+    "class": "BlendSpace"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/BlendSpaces/LowLOD_Crouch_Locomotion_BS_1D.LowLOD_Crouch_Locomotion_BS_1D",
+    "class": "BlendSpace1D"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/BlendSpaces/LowLOD_Jog_Locomotion_BS.LowLOD_Jog_Locomotion_BS",
+    "class": "BlendSpace"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/BlendSpaces/LowLOD_Run_Locomotion_BS.LowLOD_Run_Locomotion_BS",
+    "class": "BlendSpace"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/BlendSpaces/LowLOD_Sprint_Locomotion_BS.LowLOD_Sprint_Locomotion_BS",
+    "class": "BlendSpace"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/BlendSpaces/LowLOD_Walk_Locomotion_BS.LowLOD_Walk_Locomotion_BS",
+    "class": "BlendSpace"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/MDC_Crouch.MDC_Crouch",
+    "class": "PoseSearchSchema"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/MDC_Run.MDC_Run",
+    "class": "PoseSearchSchema"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/MDC_Sprint.MDC_Sprint",
+    "class": "PoseSearchSchema"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/MDC_Walk.MDC_Walk",
+    "class": "PoseSearchSchema"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/LowEnd_LocomotionMotionDatabase_CT.LowEnd_LocomotionMotionDatabase_CT",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/LowEnd_LocomotionMotionDatabase_CT.LowEnd_LocomotionMotionDatabase_CT:Crouch",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/LowEnd_LocomotionMotionDatabase_CT.LowEnd_LocomotionMotionDatabase_CT:Idle",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/LowEnd_LocomotionMotionDatabase_CT.LowEnd_LocomotionMotionDatabase_CT:Jog",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/LowEnd_LocomotionMotionDatabase_CT.LowEnd_LocomotionMotionDatabase_CT:LocomotionState",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/LowEnd_LocomotionMotionDatabase_CT.LowEnd_LocomotionMotionDatabase_CT:LocomotionState.Pivots",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/LowEnd_LocomotionMotionDatabase_CT.LowEnd_LocomotionMotionDatabase_CT:Run",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/LowEnd_LocomotionMotionDatabase_CT.LowEnd_LocomotionMotionDatabase_CT:Sprint",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/LowEnd_LocomotionMotionDatabase_CT.LowEnd_LocomotionMotionDatabase_CT:Walk",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Walk/Crouch_LowEnd_MD_NoWep_Walk_Loops.Crouch_LowEnd_MD_NoWep_Walk_Loops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Walk/Crouch_LowEnd_MD_NoWep_Walk_Pivots.Crouch_LowEnd_MD_NoWep_Walk_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Walk/Crouch_LowEnd_MD_NoWep_Walk_Starts.Crouch_LowEnd_MD_NoWep_Walk_Starts",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Walk/Crouch_LowEnd_MD_NoWep_Walk_Stops.Crouch_LowEnd_MD_NoWep_Walk_Stops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Walk/LowEnd_MD_NoWep_Walk_Loops.LowEnd_MD_NoWep_Walk_Loops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Walk/LowEnd_MD_NoWep_Walk_Pivots.LowEnd_MD_NoWep_Walk_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Walk/LowEnd_MD_NoWep_Walk_Starts.LowEnd_MD_NoWep_Walk_Starts",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Walk/LowEnd_MD_NoWep_Walk_Stops.LowEnd_MD_NoWep_Walk_Stops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Sprint/LowEnd_MD_NoWep_Sprint_Loops.LowEnd_MD_NoWep_Sprint_Loops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Run/LowEnd_MD_NoWep_Run_Loops_Male.LowEnd_MD_NoWep_Run_Loops_Male",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Run/LowEnd_MD_NoWep_Run_Starts_Male.LowEnd_MD_NoWep_Run_Starts_Male",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Jog/LowEnd_MD_NoWep_Jog_Loops.LowEnd_MD_NoWep_Jog_Loops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Jog/LowEnd_MD_NoWep_Jog_Pivots.LowEnd_MD_NoWep_Jog_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Jog/LowEnd_MD_NoWep_Jog_Starts.LowEnd_MD_NoWep_Jog_Starts",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Jog/LowEnd_MD_NoWep_Jog_Stops.LowEnd_MD_NoWep_Jog_Stops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Idle/Crouch_LowEnd_MD_NoWep_Idles.Crouch_LowEnd_MD_NoWep_Idles",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/LowEnd/Idle/LowEnd_MD_NoWep_Idles.LowEnd_MD_NoWep_Idles",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_LocomotionMotionDatabase_CT.HighEnd_LocomotionMotionDatabase_CT",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_LocomotionMotionDatabase_CT.HighEnd_LocomotionMotionDatabase_CT:CrouchState",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_LocomotionMotionDatabase_CT.HighEnd_LocomotionMotionDatabase_CT:DefaultState",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_LocomotionMotionDatabase_CT.HighEnd_LocomotionMotionDatabase_CT:DefaultState.Pivots",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_LocomotionMotionDatabase_CT.HighEnd_LocomotionMotionDatabase_CT:Idle",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_LocomotionMotionDatabase_CT.HighEnd_LocomotionMotionDatabase_CT:Jog",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_LocomotionMotionDatabase_CT.HighEnd_LocomotionMotionDatabase_CT:Run",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_LocomotionMotionDatabase_CT.HighEnd_LocomotionMotionDatabase_CT:SprintState",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_LocomotionMotionDatabase_CT.HighEnd_LocomotionMotionDatabase_CT:Walk",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Idles.HighEnd_MD_NoWep_Idles",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_Loops.HighEnd_MD_NoWep_Jog_Loops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_Loops_Strafe.HighEnd_MD_NoWep_Jog_Loops_Strafe",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_Loops_Strafe_Female.HighEnd_MD_NoWep_Jog_Loops_Strafe_Female",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_Pivots.HighEnd_MD_NoWep_Jog_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_Pivots_FC.HighEnd_MD_NoWep_Jog_Pivots_FC",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_RFF_Pivots.HighEnd_MD_NoWep_Jog_RFF_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_RFF_Pivots_FC.HighEnd_MD_NoWep_Jog_RFF_Pivots_FC",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_Starts.HighEnd_MD_NoWep_Jog_Starts",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_Starts_Female.HighEnd_MD_NoWep_Jog_Starts_Female",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_Stops.HighEnd_MD_NoWep_Jog_Stops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_To_Run_Female.HighEnd_MD_NoWep_Jog_To_Run_Female",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Jog_To_Run_Male.HighEnd_MD_NoWep_Jog_To_Run_Male",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Run_Loops_Female.HighEnd_MD_NoWep_Run_Loops_Female",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Run_Loops_Male.HighEnd_MD_NoWep_Run_Loops_Male",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Run_Pivots.HighEnd_MD_NoWep_Run_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Run_Starts_Female.HighEnd_MD_NoWep_Run_Starts_Female",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Run_Starts_Male.HighEnd_MD_NoWep_Run_Starts_Male",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Run_To_Jog_Female.HighEnd_MD_NoWep_Run_To_Jog_Female",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/HighEnd_MD_NoWep_Run_To_Jog_Male.HighEnd_MD_NoWep_Run_To_Jog_Male",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Walk/HighEnd_MD_NoWep_Walk_Loops.HighEnd_MD_NoWep_Walk_Loops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Walk/HighEnd_MD_NoWep_Walk_Pivots.HighEnd_MD_NoWep_Walk_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Walk/HighEnd_MD_NoWep_Walk_RFF_Pivots.HighEnd_MD_NoWep_Walk_RFF_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Walk/HighEnd_MD_NoWep_Walk_RFF_Starts.HighEnd_MD_NoWep_Walk_RFF_Starts",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Walk/HighEnd_MD_NoWep_Walk_Starts.HighEnd_MD_NoWep_Walk_Starts",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Walk/HighEnd_MD_NoWep_Walk_Stops.HighEnd_MD_NoWep_Walk_Stops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Sprint/HighEnd_MD_NoWep_Run_To_Sprint.HighEnd_MD_NoWep_Run_To_Sprint",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Sprint/HighEnd_MD_NoWep_Run_To_Sprint_Female.HighEnd_MD_NoWep_Run_To_Sprint_Female",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Sprint/HighEnd_MD_NoWep_Sprint_Loops.HighEnd_MD_NoWep_Sprint_Loops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Sprint/HighEnd_MD_NoWep_Sprint_Loops_Female.HighEnd_MD_NoWep_Sprint_Loops_Female",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Sprint/HighEnd_MD_NoWep_Sprint_Pivots.HighEnd_MD_NoWep_Sprint_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Crouch/Walk/HighEnd_MD_NoWep_Crouch_Walk_Loops.HighEnd_MD_NoWep_Crouch_Walk_Loops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Crouch/Walk/HighEnd_MD_NoWep_Crouch_Walk_Pivots.HighEnd_MD_NoWep_Crouch_Walk_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Crouch/Walk/HighEnd_MD_NoWep_Crouch_Walk_RFF_Pivots.HighEnd_MD_NoWep_Crouch_Walk_RFF_Pivots",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Crouch/Walk/HighEnd_MD_NoWep_Crouch_Walk_RFF_Starts.HighEnd_MD_NoWep_Crouch_Walk_RFF_Starts",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Crouch/Walk/HighEnd_MD_NoWep_Crouch_Walk_Starts.HighEnd_MD_NoWep_Crouch_Walk_Starts",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Crouch/Walk/HighEnd_MD_NoWep_Crouch_Walk_Stops.HighEnd_MD_NoWep_Crouch_Walk_Stops",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/MotionMatching/ChooserBasedSetup/HighEnd/Crouch/Idle/HighEnd_MD_NoWep_Crouch_Idles.HighEnd_MD_NoWep_Crouch_Idles",
+    "class": "PoseSearchDatabase"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/Locomotion_anims/MotionMatching/CT_Add_Leans.CT_Add_Leans",
+    "class": "ChooserTable"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/Locomotion_anims/MotionMatching/Walk/NoWep_Walk_N_Lean.NoWep_Walk_N_Lean",
+    "class": "BlendSpace"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/Locomotion_anims/MotionMatching/TacSprint/NoWep_TacSprint_N_Lean.NoWep_TacSprint_N_Lean",
+    "class": "BlendSpace"
+  },
+  {
+    "asset": "/LocomotionInitiative/Animation/Locomotion_anims/MotionMatching/Jog/NoWep_Jog_N_Lean.NoWep_Jog_N_Lean",
+    "class": "BlendSpace"
+  }
+]

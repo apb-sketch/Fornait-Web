@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "ChooserTable",
+    "Name": "PaperBlueprint_Additive_CT",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ChooserTable'",
+    "Package": "/Game/Animation/Game/MainPlayerFN/ChooserTables/_Default/PaperBlueprint/PaperBlueprint_Additive_CT",
+    "Properties": {
+      "CookedResults": [
+        {
+          "Asset": {
+            "ObjectName": "FortAnimationLayeringWeightsDataAsset'PaperBlueprint_Additive_DA'",
+            "ObjectPath": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/PaperBlueprint_Additive_DA.0"
+          }
+        },
+        {
+          "Asset": {
+            "ObjectName": "FortAnimationLayeringWeightsDataAsset'Crouch_PaperBlueprint_Additive_DA'",
+            "ObjectPath": "/Game/Animation/Game/MainPlayerFN/DataAssets/_Default/PaperBlueprint/Crouch_PaperBlueprint_Additive_DA.0"
+          }
+        }
+      ],
+      "ColumnsStructs": [
+        {
+          "InputValue": {
+            "Binding": {
+              "PropertyBindingChain": [
+                "bIsCrouching"
+              ],
+              "ContextIndex": 0,
+              "IsBoundToRoot": false
+            }
+          },
+          "RowValuesWithAny": [
+            "EBoolColumnCellValue::MatchFalse",
+            "EBoolColumnCellValue::MatchTrue"
+          ]
+        }
+      ],
+      "OutputObjectType": {
+        "ObjectName": "Class'FortAnimationLayeringWeightsDataAsset'",
+        "ObjectPath": "/Script/FortniteGame"
+      },
+      "ContextData": [
+        {
+          "Class": {
+            "ObjectName": "Class'FortPlayerProceduralLayeringAnimInstance'",
+            "ObjectPath": "/Script/FortniteGame"
+          },
+          "Direction": "EContextObjectDirection::ReadWrite"
+        }
+      ]
+    }
+  }
+]

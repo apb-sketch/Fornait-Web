@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/engine",
+  "entries": [
+    {
+      "file": "scene.ts",
+      "bytes": 3245,
+      "sha256": "7fbfda087ad972b52d288a7f728d888cf1de86cb43882433e4fbdd44d01ee173",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "viewer camera spawn",
+        "far clip",
+        "clear color",
+        "asset assembly"
+      ]
+    }
+  ],
+  "childManifests": [],
+  "note": "Existing PlayCanvas viewer retained at the user’s request. Movement, camera position and browser mouse conversion listed here are viewer behavior and are not certified game values."
+}

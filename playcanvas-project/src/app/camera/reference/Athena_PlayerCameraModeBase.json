@@ -1,0 +1,193 @@
+[
+  {
+    "Class": "BlueprintGeneratedClass'/Game/Blueprints/Camera/Athena/Athena_PlayerCameraModeBase.Athena_PlayerCameraModeBase_C'",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Name": "Default__Athena_PlayerCameraModeBase_C",
+    "Package": "/Game/Blueprints/Camera/Athena/Athena_PlayerCameraModeBase",
+    "Properties": {
+      "CameraOriginInterpSpeed": {
+        "X": 12.0,
+        "Y": 100000000000.0,
+        "Z": 60.0
+      },
+      "CameraSpaceForwardDistance": -280.0,
+      "CameraSpaceViewOffset": {
+        "SamplePoints": [
+          {
+            "LargeBodyTypeAddtnlOffset": {
+              "X": 0.0,
+              "Y": 6.0,
+              "Z": 0.0
+            },
+            "PitchAngle": 0.0,
+            "ViewOffset": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            }
+          },
+          {
+            "LargeBodyTypeAddtnlOffset": {
+              "X": 0.0,
+              "Y": 6.0,
+              "Z": 0.0
+            },
+            "PitchAngle": 90.0,
+            "ViewOffset": {
+              "X": -10.0,
+              "Y": 0.0,
+              "Z": 25.0
+            }
+          },
+          {
+            "LargeBodyTypeAddtnlOffset": {
+              "X": 0.0,
+              "Y": 6.0,
+              "Z": 0.0
+            },
+            "PitchAngle": -90.0,
+            "ViewOffset": {
+              "X": 10.0,
+              "Y": 0.0,
+              "Z": 25.0
+            }
+          }
+        ]
+      },
+      "CollisionPushOutDistance": 0.2,
+      "FOV": 80.0,
+      "PenetrationAvoidanceFeelers": [
+        {
+          "AdjustmentRot": {
+            "Pitch": 0.0,
+            "Roll": 0.0,
+            "Yaw": 0.0
+          },
+          "Extent": 8.0,
+          "FramesUntilNextTrace": 0,
+          "PawnWeight": 0.5,
+          "TraceInterval": 0,
+          "WorldWeight": 0.5
+        },
+        {
+          "AdjustmentRot": {
+            "Pitch": 0.0,
+            "Roll": 0.0,
+            "Yaw": 1.0
+          },
+          "Extent": 0.0,
+          "FramesUntilNextTrace": 0,
+          "PawnWeight": 0.4,
+          "TraceInterval": 3,
+          "WorldWeight": 0.4
+        },
+        {
+          "AdjustmentRot": {
+            "Pitch": 0.0,
+            "Roll": 0.0,
+            "Yaw": -1.0
+          },
+          "Extent": 0.0,
+          "FramesUntilNextTrace": 0,
+          "PawnWeight": 0.4,
+          "TraceInterval": 3,
+          "WorldWeight": 0.4
+        },
+        {
+          "AdjustmentRot": {
+            "Pitch": 1.0,
+            "Roll": 0.0,
+            "Yaw": 0.0
+          },
+          "Extent": 0.0,
+          "FramesUntilNextTrace": 0,
+          "PawnWeight": 0.4,
+          "TraceInterval": 4,
+          "WorldWeight": 0.4
+        },
+        {
+          "AdjustmentRot": {
+            "Pitch": -1.0,
+            "Roll": 0.0,
+            "Yaw": 0.0
+          },
+          "Extent": 0.0,
+          "FramesUntilNextTrace": 0,
+          "PawnWeight": 0.4,
+          "TraceInterval": 4,
+          "WorldWeight": 0.4
+        }
+      ],
+      "TransitionOutTime": 0.45,
+      "TransitionParams": {
+        "BlendFunction": "EViewTargetBlendFunction::VTBlend_EaseInOut"
+      },
+      "TransitionTime": 0.45,
+      "ViewTargetSpaceViewOffset": {
+        "SamplePoints": [
+          {
+            "LargeBodyTypeAddtnlOffset": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "PitchAngle": 0.0,
+            "ViewOffset": {
+              "X": 0.0,
+              "Y": 45.0,
+              "Z": 75.0
+            }
+          }
+        ]
+      },
+      "ViewTargetSpaceViewOffsetInterpSpeed": {
+        "X": 10.0,
+        "Y": 10.0,
+        "Z": 10.0
+      },
+      "ViewTargetSpaceViewOffset_Crouch": {
+        "SamplePoints": [
+          {
+            "LargeBodyTypeAddtnlOffset": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "PitchAngle": 0.0,
+            "ViewOffset": {
+              "X": 0.0,
+              "Y": 45.0,
+              "Z": 40.0
+            }
+          }
+        ]
+      }
+    },
+    "Type": "Athena_PlayerCameraModeBase_C"
+  },
+  {
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "ClassConfigName": "Engine",
+    "ClassDefaultObject": {
+      "ObjectName": "Athena_PlayerCameraModeBase_C'Default__Athena_PlayerCameraModeBase_C'",
+      "ObjectPath": "/Game/Blueprints/Camera/Athena/Athena_PlayerCameraModeBase.0"
+    },
+    "ClassFlags": "CLASS_DefaultConfig | CLASS_Config | CLASS_CompiledFromBlueprint | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    },
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Name": "Athena_PlayerCameraModeBase_C",
+    "Package": "/Game/Blueprints/Camera/Athena/Athena_PlayerCameraModeBase",
+    "SuperStruct": {
+      "ObjectName": "Class'FortCameraMode_ThirdPerson'",
+      "ObjectPath": "/Script/FortniteGame"
+    },
+    "Type": "BlueprintGeneratedClass",
+    "bCooked": true
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/HUD",
+  "entries": [
+    {
+      "file": "fps.ts",
+      "bytes": 939,
+      "sha256": "7d81a1a16699032f05ee32ad88f33da6e184fdca17ccefd9110268254e3064ad",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "refresh interval",
+        "frame count"
+      ]
+    },
+    {
+      "file": "settings.ts",
+      "bytes": 3817,
+      "sha256": "33b589a4dfee65c5efc4ef062d74a7fe7e5b668617d598b49448ccc6e43191ec",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "Esc",
+        "Free camera",
+        "Player POV",
+        "Baile",
+        "Caderas fiesteras"
+      ]
+    }
+  ],
+  "childManifests": [],
+  "note": "Existing viewer settings menu and FPS counter retained at the user’s request."
+}

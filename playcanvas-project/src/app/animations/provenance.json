@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/animations",
+  "entries": [
+    {
+      "file": "character-animation.ts",
+      "bytes": 2579,
+      "sha256": "9daab4a5e5f3598c6fb125b8b098f2d61652aa97edc79fe041b6bd8e616dadf9",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "transition durations",
+        "P binding",
+        "one-shot dance",
+        "locomotion interruption"
+      ]
+    }
+  ],
+  "childManifests": [
+    "emotes/provenance.json",
+    "movement/provenance.json",
+    "reference/provenance.json",
+    "sprays/provenance.json"
+  ]
+}

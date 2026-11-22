@@ -1,0 +1,585 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/animations/movement",
+  "entries": [
+    {
+      "file": "E.glb",
+      "bytes": 208696,
+      "sha256": "d5c5b7f59d204f522e7c6eaa35b7ceea5074f67fbce49034c8883bc3bc24a2e5",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_E_Core.uasset",
+          "kind": "paquete",
+          "dumpLine": 24025,
+          "dumpByteOffset": 826972365,
+          "dumpRowBytes": 2070,
+          "dumpRowSha256": "63b3ac0821e7eac7486da792da226299d109f421dcfd662a45eb5878f5fb0606",
+          "objectFields": [
+            {
+              "name": "M_Jog_NoWep_E_Core",
+              "type": "AnimSequence",
+              "package": "/Game/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_E_Core",
+              "exportFields": [
+                "Class",
+                "CompressedCurveNames",
+                "CompressedDataStructure",
+                "CompressedRawDataSize",
+                "CompressedTrackToSkeletonMapTable",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "SkeletonGuid",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "AuthoredSyncMarkers",
+                "BoneCompressionSettings",
+                "CurveCompressionSettings",
+                "RetargetSource",
+                "SequenceLength",
+                "Skeleton",
+                "VariableFrameStrippingSettings"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Animation\\Game\\MainPlayer\\Locomotion\\Medium\\Male\\Jog\\NoWeapon\\M_Jog_NoWep_E_Core.ueanim",
+          "bytes": 14651,
+          "sha256": "47e7a6c1bd53605ae69cf956613f4fa632a64f604545982ee50fb31e1931f1f7",
+          "bytesMatchLocalFile": false
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\E.glb",
+          "bytes": 208696,
+          "sha256": "d5c5b7f59d204f522e7c6eaa35b7ceea5074f67fbce49034c8883bc3bc24a2e5",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [],
+        "animations": [
+          "M_Jog_NoWep_E_Core_0"
+        ],
+        "materials": []
+      }
+    },
+    {
+      "file": "N.glb",
+      "bytes": 208696,
+      "sha256": "4b9e33958e7f16c93daf6025026f5d226922092911d29eaef1d15e02dd8adc0e",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_N_Core.uasset",
+          "kind": "paquete",
+          "dumpLine": 24032,
+          "dumpByteOffset": 826993246,
+          "dumpRowBytes": 2070,
+          "dumpRowSha256": "c2c8ab725dc7893dc42a979d99f9785824f8dc74d67f9bd12e16f97eefe737d8",
+          "objectFields": [
+            {
+              "name": "M_Jog_NoWep_N_Core",
+              "type": "AnimSequence",
+              "package": "/Game/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_N_Core",
+              "exportFields": [
+                "Class",
+                "CompressedCurveNames",
+                "CompressedDataStructure",
+                "CompressedRawDataSize",
+                "CompressedTrackToSkeletonMapTable",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "SkeletonGuid",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "AuthoredSyncMarkers",
+                "BoneCompressionSettings",
+                "CurveCompressionSettings",
+                "RetargetSource",
+                "SequenceLength",
+                "Skeleton",
+                "VariableFrameStrippingSettings"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Animation\\Game\\MainPlayer\\Locomotion\\Medium\\Male\\Jog\\NoWeapon\\M_Jog_NoWep_N_Core.ueanim",
+          "bytes": 14443,
+          "sha256": "827248d6ca87b7775af7d75aa62dd7ca7ad10180b98d0bbcf3e4761895ef844f",
+          "bytesMatchLocalFile": false
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\N.glb",
+          "bytes": 208696,
+          "sha256": "4b9e33958e7f16c93daf6025026f5d226922092911d29eaef1d15e02dd8adc0e",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [],
+        "animations": [
+          "M_Jog_NoWep_N_Core_0"
+        ],
+        "materials": []
+      }
+    },
+    {
+      "file": "NE.glb",
+      "bytes": 208696,
+      "sha256": "e58343efc23f94c6acea5074a459c29ae5846b89006612c882fc5b29285649c1",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_NE_Core.uasset",
+          "kind": "paquete",
+          "dumpLine": 24029,
+          "dumpByteOffset": 826986171,
+          "dumpRowBytes": 2073,
+          "dumpRowSha256": "bf02360b3903fb27ad362d41ebbf104ad57e2679cdfd08e4705280496ca13dca",
+          "objectFields": [
+            {
+              "name": "M_Jog_NoWep_NE_Core",
+              "type": "AnimSequence",
+              "package": "/Game/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_NE_Core",
+              "exportFields": [
+                "Class",
+                "CompressedCurveNames",
+                "CompressedDataStructure",
+                "CompressedRawDataSize",
+                "CompressedTrackToSkeletonMapTable",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "SkeletonGuid",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "AuthoredSyncMarkers",
+                "BoneCompressionSettings",
+                "CurveCompressionSettings",
+                "RetargetSource",
+                "SequenceLength",
+                "Skeleton",
+                "VariableFrameStrippingSettings"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Animation\\Game\\MainPlayer\\Locomotion\\Medium\\Male\\Jog\\NoWeapon\\M_Jog_NoWep_NE_Core.ueanim",
+          "bytes": 14565,
+          "sha256": "f2d3b231a1bc88b5ccd7af813d0b336671c7ab66962c88edfda58d42958e86dd",
+          "bytesMatchLocalFile": false
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\NE.glb",
+          "bytes": 208696,
+          "sha256": "e58343efc23f94c6acea5074a459c29ae5846b89006612c882fc5b29285649c1",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [],
+        "animations": [
+          "M_Jog_NoWep_NE_Core_0"
+        ],
+        "materials": []
+      }
+    },
+    {
+      "file": "NW.glb",
+      "bytes": 208696,
+      "sha256": "5bf2a62296edc37578e7db066ba81d4f901bc103a35318d45c59a1163fcf0ba6",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_NW_Core.uasset",
+          "kind": "paquete",
+          "dumpLine": 24031,
+          "dumpByteOffset": 826991173,
+          "dumpRowBytes": 2073,
+          "dumpRowSha256": "83b618b2351fbc99b762050edc19adbb5c298a4786a1eaec38c7f55d1cafa99d",
+          "objectFields": [
+            {
+              "name": "M_Jog_NoWep_NW_Core",
+              "type": "AnimSequence",
+              "package": "/Game/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_NW_Core",
+              "exportFields": [
+                "Class",
+                "CompressedCurveNames",
+                "CompressedDataStructure",
+                "CompressedRawDataSize",
+                "CompressedTrackToSkeletonMapTable",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "SkeletonGuid",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "AuthoredSyncMarkers",
+                "BoneCompressionSettings",
+                "CurveCompressionSettings",
+                "RetargetSource",
+                "SequenceLength",
+                "Skeleton",
+                "VariableFrameStrippingSettings"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Animation\\Game\\MainPlayer\\Locomotion\\Medium\\Male\\Jog\\NoWeapon\\M_Jog_NoWep_NW_Core.ueanim",
+          "bytes": 14502,
+          "sha256": "cb8e21da53717363a2246a67b15115e9cdab39d56b073efec13900a8b73cb81f",
+          "bytesMatchLocalFile": false
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\NW.glb",
+          "bytes": 208696,
+          "sha256": "5bf2a62296edc37578e7db066ba81d4f901bc103a35318d45c59a1163fcf0ba6",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [],
+        "animations": [
+          "M_Jog_NoWep_NW_Core_0"
+        ],
+        "materials": []
+      }
+    },
+    {
+      "file": "S.glb",
+      "bytes": 208696,
+      "sha256": "bcd6a74a610261ff162466bcd874cafd9b6b0805d3f7805b71b9914ad9a36d38",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_S_Core.uasset",
+          "kind": "paquete",
+          "dumpLine": 24040,
+          "dumpByteOffset": 827019946,
+          "dumpRowBytes": 2070,
+          "dumpRowSha256": "bdced800b4afc2ee6c79c79c9897d9b781aac778a7fa9642f6479114279b91a8",
+          "objectFields": [
+            {
+              "name": "M_Jog_NoWep_S_Core",
+              "type": "AnimSequence",
+              "package": "/Game/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_S_Core",
+              "exportFields": [
+                "Class",
+                "CompressedCurveNames",
+                "CompressedDataStructure",
+                "CompressedRawDataSize",
+                "CompressedTrackToSkeletonMapTable",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "SkeletonGuid",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "AuthoredSyncMarkers",
+                "BoneCompressionSettings",
+                "CurveCompressionSettings",
+                "RetargetSource",
+                "SequenceLength",
+                "Skeleton",
+                "VariableFrameStrippingSettings"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Animation\\Game\\MainPlayer\\Locomotion\\Medium\\Male\\Jog\\NoWeapon\\M_Jog_NoWep_S_Core.ueanim",
+          "bytes": 14343,
+          "sha256": "4ef2ec3d276defdb65f0dd8b5b67e0c4e0f0685ba7b2fa68bb328bc795914afc",
+          "bytesMatchLocalFile": false
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\S.glb",
+          "bytes": 208696,
+          "sha256": "bcd6a74a610261ff162466bcd874cafd9b6b0805d3f7805b71b9914ad9a36d38",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [],
+        "animations": [
+          "M_Jog_NoWep_S_Core_0"
+        ],
+        "materials": []
+      }
+    },
+    {
+      "file": "SE.glb",
+      "bytes": 208696,
+      "sha256": "21f38f58719df9cec0c9aec6579b961261a1f221115073c8b7e0a045d9f11e97",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_SE_Core.uasset",
+          "kind": "paquete",
+          "dumpLine": 24037,
+          "dumpByteOffset": 827012871,
+          "dumpRowBytes": 2073,
+          "dumpRowSha256": "6f4e350a063478b762a3d08679c8960535b99092a204280570ca628d8a25144b",
+          "objectFields": [
+            {
+              "name": "M_Jog_NoWep_SE_Core",
+              "type": "AnimSequence",
+              "package": "/Game/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_SE_Core",
+              "exportFields": [
+                "Class",
+                "CompressedCurveNames",
+                "CompressedDataStructure",
+                "CompressedRawDataSize",
+                "CompressedTrackToSkeletonMapTable",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "SkeletonGuid",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "AuthoredSyncMarkers",
+                "BoneCompressionSettings",
+                "CurveCompressionSettings",
+                "RetargetSource",
+                "SequenceLength",
+                "Skeleton",
+                "VariableFrameStrippingSettings"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Animation\\Game\\MainPlayer\\Locomotion\\Medium\\Male\\Jog\\NoWeapon\\M_Jog_NoWep_SE_Core.ueanim",
+          "bytes": 14320,
+          "sha256": "8f445901d73d6f91283d5a6463c3ee4b09d15e540e5ce4de0648b3d575d0fc4a",
+          "bytesMatchLocalFile": false
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\SE.glb",
+          "bytes": 208696,
+          "sha256": "21f38f58719df9cec0c9aec6579b961261a1f221115073c8b7e0a045d9f11e97",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [],
+        "animations": [
+          "M_Jog_NoWep_SE_Core_0"
+        ],
+        "materials": []
+      }
+    },
+    {
+      "file": "SW.glb",
+      "bytes": 208696,
+      "sha256": "b7d45f946bc595acc399e8bbfab53be1897ede74a7e098a7ddf4012f7f90a0a2",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_SW_Core.uasset",
+          "kind": "paquete",
+          "dumpLine": 24039,
+          "dumpByteOffset": 827017873,
+          "dumpRowBytes": 2073,
+          "dumpRowSha256": "4704defe6ae61792243d0f4b1da6530307bae6aa738f2e0d34d27aa1ad7db495",
+          "objectFields": [
+            {
+              "name": "M_Jog_NoWep_SW_Core",
+              "type": "AnimSequence",
+              "package": "/Game/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_SW_Core",
+              "exportFields": [
+                "Class",
+                "CompressedCurveNames",
+                "CompressedDataStructure",
+                "CompressedRawDataSize",
+                "CompressedTrackToSkeletonMapTable",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "SkeletonGuid",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "AuthoredSyncMarkers",
+                "BoneCompressionSettings",
+                "CurveCompressionSettings",
+                "RetargetSource",
+                "SequenceLength",
+                "Skeleton",
+                "VariableFrameStrippingSettings"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Animation\\Game\\MainPlayer\\Locomotion\\Medium\\Male\\Jog\\NoWeapon\\M_Jog_NoWep_SW_Core.ueanim",
+          "bytes": 14326,
+          "sha256": "a2904fcc62c85563197455e78380d8343dab9aebc0dd7f3f207d051f9326d57d",
+          "bytesMatchLocalFile": false
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\SW.glb",
+          "bytes": 208696,
+          "sha256": "b7d45f946bc595acc399e8bbfab53be1897ede74a7e098a7ddf4012f7f90a0a2",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [],
+        "animations": [
+          "M_Jog_NoWep_SW_Core_0"
+        ],
+        "materials": []
+      }
+    },
+    {
+      "file": "W.glb",
+      "bytes": 208696,
+      "sha256": "09e78253a2a813bad6b5dc9a7152aa909ec63011b1c940bc71d1b27ce191b77e",
+      "status": "existing_derivative_with_package_candidate",
+      "recordCandidates": [
+        {
+          "archivePath": "FortniteGame/Content/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_W_Core.uasset",
+          "kind": "paquete",
+          "dumpLine": 24043,
+          "dumpByteOffset": 827030822,
+          "dumpRowBytes": 2070,
+          "dumpRowSha256": "afb4492021141fd3cdace921f862cf5a424b2acc2a09dd2350e049948a204636",
+          "objectFields": [
+            {
+              "name": "M_Jog_NoWep_W_Core",
+              "type": "AnimSequence",
+              "package": "/Game/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jog/NoWeapon/M_Jog_NoWep_W_Core",
+              "exportFields": [
+                "Class",
+                "CompressedCurveNames",
+                "CompressedDataStructure",
+                "CompressedRawDataSize",
+                "CompressedTrackToSkeletonMapTable",
+                "Flags",
+                "Name",
+                "Package",
+                "Properties",
+                "SkeletonGuid",
+                "Type"
+              ],
+              "propertyNames": [
+                "AssetUserData",
+                "AuthoredSyncMarkers",
+                "BoneCompressionSettings",
+                "CurveCompressionSettings",
+                "RetargetSource",
+                "SequenceLength",
+                "Skeleton",
+                "VariableFrameStrippingSettings"
+              ]
+            }
+          ]
+        }
+      ],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\fortnite port\\Game\\Animation\\Game\\MainPlayer\\Locomotion\\Medium\\Male\\Jog\\NoWeapon\\M_Jog_NoWep_W_Core.ueanim",
+          "bytes": 14696,
+          "sha256": "7d22d3564f3a99dfe0c294ff7bae7c13a9817cb414ce6ea41897514796d92e17",
+          "bytesMatchLocalFile": false
+        },
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\W.glb",
+          "bytes": 208696,
+          "sha256": "09e78253a2a813bad6b5dc9a7152aa909ec63011b1c940bc71d1b27ce191b77e",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [],
+        "animations": [
+          "M_Jog_NoWep_W_Core_0"
+        ],
+        "materials": []
+      }
+    },
+    {
+      "file": "idle.glb",
+      "bytes": 208692,
+      "sha256": "06b10eaeb8007c932958e518a6d9f061a7f14a64e008513ef094493eba189027",
+      "status": "existing_derivative_no_package_match",
+      "recordCandidates": [],
+      "matchesThreeJsBytes": [],
+      "existingIntermediateExports": [
+        {
+          "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-21\\anal\\work\\web-export\\idle.glb",
+          "bytes": 208692,
+          "sha256": "06b10eaeb8007c932958e518a6d9f061a7f14a64e008513ef094493eba189027",
+          "bytesMatchLocalFile": true
+        }
+      ],
+      "localGlbContents": {
+        "meshes": [],
+        "animations": [
+          "Idle_Reference_0"
+        ],
+        "materials": []
+      }
+    },
+    {
+      "file": "movement.ts",
+      "bytes": 483,
+      "sha256": "1ffdb781479f7874bba8f16f8d1ea20f724c53abf9fafc0fe60fc0ab3d352e75",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "MOVEMENT_CLIP_INDEX",
+        "WASD direction mapping"
+      ]
+    }
+  ],
+  "childManifests": [],
+  "note": "The previous Unreal import remapped joints, retained target limb translations and applied source pelvis motion. Idle was generated in the local Unreal project. These GLBs are derived, not original animation packages."
+}

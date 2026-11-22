@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "folder": "src/app/entorno",
+  "entries": [
+    {
+      "file": "entorno.ts",
+      "bytes": 373,
+      "sha256": "7d2ddae3947fe93ddd5f2df3f984cb643aba1dc4a87ae873fa089a33fd2598f9",
+      "status": "local_project_or_tooling",
+      "parameters": [
+        "lighting and shadow wiring"
+      ]
+    }
+  ],
+  "childManifests": [
+    "lighting/provenance.json",
+    "map/provenance.json",
+    "shadows/provenance.json"
+  ],
+  "note": "Ambient light remains local. The directional shadow setup uses settings from the local Three.js prototype."
+}
